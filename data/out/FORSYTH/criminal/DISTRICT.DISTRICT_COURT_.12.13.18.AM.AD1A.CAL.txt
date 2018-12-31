@@ -1,0 +1,406 @@
+
+  RUN DATE: 12/13/18                                                        PAGE   1
+                             IN THE GENERAL COURT OF JUSTICE
+  LOCATION: WINSTON-SALEM        DISTRICT COURT DIVISION       COUNTY OF FORSYTH
+
+          COURT DATE: 12/13/18        TIME: 09:00 AM        COURTROOM NUMBER: AD1A
+
+                  TRAFFIC ADD ON
+
+                     JUDGE PRESIDING :
+                     COURTROOM CLERK :
+                     PROSECUTOR      :
+                                     :
+                                     :
+                                     :
+                                     :
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+     1  13CR 706058 ALLEN,KEYONNA,DENISE  YATES,P,M      WPD
+        (T)DWLR                             PLEA:                VER:       5F24190
+        CLS:1  P:   L:                  JUDGMENT:                           ADA: JRO
+
+
+     2  14CR 726614 ALLEN,KEYONNA,DENISE  CAFFEY,J,D     WPD
+        (T)OPERATE VEH NO INS               PLEA:                VER:       678F597
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: JRO
+
+
+        (I)FAIL CARRY REGISTRATION CARD     PLEA:                VER:       678F597
+                                        JUDGMENT:
+
+
+     3  14CR 726615 ALLEN,KEYONNA,DENISE  CAFFEY,J,D     WPD
+        (T)CANCL/REVOK/SUSP CERTIF/TAG      PLEA:                VER:       678F598
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: JRO
+
+
+     4  17CR 714512 ALLEN,KEYONNA,DENISE  SHEETS,J,A     WPD                        1
+        (I)FAIL TO WEAR SEAT BELT-DRIVER    PLEA:                VER:       G965769
+                                        JUDGMENT:                           ADA: JRO
+
+
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       G965769
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+     5  18CR 719766 ALLEN,KEYONNA,DENISE  LAUER,T,R      WPD
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       69G7297
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+     6  18CR 730691 ALLEN,KEYONNA,DENISE  PARKER,M,A     WPD
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       434G667
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+     7  13IF 716786 ALLEN,KEYONNA,DENISE  WACHTER,N,R    WPD
+        (I)SPEEDING                044/35   PLEA:                VER:       70F1682
+                                        JUDGMENT:                           ADA: JRO
+1                             DISTRICT COURT CALENDAR                    PAGE:    2
+
+          COURT DATE: 12/13/18        TIME: 09:00 AM        COURTROOM NUMBER: AD1A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+     8  14IF 711530 ALLEN,KEYONNA,DENISE  WOOTEN,T       WPD
+        (I)SPEEDING                040/25   PLEA:                VER:       467F996
+                                        JUDGMENT:                           ADA: JRO
+
+
+     9  14IF 718562 ALLEN,KEYONNA,DENISE  BOLES,A,J      WPD
+        (I)POSS OPN CNT/CONS ALC PSG AREA   PLEA:                VER:       845F112
+                                        JUDGMENT:                           ADA: JRO
+
+
+    10  18CR 707752 ALMOMANI,MOHAMMAD,AHM SEAGLE,J,L     SHP ATTY:FRADIN,MICHAEL    1
+        (M)MOTION APPROPRIATE RELIEF        PLEA:                VER:       42G2121
+        CLS:   P:   L:                  JUDGMENT:                           ADA: BAL
+
+
+    11  18IF 706448 BARBER,COLT,LEWIS     EGAN,D         WPD
+        (I)EXPIRED/NO INSPECTION            PLEA:                VER:       67G9118
+                                        JUDGMENT:
+
+
+    12  18CR 058059 CASEY,DONNY,RAY       COPPOLA,D      WPD
+                    BOND:             WPA
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C3991112
+                                        JUDGMENT:
+
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       C3991112
+                                        JUDGMENT:
+
+
+    13  18CR 060900 EXIGA,MARIA,GLORIA    JOHNSON,S      KPD
+                    BOND:             CUS
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4017768
+                                        JUDGMENT:
+
+
+        (I)UNSAFE MOVEMENT                  PLEA:                VER:       C4017768
+                                        JUDGMENT:
+
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       C4017768
+                                        JUDGMENT:
+
+
+        (M)MOTION DRIV PRIV                 PLEA:                VER:       C4017768
+        CLS:   P:   L:                  JUDGMENT:
+
+
+    14  17CR 710015 GALLOWAY,JUAN,BRUCE   WILSON,J,L     WPD
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       G784310
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: JRO
+1                             DISTRICT COURT CALENDAR                    PAGE:    3
+
+          COURT DATE: 12/13/18        TIME: 09:00 AM        COURTROOM NUMBER: AD1A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (I)EXPIRED/NO INSPECTION            PLEA:                VER:       G784310
+                                        JUDGMENT:
+
+
+    15  17CR 710016 GALLOWAY,JUAN,BRUCE   WILSON,J,L     WPD
+        (T)CANCL/REVOK/SUSP CERTIF/TAG      PLEA:                VER:       G784311
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: JRO
+
+
+        (T)OPERATE VEH NO INS               PLEA:                VER:       G784311
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    16  18CR 053758 GUTIERREZ,NOEL        INMAN,A        SHP ATTY:WILSON,JIM,B      1
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:             WPA
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       6892066
+                                        JUDGMENT:                           ADA: JCG
+
+
+        (M)MOTION-DRIVING PRIVL             PLEA:                VER:       6892066
+        CLS:   P:   L:                  JUDGMENT:
+
+
+    17  18CR 060848 HERMANSEN,BRYN,ALEXAN JOHNSON,S      KPD
+                    BOND:             CUS
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4017767
+                                        JUDGMENT:
+
+
+        (I)FAIL STOP AT APPROPRIATE SPOT    PLEA:                VER:       C4017767
+                                        JUDGMENT:
+
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       C4017767
+                                        JUDGMENT:
+
+
+        (M)MOTION DRIV PRIV                 PLEA:                VER:       C4017767
+        CLS:   P:   L:                  JUDGMENT:
+
+
+    18  18CR 709263 KANAN,MOHAMAD,HASAN   CARTER,J,C     WPD ATTY:WAIVED
+        (M)MOTION-DRIV.PRIV                 PLEA:                VER:       48G6529
+        CLS:   P:   L:                  JUDGMENT:                           ADA: JNM
+
+
+    19  17CR 732322 MILLS,ALTON,RAESHARD  EASON,A,S      SFF ATTY:WAIVED            2
+        (M)MOTION TO STRIKE FTA             PLEA:                VER:       7G12524
+        CLS:   P:   L:                  JUDGMENT:                           ADA: JRO
+1                             DISTRICT COURT CALENDAR                    PAGE:    4
+
+          COURT DATE: 12/13/18        TIME: 09:00 AM        COURTROOM NUMBER: AD1A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    20  18CR 731256 OLVERA-CASTRO,ERICK   BROWN,M,E      SHP
+        (T)SPEEDING                076/60   PLEA:                VER:       466G605
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)NO OPERATORS LICENSE             PLEA:                VER:       466G605
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)MOTION OFA RECALL                PLEA:                VER:       466G605
+        CLS:   P:   L:                  JUDGMENT:
+
+
+    21  18CR 002684 PEOPLES,ANTONIO,DANTE MILLER,APRIL,D DCC
+        (M)MISD PROB VIOL OUT OF COUNTY     PLEA:                VER:
+                                        JUDGMENT:
+
+
+        (M)MOTION OFA RECALL                PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+    22  18CR 722535 RICE,BRENTON,JARVAYE  WALSH,D,W      WPD
+                                           OFA: Y
+        (T)FAIL TO REPORT ACCIDENT          PLEA:                VER:       87G4336
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+        (M)MOTION OFA RECALL                PLEA:                VER:       87G4336
+        CLS:   P:   L:                  JUDGMENT:
+
+
+    23  17CR 737609 ROBERTS,LARRY,DELANO  MCGUIRE,D,E    WPD
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       9G94563
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    24  18CR 711743 ROBERTS,LARRY,DELANO  JAMERSON,B,M   WPD
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       56G2528
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    25  18CR 720242 ROBERTS,LARRY,DELANO  PERKINSON,J,A  WPD
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       89G8983
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    26  18CR 725286 ROBERTS,LARRY,DELANO  FERELL,N,C     WPD
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       69G8510
+        CLS:3  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    5
+
+          COURT DATE: 12/13/18        TIME: 09:00 AM        COURTROOM NUMBER: AD1A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (I)EXPIRED/NO INSPECTION            PLEA:                VER:       69G8510
+                                        JUDGMENT:
+
+
+    27  18CR 725287 ROBERTS,LARRY,DELANO  FERELL,N,C     WPD
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       69G8511
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    28  18CR 727135 ROBERTS,LARRY,DELANO  PALMER,T       WPD
+        (T)NO OPERATORS LICENSE             PLEA:                VER:       248G457
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    29  18CR 730013 ROBERTS,LARRY,DELANO  ROCHELLE,M,D   WPD
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       383G591
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       383G591
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    30  17CR 732133 TEEGARDEN,CHRISTOPHER PHILLIPS,J,R   SHP P.D.:PARKER,KELLY,EL
+        (T)SPEEDING                090/65   PLEA:                VER:       8G11197
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: JNM
+
+
+        (T)GIVE/LEND/BORROW LIC PLATE       PLEA:                VER:       8G11197
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)VIOLATION OF COURT ORDER         PLEA:                VER:       8G11197
+                                        JUDGMENT:
+
+
+        (M)MOTION TO RECALL                 PLEA:                VER:       8G11197
+        CLS:   P:   L:                  JUDGMENT:
+
+
+    31  18CR 726347 TOVAR,EDWARD,OMAR     BAITY,J,W      SHP
+        (I)EXPIRED/NO INSPECTION            PLEA:                VER:       59G6779
+                                        JUDGMENT:
+
+
+        (T)DWLR IMPAIRED REV                PLEA:                VER:       59G6779
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    32  18CR 726348 TOVAR,EDWARD,OMAR     BAITY,J,W      SHP
+        (T)NO LIABILITY INSURANCE           PLEA:                VER:       59G6780
+        CLS:2  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    6
+
+          COURT DATE: 12/13/18        TIME: 09:00 AM        COURTROOM NUMBER: AD1A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (T)DRIVE/ALLOW MV NO REGISTRATION   PLEA:                VER:       59G6780
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    33  18CR 724303 TURNER,TYLER,JAMES    HERNANDEZ-LOPE WPD                        2
+        (I)FAIL MAINTAIN LANE CONTROL       PLEA:                VER:       003G147
+                                        JUDGMENT:
+
+
+        (M)CONSUME ALC BY 19/20             PLEA:                VER:       003G147
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    34  18CR 713528 WARDLOW,ANTONIO,WILLI BYRD,C,G       SHP                        1
+                    BOND:             WPA
+        (I)DRIVE WITHOUT TWO HEADLAMPS      PLEA:                VER:       67G3609
+                                        JUDGMENT:
+
+
+        (T)OPEN CONT AFTER CONS ALC 1ST     PLEA:                VER:       67G3609
+        CLS:3  P:   L:                  JUDGMENT:
+1 RUN DATE: 12/13/18                                                        PAGE   1
+                             IN THE GENERAL COURT OF JUSTICE
+  LOCATION: WINSTON-SALEM        DISTRICT COURT DIVISION       COUNTY OF FORSYTH
+
+          COURT DATE: 12/13/18        TIME: 09:00 AM        COURTROOM NUMBER: AD1A
+
+                  TRAFFIC ADD ON
+
+                     JUDGE PRESIDING :
+                     COURTROOM CLERK :
+                     PROSECUTOR      :
+                                     :
+                                     :
+                                     :
+                                     :
+
+  NO. DEFENDANT NAME          OFFENSE                        COMPLAINANT FILE NUMBER
+  *************************************************************************************
+       1 ALLEN,KEYONNA,DENISE   DWLR                           YATES,P,M   13CR 706058
+       2 ALLEN,KEYONNA,DENISE   OPERATE VEH NO INS             CAFFEY,J,D  14CR 726614
+                                FAIL CARRY REGISTRATION CARD   CAFFEY,J,D  14CR 726614
+       3 ALLEN,KEYONNA,DENISE   CANCL/REVOK/SUSP CERTIF/TAG    CAFFEY,J,D  14CR 726615
+       4 ALLEN,KEYONNA,DENISE   FAIL TO WEAR SEAT BELT-DRIVER  SHEETS,J,A  17CR 714512
+                                DWLR NOT IMPAIRED REV          SHEETS,J,A  17CR 714512
+       5 ALLEN,KEYONNA,DENISE   DWLR NOT IMPAIRED REV          LAUER,T,R   18CR 719766
+       6 ALLEN,KEYONNA,DENISE   DWLR NOT IMPAIRED REV          PARKER,M,A  18CR 730691
+       7 ALLEN,KEYONNA,DENISE   SPEEDING                044/35 WACHTER,N,R 13IF 716786
+       8 ALLEN,KEYONNA,DENISE   SPEEDING                040/25 WOOTEN,T    14IF 711530
+       9 ALLEN,KEYONNA,DENISE   POSS OPN CNT/CONS ALC PSG AREA BOLES,A,J   14IF 718562
+      10 ALMOMANI,MOHAMMAD,AHMA MOTION APPROPRIATE RELIEF      SEAGLE,J,L  18CR 707752
+      11 BARBER,COLT,LEWIS      EXPIRED/NO INSPECTION          EGAN,D      18IF 706448
+      12 CASEY,DONNY,RAY        DRIVING WHILE IMPAIRED         COPPOLA,D   18CR 058059
+                                CIVIL REVOCATION DR LIC (30)   COPPOLA,D   18CR 058059
+      13 EXIGA,MARIA,GLORIA     DRIVING WHILE IMPAIRED         JOHNSON,S   18CR 060900
+                                UNSAFE MOVEMENT                JOHNSON,S   18CR 060900
+                                CIVIL REVOCATION DR LIC (30)   JOHNSON,S   18CR 060900
+                                MOTION DRIV PRIV               JOHNSON,S   18CR 060900
+      14 GALLOWAY,JUAN,BRUCE    EXPIRED REGISTRATION CARD/TAG  WILSON,J,L  17CR 710015
+                                EXPIRED/NO INSPECTION          WILSON,J,L  17CR 710015
+      15 GALLOWAY,JUAN,BRUCE    CANCL/REVOK/SUSP CERTIF/TAG    WILSON,J,L  17CR 710016
+                                OPERATE VEH NO INS             WILSON,J,L  17CR 710016
+  **  16 GUTIERREZ,NOEL         CIVIL REVOCATION DR LIC (30)   INMAN,A     18CR 053758
+                                MOTION-DRIVING PRIVL           INMAN,A     18CR 053758
+      17 HERMANSEN,BRYN,ALEXAND DRIVING WHILE IMPAIRED         JOHNSON,S   18CR 060848
+                                FAIL STOP AT APPROPRIATE SPOT  JOHNSON,S   18CR 060848
+                                CIVIL REVOCATION DR LIC (30)   JOHNSON,S   18CR 060848
+                                MOTION DRIV PRIV               JOHNSON,S   18CR 060848
+      18 KANAN,MOHAMAD,HASAN    MOTION-DRIV.PRIV               CARTER,J,C  18CR 709263
+      19 MILLS,ALTON,RAESHARD   MOTION TO STRIKE FTA           EASON,A,S   17CR 732322
+      20 OLVERA-CASTRO,ERICK    SPEEDING                076/60 BROWN,M,E   18CR 731256
+                                NO OPERATORS LICENSE           BROWN,M,E   18CR 731256
+                                MOTION OFA RECALL              BROWN,M,E   18CR 731256
+      21 PEOPLES,ANTONIO,DANTE  MISD PROB VIOL OUT OF COUNTY   MILLER,APRI 18CR 002684
+                                MOTION OFA RECALL              MILLER,APRI 18CR 002684
+      22 RICE,BRENTON,JARVAYE   FAIL TO REPORT ACCIDENT        WALSH,D,W   18CR 722535
+                                MOTION OFA RECALL              WALSH,D,W   18CR 722535
+      23 ROBERTS,LARRY,DELANO   DWLR NOT IMPAIRED REV          MCGUIRE,D,E 17CR 737609
+      24 ROBERTS,LARRY,DELANO   DWLR NOT IMPAIRED REV          JAMERSON,B, 18CR 711743
+      25 ROBERTS,LARRY,DELANO   DWLR NOT IMPAIRED REV          PERKINSON,J 18CR 720242
+      26 ROBERTS,LARRY,DELANO   EXPIRED REGISTRATION CARD/TAG  FERELL,N,C  18CR 725286
+                                EXPIRED/NO INSPECTION          FERELL,N,C  18CR 725286
+      27 ROBERTS,LARRY,DELANO   DWLR NOT IMPAIRED REV          FERELL,N,C  18CR 725287
+      28 ROBERTS,LARRY,DELANO   NO OPERATORS LICENSE           PALMER,T    18CR 727135
+      29 ROBERTS,LARRY,DELANO   EXPIRED REGISTRATION CARD/TAG  ROCHELLE,M, 18CR 730013
+1                             DISTRICT COURT CALENDAR                    PAGE:    2
+
+          COURT DATE: 12/13/18        TIME: 09:00 AM        COURTROOM NUMBER: AD1A
+
+  NO. DEFENDANT NAME          OFFENSE                        COMPLAINANT FILE NUMBER
+  *************************************************************************************
+                                DWLR NOT IMPAIRED REV          ROCHELLE,M, 18CR 730013
+      30 TEEGARDEN,CHRISTOPHER, SPEEDING                090/65 PHILLIPS,J, 17CR 732133
+                                GIVE/LEND/BORROW LIC PLATE     PHILLIPS,J, 17CR 732133
+                                VIOLATION OF COURT ORDER       PHILLIPS,J, 17CR 732133
+                                MOTION TO RECALL               PHILLIPS,J, 17CR 732133
+      31 TOVAR,EDWARD,OMAR      EXPIRED/NO INSPECTION          BAITY,J,W   18CR 726347
+                                DWLR IMPAIRED REV              BAITY,J,W   18CR 726347
+      32 TOVAR,EDWARD,OMAR      NO LIABILITY INSURANCE         BAITY,J,W   18CR 726348
+                                DRIVE/ALLOW MV NO REGISTRATION BAITY,J,W   18CR 726348
+      33 TURNER,TYLER,JAMES     FAIL MAINTAIN LANE CONTROL     HERNANDEZ-L 18CR 724303
+                                CONSUME ALC BY 19/20           HERNANDEZ-L 18CR 724303
+      34 WARDLOW,ANTONIO,WILLIA DRIVE WITHOUT TWO HEADLAMPS    BYRD,C,G    18CR 713528
+                                OPEN CONT AFTER CONS ALC 1ST   BYRD,C,G    18CR 713528
+
+  * MISSING/INVALID CHECK DIGIT
+ ** DEFENDANT NEEDS TO BE FINGERPRINTED

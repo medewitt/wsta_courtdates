@@ -1,0 +1,386 @@
+
+  RUN DATE: 12/20/18                                                        PAGE   1
+                             IN THE GENERAL COURT OF JUSTICE
+  LOCATION: WINSTON-SALEM        DISTRICT COURT DIVISION       COUNTY OF FORSYTH
+
+          COURT DATE: 12/20/18        TIME: 09:00 AM        COURTROOM NUMBER: AD1C
+
+                  CRIMINAL ADD ON
+
+                     JUDGE PRESIDING :
+                     COURTROOM CLERK :
+                     PROSECUTOR      :
+                                     :
+                                     :
+                                     :
+                                     :
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+     1  17CR 052037 ALDANA RODRIGUEZ,GELB RUIZ,M         WPD ATTY:GOLDSBOROUGH,BR   2
+                    BOND:      $1,000 SEC
+        (F)POSSESS STOLEN FIREARM           PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:                           ADA: SQL
+
+
+     2  18CR 724195 BRIGGS,TRENT,JERMAINE RENEGAR,D,L    SFF APT.:DENIED            1
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                                           OFA: Y
+        (M)SIMPLE POSSESS SCH VI CS (M)     PLEA:                VER:       96G8471
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)MOTION OFA RECALL                PLEA:                VER:       96G8471
+        CLS:   P:   L:                  JUDGMENT:
+
+
+     3  18CR 058514 CHEEKS,MARCUS,JOVON   ANDERSON,J     WPD P.D.:SMITH,CARA        2
+                    BOND:      $7,000 SEC
+        (F)PWISD MARIJUANA                  PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: AMH
+
+
+        (F)PWIMSD SCH II CS                 PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:
+
+
+        (F)PWIMSD SCH II CS                 PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:
+
+
+     4  18CR 058515 CHEEKS,MARCUS,JOVON   ANDERSON,J     WPD P.D.:SMITH,CARA        2
+                    BOND:          $1 SEC
+        (F)PWIMSD SCH II CS                 PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:                           ADA: AMH
+
+
+        (F)PWIMSD SCH II CS                 PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    2
+
+          COURT DATE: 12/20/18        TIME: 09:00 AM        COURTROOM NUMBER: AD1C
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+     5  18CR 058516 CHEEKS,MARCUS,JOVON   ANDERSON,J     WPD P.D.:SMITH,CARA        2
+                    BOND:          $1 SEC
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: AMH
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+     6  18CR 726600 CHEEKS,MARCUS,JOVON   ANDERSON,J,P   WPD P.D.:SMITH,CARA        1
+        (T)SPEEDING                072/55   PLEA:                VER:       158G731
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: AMH
+
+
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       158G731
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+     7  18CR 058866 DAVIS,DOUGLAS,SCOTT   FELSKE,P       WPD P.D.:QUINLAN,AL        1
+                    BOND:      $3,000 SEC
+        (M)INJURY TO REAL PROPERTY          PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+        (M)BOND MOTION OR PLEA              PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+     8  18CR 058044 DAVIS,RAYVON,TERAH    HARRISON,B     WPD P.D.:ZIGLAR,ARTRESE,   2
+                    BOND:             WPA
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C2408532
+                                        JUDGMENT:                           ADA: AJB
+
+
+        (F)FELONY POSSESSION SCH II CS      PLEA:                VER:       C2408532
+        CLS:I  P:   L:                  JUDGMENT:
+
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       C2408532
+                                        JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    3
+
+          COURT DATE: 12/20/18        TIME: 09:00 AM        COURTROOM NUMBER: AD1C
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+     9  18CR 060226 DUNCAN,COREY,KIETH    PARKER,M       WPD
+              AKA: DUNCAN,CORY,KEITH
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:             WPA
+        (M)RESISTING PUBLIC OFFICER         PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+        (M)MOTION TO RECALL OFA             PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+    10  18CR 733537 DUNCAN,CORY,KEITH     PARKER,M,A     WPD
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       434G690
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (I)FAIL TO BURN HEADLAMPS           PLEA:                VER:       434G690
+                                        JUDGMENT:
+
+
+        (M)MOTION TO RECALL OFA             PLEA:                VER:       434G690
+        CLS:   P:   L:                  JUDGMENT:
+
+
+    11  18IF 714219 DUNCAN,CORY,KEITH     PARKER,M,A     WPD                        1
+        (I)FAIL TO WEAR SEAT BELT-DRIVER    PLEA:                VER:       434G691
+                                        JUDGMENT:
+
+
+    12  18CR 709777 ENNIS,CYNTHIA,RENEE,F WHITAKER,B,K   KPD P.D.:ZIGLAR,ARTRESE,
+                    BOND:      $1,500 SEC
+        (M)MISDEMEANOR LARCENY              PLEA:                VER:       4G99725
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    13  18CR 715649 HARDY,BERNARD,LOVILLE RICE,J,L       WPD P.D.:SHILLITO,BRIAN,   1
+                    BOND:      $1,500 SEC
+        (M)MISDEMEANOR LARCENY              PLEA:                VER:       46G8459
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    14  18CR 717881 JOHNSON,DETRON,JANARD SMITH,T,J      WPD P.D.:PARKER,KELLY,EL   2
+                    BOND:      $3,000 SEC
+        (M)MISDEMEANOR LARCENY              PLEA:                VER:       69G0668
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (M)SECOND DEGREE TRESPASS           PLEA:                VER:       69G0668
+        CLS:3  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    4
+
+          COURT DATE: 12/20/18        TIME: 09:00 AM        COURTROOM NUMBER: AD1C
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    15  18CR 718848 JOHNSON,DETRON,JANARD NEFF,K,J       WPD P.D.:PARKER,KELLY,EL   2
+                    BOND:          $1 SEC
+        (M)MISDEMEANOR LARCENY              PLEA:                VER:       42G0728
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (M)SECOND DEGREE TRESPASS           PLEA:                VER:       42G0728
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    16  18CR 725090 JOHNSON,DETRON,JANARD PETTET,C,N     WPD P.D.:COFER,KELLY,PAR   1
+        (M)MISDEMEANOR LARCENY              PLEA:                VER:       103G580
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (M)SECOND DEGREE TRESPASS           PLEA:                VER:       103G580
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    17  18CR 708108 JONES,BAILEY,RAE      SIMON,S,T      KPD ATTY:LITTLE,NICOLE,L   3
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:       9G69838
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:       9G69838
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    18  13CR 052377 LYONS,AARON,WILLIAM   GRIFFITH,D     KPD ATTY:BARROW,JOHN
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:             WPA
+        (M)MOTION-TO EXPUNG                 PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:                           ADA: MJB
+
+
+    19  18CR 059166 MIZELL,SHAQUAN        FANNING,D      WPD P.D.:ZIGLAR,ARTRESE,   1
+                    BOND:      $7,500 SEC
+        (M)FIRST DEG TRESP ENTER/REMAIN     PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+        (M)ASSAULT GOVT OFFICIAL/EMPLY      PLEA:                VER:
+        CLS:A1 P:   L:                  JUDGMENT:
+
+
+        (M)RESISTING PUBLIC OFFICER         PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+    20  17CR 729671 RUONA,MELANIE,ALECIA  KING,C,R       SFF P.D.:ABERNETHY,HANNA   4
+                    BOND:        $500 SEC
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       4G83487
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: THL
+1                             DISTRICT COURT CALENDAR                    PAGE:    5
+
+          COURT DATE: 12/20/18        TIME: 09:00 AM        COURTROOM NUMBER: AD1C
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (I)FAIL TO WEAR SEAT BELT-DRIVER    PLEA:                VER:       4G83487
+                                        JUDGMENT:
+
+
+    21  17CR 735727 RUONA,MELANIE,ALECIA  NEFF,K,J       WPD P.D.:ABERNETHY,HANNA   4
+                    BOND:      $1,500 SEC
+        (M)MISDEMEANOR LARCENY              PLEA:                VER:       5G68674
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (M)SECOND DEGREE TRESPASS           PLEA:                VER:       5G68674
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    22  18CR 059673 RUONA,MELANIE,ALECIA  JONES,B        SFF P.D.:ABERNETHY,HANNA
+                    BOND:     $15,000 SEC
+        (F)FLEE/ELUDE ARREST W/MV (F)       PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:                           ADA: JEF
+
+
+    23  18CR 060077 SHEPHERD,DANIEL,MAURI WILLIAMS,J     WPD P.D.:ZIGLAR,ARTRESE,
+                    BOND:      $2,500 SEC
+        (M)RESISTING PUBLIC OFFICER         PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+        (M)INTOXICATED AND DISRUPTIVE       PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)INJURY TO PERSONAL PROPERTY      PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+    24  17CR 732184 SILVA-CHAVEZ,ANA,CHRI SMITH,D,G      WPD P.D.:SCHAAL WILSON,N   3
+                    BOND:      $1,500 SEC
+        (M)MISDEMEANOR LARCENY              PLEA:                VER:       7G22580
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    25  18CR 051482 SILVA,ANA,CHRISTINA   HICKS,A        WPD P.D.:SCHAAL WILSON,N   3
+                    BOND:      $4,000 SEC
+        (M)SIMPLE ASSAULT                   PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+        (M)RESISTING PUBLIC OFFICER         PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+    26  18CR 727065 SILVACHAVEZ,ANA,CRIST COPPOLA,D      WPD APT.:DENIED
+        (M)SHOPLIFTING CONCEALMENT GOODS    PLEA:                VER:       89G2680
+        CLS:   P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    6
+
+          COURT DATE: 12/20/18        TIME: 09:00 AM        COURTROOM NUMBER: AD1C
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    27  18CR 002158 VICKERS,BRYANT,ROBERT SMITH,D,G      WPD P.D.:SPEAS,BRITTANY,   1
+        (M)MISDEMEANOR LARCENY              PLEA:                VER:       C4018052
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (M)MOTION TO RECALL OFA             PLEA:                VER:       C4018052
+        CLS:   P:   L:                  JUDGMENT:
+1 RUN DATE: 12/20/18                                                        PAGE   1
+                             IN THE GENERAL COURT OF JUSTICE
+  LOCATION: WINSTON-SALEM        DISTRICT COURT DIVISION       COUNTY OF FORSYTH
+
+          COURT DATE: 12/20/18        TIME: 09:00 AM        COURTROOM NUMBER: AD1C
+
+                  CRIMINAL ADD ON
+
+                     JUDGE PRESIDING :
+                     COURTROOM CLERK :
+                     PROSECUTOR      :
+                                     :
+                                     :
+                                     :
+                                     :
+
+  NO. DEFENDANT NAME          OFFENSE                        COMPLAINANT FILE NUMBER
+  *************************************************************************************
+       1 ALDANA RODRIGUEZ,GELBE POSSESS STOLEN FIREARM         RUIZ,M      17CR 052037
+  **   2 BRIGGS,TRENT,JERMAINE  SIMPLE POSSESS SCH VI CS (M)   RENEGAR,D,L 18CR 724195
+                                MOTION OFA RECALL              RENEGAR,D,L 18CR 724195
+       3 CHEEKS,MARCUS,JOVON    PWISD MARIJUANA                ANDERSON,J  18CR 058514
+                                PWIMSD SCH II CS               ANDERSON,J  18CR 058514
+                                PWIMSD SCH II CS               ANDERSON,J  18CR 058514
+       4 CHEEKS,MARCUS,JOVON    PWIMSD SCH II CS               ANDERSON,J  18CR 058515
+                                PWIMSD SCH II CS               ANDERSON,J  18CR 058515
+                                POSSESS MARIJ PARAPHERNALIA    ANDERSON,J  18CR 058515
+       5 CHEEKS,MARCUS,JOVON    POSSESS MARIJ PARAPHERNALIA    ANDERSON,J  18CR 058516
+                                POSSESS DRUG PARAPHERNALIA     ANDERSON,J  18CR 058516
+                                POSSESS DRUG PARAPHERNALIA     ANDERSON,J  18CR 058516
+       6 CHEEKS,MARCUS,JOVON    SPEEDING                072/55 ANDERSON,J, 18CR 726600
+                                DWLR NOT IMPAIRED REV          ANDERSON,J, 18CR 726600
+       7 DAVIS,DOUGLAS,SCOTT    INJURY TO REAL PROPERTY        FELSKE,P    18CR 058866
+                                BOND MOTION OR PLEA            FELSKE,P    18CR 058866
+       8 DAVIS,RAYVON,TERAH     DRIVING WHILE IMPAIRED         HARRISON,B  18CR 058044
+                                FELONY POSSESSION SCH II CS    HARRISON,B  18CR 058044
+                                CIVIL REVOCATION DR LIC (30)   HARRISON,B  18CR 058044
+  **   9 DUNCAN,COREY,KIETH     RESISTING PUBLIC OFFICER       PARKER,M    18CR 060226
+                                MOTION TO RECALL OFA           PARKER,M    18CR 060226
+      10 DUNCAN,CORY,KEITH      DWLR NOT IMPAIRED REV          PARKER,M,A  18CR 733537
+                                FAIL TO BURN HEADLAMPS         PARKER,M,A  18CR 733537
+                                MOTION TO RECALL OFA           PARKER,M,A  18CR 733537
+      11 DUNCAN,CORY,KEITH      FAIL TO WEAR SEAT BELT-DRIVER  PARKER,M,A  18IF 714219
+      12 ENNIS,CYNTHIA,RENEE,FR MISDEMEANOR LARCENY            WHITAKER,B, 18CR 709777
+      13 HARDY,BERNARD,LOVILLE  MISDEMEANOR LARCENY            RICE,J,L    18CR 715649
+      14 JOHNSON,DETRON,JANARD, MISDEMEANOR LARCENY            SMITH,T,J   18CR 717881
+                                SECOND DEGREE TRESPASS         SMITH,T,J   18CR 717881
+      15 JOHNSON,DETRON,JANARD, MISDEMEANOR LARCENY            NEFF,K,J    18CR 718848
+                                SECOND DEGREE TRESPASS         NEFF,K,J    18CR 718848
+      16 JOHNSON,DETRON,JANARD, MISDEMEANOR LARCENY            PETTET,C,N  18CR 725090
+                                SECOND DEGREE TRESPASS         PETTET,C,N  18CR 725090
+      17 JONES,BAILEY,RAE       POSSESS MARIJUANA UP TO 1/2 OZ SIMON,S,T   18CR 708108
+                                POSSESS MARIJ PARAPHERNALIA    SIMON,S,T   18CR 708108
+  **  18 LYONS,AARON,WILLIAM    MOTION-TO EXPUNG               GRIFFITH,D  13CR 052377
+      19 MIZELL,SHAQUAN         FIRST DEG TRESP ENTER/REMAIN   FANNING,D   18CR 059166
+                                ASSAULT GOVT OFFICIAL/EMPLY    FANNING,D   18CR 059166
+                                RESISTING PUBLIC OFFICER       FANNING,D   18CR 059166
+      20 RUONA,MELANIE,ALECIA   DWLR NOT IMPAIRED REV          KING,C,R    17CR 729671
+                                FAIL TO WEAR SEAT BELT-DRIVER  KING,C,R    17CR 729671
+      21 RUONA,MELANIE,ALECIA   MISDEMEANOR LARCENY            NEFF,K,J    17CR 735727
+                                SECOND DEGREE TRESPASS         NEFF,K,J    17CR 735727
+      22 RUONA,MELANIE,ALECIA   FLEE/ELUDE ARREST W/MV (F)     JONES,B     18CR 059673
+      23 SHEPHERD,DANIEL,MAURIC RESISTING PUBLIC OFFICER       WILLIAMS,J  18CR 060077
+                                INTOXICATED AND DISRUPTIVE     WILLIAMS,J  18CR 060077
+1                             DISTRICT COURT CALENDAR                    PAGE:    2
+
+          COURT DATE: 12/20/18        TIME: 09:00 AM        COURTROOM NUMBER: AD1C
+
+  NO. DEFENDANT NAME          OFFENSE                        COMPLAINANT FILE NUMBER
+  *************************************************************************************
+                                INJURY TO PERSONAL PROPERTY    WILLIAMS,J  18CR 060077
+      24 SILVA-CHAVEZ,ANA,CHRIS MISDEMEANOR LARCENY            SMITH,D,G   17CR 732184
+      25 SILVA,ANA,CHRISTINA    SIMPLE ASSAULT                 HICKS,A     18CR 051482
+                                RESISTING PUBLIC OFFICER       HICKS,A     18CR 051482
+      26 SILVACHAVEZ,ANA,CRISTI SHOPLIFTING CONCEALMENT GOODS  COPPOLA,D   18CR 727065
+      27 VICKERS,BRYANT,ROBERT  MISDEMEANOR LARCENY            SMITH,D,G   18CR 002158
+                                MOTION TO RECALL OFA           SMITH,D,G   18CR 002158
+
+  * MISSING/INVALID CHECK DIGIT
+ ** DEFENDANT NEEDS TO BE FINGERPRINTED

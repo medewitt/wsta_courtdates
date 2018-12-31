@@ -1,0 +1,1274 @@
+
+  RUN DATE: 09/26/18                                                        PAGE   1
+                             IN THE GENERAL COURT OF JUSTICE
+  LOCATION: WINSTON-SALEM        DISTRICT COURT DIVISION       COUNTY OF FORSYTH
+
+          COURT DATE: 10/01/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+                  TRAFFIC
+
+                     JUDGE PRESIDING :
+                     COURTROOM CLERK :
+                     PROSECUTOR      :
+                                     :
+                                     :
+                                     :
+                                     :
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+     1  18IF 701012 ABULU,CYRIL,EDOBOR    RENDLEMAN,R,M  WPD
+        (I)UNLAWFULLY PASS EM/PUB SV VEH    PLEA:                VER:       12G2481
+                                        JUDGMENT:
+
+
+     2  18CR 057036 ANDERSON,ANGELA,MAURE GRUBB,A        SFF
+                    BOND:             WPA
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C3766335
+                                        JUDGMENT:
+
+
+     3  18CR 721428 BAIN,WILLIAM,ROBERT   GRUBB,A,J      SFF
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       94G7742
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+     4  18CR 725416 BAKER,STANLY,EVAN     SHIELDS,B,S    SFF
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       080G161
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)FICT/ALT TITLE/REG CARD/TAG      PLEA:                VER:       080G161
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+     5  18CR 705435 BATTLE,CHRISTOPHER,LE GRUBB,A,J      SFF ATTY:WAIVED            1
+        (M)RESISTING PUBLIC OFFICER         PLEA:                VER:       32G4469
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       32G4469
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+     6  18CR 716149 BESS,LEHRMAN,RENE     GRUBB,A,J      SFF ATTY:WAIVED            1
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       71G2057
+        CLS:3  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    2
+
+          COURT DATE: 10/01/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+     7  18CR 724171 BLEDSOE,GREGORY,ARNOL MOSER,J,L      SFF
+        (I)SPEEDING                059/45   PLEA:                VER:       172G715
+                                        JUDGMENT:
+
+
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       172G715
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+     8  18CR 717460 BROOKS,TRAVIS,TODD    LUFFMAN,M,M    SFF
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       88G5321
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (I)UNSAFE LANE CHANGE               PLEA:                VER:       88G5321
+                                        JUDGMENT:
+
+
+     9  18CR 714866 BUCHANAN,STEVEN,MARK  GRUBB,A,J      SFF ATTY:CLELAND,GEORGE,   2
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       71G2047
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (I)FAIL STOP STOPSIGN/FLSH RED LT   PLEA:                VER:       71G2047
+                                        JUDGMENT:
+
+
+    10  18CR 724882 BUTLER,STEPHANIE,DAWN SHIELDS,B,S    SFF
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       080G160
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       080G160
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    11  18CR 724788 BUTTS,ASHLEY,EDWINA   BOWDEN,D,L     SFF
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       33G8000
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    12  16CR 710308 CAMPBELL,LESLIE,MICHE POPP,G,A       WPD ATTY:LOGAN,DANIEL,N    5
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       157837F
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: JRO
+
+
+        (I)EXPIRED/NO INSPECTION            PLEA:                VER:       157837F
+                                        JUDGMENT:
+
+
+    13  16CR 710309 CAMPBELL,LESLIE,MICHE POPP,G,A       WPD ATTY:LOGAN,DANIEL,N    5
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       157838F
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: JRO
+1                             DISTRICT COURT CALENDAR                    PAGE:    3
+
+          COURT DATE: 10/01/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    14  16CR 720832 CAMPBELL,LESLIE,MICHE TESH,N,A       WPD ATTY:LOGAN,DANIEL,N    4
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       383169F
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: JRO
+
+
+        (I)EXPIRED/NO INSPECTION            PLEA:                VER:       383169F
+                                        JUDGMENT:
+
+
+    15  16CR 723504 CAMPBELL,LESLIE,MICHE SIMON,S,T      WPD ATTY:LOGAN,DANIEL,N    4
+        (T)NO OPERATORS LICENSE             PLEA:                VER:       652173F
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: JRO
+
+
+        (I)EXPIRED/NO INSPECTION            PLEA:                VER:       652173F
+                                        JUDGMENT:
+
+
+    16  16CR 723505 CAMPBELL,LESLIE,MICHE SIMON,S,T      WPD ATTY:LOGAN,DANIEL,N    4
+        (T)OPERATE VEH NO INS               PLEA:                VER:       652174F
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: JRO
+
+
+        (I)MIRROR VIOLATION                 PLEA:                VER:       652174F
+                                        JUDGMENT:
+
+
+    17  17CR 723424 CAMPBELL,LESLIE,MICHE WILLIAMS,K,A   WPD ATTY:LOGAN,DANIEL,N    2
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       3G48706
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       3G48706
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    18  17CR 723425 CAMPBELL,LESLIE,MICHE WILLIAMS,K,A   WPD ATTY:LOGAN,DANIEL,N    2
+        (T)OPERATE VEH NO INS               PLEA:                VER:       3G48707
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)GIVE/LEND/BORROW LIC PLATE       PLEA:                VER:       3G48707
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    19  17CR 733716 CAMPBELL,LESLIE,MICHE MENDENHALL,L,C SHP ATTY:LOGAN,DANIEL,N    2
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       8G61157
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)GIVE/LEND/BORROW LIC PLATE       PLEA:                VER:       8G61157
+        CLS:3  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    4
+
+          COURT DATE: 10/01/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    20  17CR 733717 CAMPBELL,LESLIE,MICHE MENDENHALL,L,C SHP ATTY:LOGAN,DANIEL,N    2
+        (T)NO LIABILITY INSURANCE           PLEA:                VER:       8G61158
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+        (T)DRIVE/ALLOW MV NO REGISTRATION   PLEA:                VER:       8G61158
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    21  17IF 716347 CAMPBELL,LESLIE,MICHE MENDENHALL,L,C SHP ATTY:LOGAN,DANIEL,N    2
+        (I)EXPIRED/NO INSPECTION            PLEA:                VER:       8G61159
+                                        JUDGMENT:
+
+
+    22  18CR 707635 CHILDERS,HANNAH,ELIZA LIVENGOOD,C,M  SFF APT.:DENIED            2
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       44G6229
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (I)UNSAFE LANE CHANGE               PLEA:                VER:       44G6229
+                                        JUDGMENT:
+
+
+    23  18CR 707636 CHILDERS,HANNAH,ELIZA LIVENGOOD,C,M  SFF APT.:DENIED            2
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:       44G6230
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    24  18CR 716691 CLINE,NEALA,BURNETTE  LIVENGOOD,C,M  SFF ATTY:WAIVED            1
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       59G3226
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       59G3226
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    25  18CR 713580 CREASMAN,DALLAS,SPENC LIVENGOOD,C,M  SFF ATTY:ELLINGTON,JAMES   2
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       59G3224
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    26  18CR 720418 CROUSE,TIMOTHY,WAYNE  SHIELDS,B,S    SFF                        1
+        (T)DWLR IMPAIRED REV                PLEA:                VER:       71G2717
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    27  18CR 719162 DAOUST,MICHAEL,RAYMON BOWDEN,D,L     SFF                        1
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       33G7993
+        CLS:3  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    5
+
+          COURT DATE: 10/01/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    28  18CR 727262 EASTER,MARY,MELINDA   GRUBB,A,J      SFF
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       94G7758
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    29  18CR 721798 EPPERSON,TIMOTHY,WAYN SPAINHOUR,R,H  SFF
+        (T)NO OPERATORS LICENSE             PLEA:                VER:       079G724
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    30  18CR 723315 FORRESTER,BOBBY,LEE,R SHIELDS,B,S    SFF
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       080G153
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)OPERATE VEH NO INS               PLEA:                VER:       080G153
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    31  18CR 723316 FORRESTER,BOBBY,LEE,R SHIELDS,B,S    SFF
+        (T)FICT/ALT TITLE/REG CARD/TAG      PLEA:                VER:       080G154
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    32  18CR 701658 FULTON,BRIAN,JERRARD  GRUBB,A,J      SFF APT.:DENIED            1
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       15G6204
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    33  18CR 056034 GENTRY,MICHAEL,SHANE  SHIELDS,B      SFF APT.:GALE,ROBERT,JOH
+                    BOND:             CUS
+        (T)AID AND ABET IMPAIRED DRIVING    PLEA:                VER:
+                                        JUDGMENT:
+
+
+    34  18CR 722656 GIBSON,STEPHEN,CLAIR  SHIELDS,B,S    SFF
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       080G151
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)NO LIABILITY INSURANCE           PLEA:                VER:       080G151
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+    35  18CR 722657 GIBSON,STEPHEN,CLAIR  SHIELDS,B,S    SFF
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       080G152
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    36  18CR 726844 GRAY,KRISTI,LYNN      SHIELDS,B,S    SFF
+        (T)DWLR IMPAIRED REV                PLEA:                VER:       080G164
+        CLS:1  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    6
+
+          COURT DATE: 10/01/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    37  18CR 717753 GREENE,MARK,ANTHONY   GRUBB,A,J      SFF P.D.:THOMAS,CHRISTIA   1
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       71G2063
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:       71G2063
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    38  18CR 721857 HABANAAGUSTINIANO,IRV BOWDEN,D,L     SFF
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       33G7998
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    39  18CR 724696 HAIRSTON,MARICO,LAMON SHIELDS,B,S    SFF
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       080G157
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       080G157
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    40  18CR 721934 HAIRSTON,SHANNAN,MICH BOWDEN,D,L     SFF
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       33G7999
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    41  18CR 053235 HANELINE,SEBRINA,MARI GRUBB,A        SFF ATTY:GERBER,NILS       1
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:             CUS
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C3766331
+                                        JUDGMENT:
+
+
+        (I)SPEEDING                058/45   PLEA:                VER:       C3766331
+                                        JUDGMENT:
+
+
+    42  18CR 718611 HARDY,DONALD,RAY      GRUBB,A,J      SFF APT.:DENIED            1
+        (T)NO OPERATORS LICENSE             PLEA:                VER:       71G2067
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       71G2067
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    43  18CR 718612 HARDY,DONALD,RAY      GRUBB,A,J      SFF APT.:DENIED            1
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:       71G2068
+        CLS:3  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    7
+
+          COURT DATE: 10/01/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    44  18CR 723340 HAVERKOS,JEFFREY,KENT SHIELDS,B,S    SFF
+        (T)OPERATE VEH NO INS               PLEA:                VER:       080G155
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)CANCL/REVOK/SUSP CERTIF/TAG      PLEA:                VER:       080G155
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    45  18CR 724649 HENDERSON,GEORGE,EDWA SHIELDS,B,S    SFF
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       080G156
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       080G156
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    46  18CR 720328 HERNANDEZ,RIGOBERTO,Z WALLACE,S,A    WPD                        1
+        (T)SPEEDING                080/55   PLEA:                VER:       77G7169
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    47  18CR 055849 HUGHES,ISAIAH,NATHANI STRINGER,P     SFF
+                    BOND:             WPA
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C0902622
+                                        JUDGMENT:
+
+
+        (T)DRIVE AFTER CONSUMING < 21       PLEA:                VER:       C0902622
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+    48  13CR 702968 HUNTER,NYKHIA,CHANNEL KELTNER,J,B    WPD ATTY:LOGAN,DANIEL,N    2
+        (T)DWLR                             PLEA:                VER:       F808315
+        CLS:1  P:   L:                  JUDGMENT:                           ADA: JRO
+
+
+    49  15CR 708855 HUNTER,NYKHIA,CHANNEL CONRAD,A,B     WPD ATTY:LOGAN,DANIEL,N    3
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       5170F19
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: JRO
+
+
+        (I)EXPIRED/NO INSPECTION            PLEA:                VER:       5170F19
+                                        JUDGMENT:
+
+
+    50  15CR 708856 HUNTER,NYKHIA,CHANNEL CONRAD,A,B     WPD ATTY:LOGAN,DANIEL,N    3
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       5170F20
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: JRO
+1                             DISTRICT COURT CALENDAR                    PAGE:    8
+
+          COURT DATE: 10/01/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    51  15CR 729866 HUNTER,NYKHIA,CHANNEL GARDNER,A,D    WPD ATTY:LOGAN,DANIEL,N    2
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       25165F8
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: JRO
+
+
+    52  16CR 700036 HUNTER,NYKHIA,CHANNEL LEWIS,D,B      SHP ATTY:LOGAN,DANIEL,N    2
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       84123F4
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: JRO
+
+
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       84123F4
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    53  16CR 703000 HUNTER,NYKHIA,CHANNEL CROCKETT,D,F       ATTY:LOGAN,DANIEL,N    2
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       84339F6
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: JRO
+
+
+        (I)EXPIRED/NO INSPECTION            PLEA:                VER:       84339F6
+                                        JUDGMENT:
+
+
+    54  16CR 703001 HUNTER,NYKHIA,CHANNEL CROCKETT,D,F       ATTY:LOGAN,DANIEL,N    2
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       84339F7
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: JRO
+
+
+    55  16CR 703713 HUNTER,NYKHIA,CHANNEL HOULE,S,W      WPD ATTY:LOGAN,DANIEL,N    2
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       16210F8
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: JRO
+
+
+    56  16IF 700011 HUNTER,NYKHIA,CHANNEL LEWIS,D,B      SHP ATTY:LOGAN,DANIEL,N    2
+        (I)EXPIRED/NO INSPECTION            PLEA:                VER:       84123F5
+                                        JUDGMENT:                           ADA: JRO
+
+
+    57  18CR 723531 INGRAM,CEDRIC,DENARD  SPAINHOUR,R,H  SFF
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       079G730
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    58  18CR 720491 IRIZARRY,JONATHAN,EDW BOWDEN,D,L     SFF
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       33G7996
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    59  18CR 724697 JOHNSON,KATHERINE,MAR SHIELDS,B,S    SFF
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       080G158
+        CLS:3  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    9
+
+          COURT DATE: 10/01/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    60  18CR 725209 JONES,NAKIA,TENAE     BOWDEN,D,L     SFF
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       33G8003
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    61  18CR 051199 JORDAN,TROY,LANE      GRUBB,A        SFF ATTY:WOOD,B,JEFFREY    2
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:             CUS
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C3766326
+                                        JUDGMENT:
+
+
+        (I)FAIL STOP STOPSIGN/FLSH RED LT   PLEA:                VER:       C3766326
+                                        JUDGMENT:
+
+
+    62  18CR 727137 LACKEY,DEITRA,FAITH   LIVENGOOD,C,M  SFF
+        (T)DWLR IMPAIRED REV                PLEA:                VER:       59G3241
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       59G3241
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    63  16CR 060996 LAMBETH,LESLIE,MARIE  GREINER,J      SFF P.D.:SHILLITO,BRIAN,
+                    BOND:     $10,000 SEC
+        (F)POSSESSION OF FIREARM BY FELON   PLEA:                VER:
+        CLS:G  P:   L:                  JUDGMENT:                           ADA: JLM
+
+
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (F)PROBATION VIOLATION              PLEA:                VER:
+                                        JUDGMENT:
+
+
+    64  17CR 061553 LEE,KELLY,RENEGAR     GRUBB,A        SFF P.D.:MCCORMICK,CATHE   1
+                    BOND:             WPA
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C3763734
+                                        JUDGMENT:
+
+
+    65  17CR 739094 LEE,KELLY,RENEGAR     GRUBB,A,J      SFF APT.:DENIED            1
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:       11G2311
+        CLS:3  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   10
+
+          COURT DATE: 10/01/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    66  18CR 703754 MABE,EDDIE,DEAN       SHIELDS,B,S    SFF ATTY:MURPHREY,EVERET   1
+        (T)DWLR IMPAIRED REV                PLEA:                VER:       19G6560
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    67  18CR 716200 MANRING,SCOTTIE,DALE  SHIELDS,B,S    SFF ATTY:WAIVED            1
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       71G2705
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)DRIVE/ALLOW MV NO REGISTRATION   PLEA:                VER:       71G2705
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    68  18CR 055853 MARSHALL,HUNTER,CHRIS GRUBB,A        SFF ATTY:ELLINGTON,JAMES   1
+                    BOND:             CUS
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C3766334
+                                        JUDGMENT:
+
+
+        (T)DRIVE AFTER CONSUMING < 21       PLEA:                VER:       C3766334
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+    69  18CR 719968 MARTINEZ,MIGUEL,SOTO  BOWDEN,D,L     SFF P.D.:THOMAS,CHRISTIA   1
+        (T)NO OPERATORS LICENSE             PLEA:                VER:       33G7994
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)OPERATE VEH NO INS               PLEA:                VER:       33G7994
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    70  18CR 722660 MATOS,ANTHONY,JR.     GRUBB,A,J      SFF
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       94G7747
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)CANCL/REVOK/SUSP CERTIF/TAG      PLEA:                VER:       94G7747
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    71  18CR 722257 MATTHEWS,AMOND,BARNAR CRAIG,J,H      WPD
+        (T)NO LIABILITY INSURANCE           PLEA:                VER:       035G096
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+        (T)CANCL/REVOK/SUSP CERTIF/TAG      PLEA:                VER:       035G096
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    72  18CR 715632 MATTHEWS,RYAN,CHRISTO SHIELDS,B,S    SFF APT.:DENIED            1
+        (T)DWLR IMPAIRED REV                PLEA:                VER:       71G2701
+        CLS:1  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   11
+
+          COURT DATE: 10/01/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    73  17IF 713221 MAURER,WESLEY,ALAN    SHEETS,J,A     WPD ATTY:LOGAN,DANIEL,N    4
+        (I)SPEEDING IN SCHOOL ZONE 040/25   PLEA:                VER:       5G56107
+                                        JUDGMENT:
+
+
+    74  18CR 710816 MWAMBAYI,POULINE,WAKA GRUBB,A,J      SFF                        2
+        (T)SPEEDING                095/65   PLEA:                VER:       42G2729
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    75  18CR 708610 NORRIS,SAMUEL,CLAYTON LIVENGOOD,C,M  SFF                        3
+        (T)DWLR IMPAIRED REV                PLEA:                VER:       46G8681
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    76  18CR 703746 OAKES,CEDRICK,TRENARD SHIELDS,B,S    SFF APT.:DENIED            1
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       19G6558
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)FICT/ALT TITLE/REG CARD/TAG      PLEA:                VER:       19G6558
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    77  18CR 703747 OAKES,CEDRICK,TRENARD SHIELDS,B,S    SFF APT.:DENIED            1
+        (T)NO LIABILITY INSURANCE           PLEA:                VER:       19G6559
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+        (T)DRIVE/ALLOW MV NO REGISTRATION   PLEA:                VER:       19G6559
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    78  18CR 052683 OLVERA,LEONEL         LIVENGOOD,C    SFF ATTY:MARADIAGA,LUIS,   2
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:      $5,000 SEC
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4015679
+                                        JUDGMENT:
+
+
+        (T)DWLR IMPAIRED REV                PLEA:                VER:       C4015679
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       C4015679
+                                        JUDGMENT:
+
+
+    79  18IF 000107 OLVERA,LEONEL         LIVENGOOD,C,M  SFF ATTY:MARADIAGA,LUIS,   2
+        (I)POSS OPN CNT/CONS ALC PSG AREA   PLEA:                VER:       C4015680
+                                        JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   12
+
+          COURT DATE: 10/01/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (I)FAIL MAINTAIN LANE CONTROL       PLEA:                VER:       C4015680
+                                        JUDGMENT:
+
+
+    80  16CR 737737 PINKSTON,BRIANNA,TOSH MCGUIRE,D,E    WPD ATTY:LOGAN,DANIEL,N    2
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       868168F
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: JRO
+
+
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       868168F
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    81  16CR 737738 PINKSTON,BRIANNA,TOSH MCGUIRE,D,E    WPD ATTY:LOGAN,DANIEL,N    2
+        (T)NO LIABILITY INSURANCE           PLEA:                VER:       868169F
+        CLS:2  P:   L:                  JUDGMENT:                           ADA: JRO
+
+
+    82  16CR 739093 PINKSTON,BRIANNA,TOSH PERKINSON,J,A  WPD ATTY:LOGAN,DANIEL,N    2
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       G222553
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: JRO
+
+
+        (I)FAIL CARRY REGISTRATION CARD     PLEA:                VER:       G222553
+                                        JUDGMENT:
+
+
+    83  16CR 739248 PINKSTON,BRIANNA,TOSH COOK,M,T       L-T ATTY:LOGAN,DANIEL,N    2
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       G005440
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: JRO
+
+
+        (T)A&A DWLR NOT IMPAIRED REV        PLEA:                VER:       G005440
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    84  17CR 700820 PINKSTON,BRIANNA,TOSH WILLEY,R,F     WPD ATTY:LOGAN,DANIEL,N    2
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       G205388
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: JRO
+
+
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       G205388
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    85  17IF 700329 PINKSTON,BRIANNA,TOSH WILLEY,R,F     WPD ATTY:LOGAN,DANIEL,N    2
+        (I)FAIL CARRY REGISTRATION CARD     PLEA:                VER:       G205389
+                                        JUDGMENT:                           ADA: JRO
+
+
+    86  18CR 054030 POLLARD,DEWAYNE,KENDA SHIELDS,B      SFF APT.:DENIED            2
+                    BOND:             WPA
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       C3763736
+        CLS:3  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   13
+
+          COURT DATE: 10/01/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C3763736
+                                        JUDGMENT:
+
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       C3763736
+                                        JUDGMENT:
+
+
+    87  18CR 714039 PORTILLORIVAS,JOSE,AT SHIELDS,B,S    SFF ATTY:WAIVED            1
+        (T)DWLR IMPAIRED REV                PLEA:                VER:       19G6572
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    88  18CR 724284 POTEAT,BROOKE,ELIZABE GRUBB,A,J      SFF
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       94G7748
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    89  18CR 056032 PRIDDY,GEORGE,THOMAS  SHIELDS,B      SFF P.D.:WILSON,GREGORY    2
+                    BOND:             WPA
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C3763737
+                                        JUDGMENT:                           ADA: JCG
+
+
+        (I)DRIVE LEFT OF CENTER             PLEA:                VER:       C3763737
+                                        JUDGMENT:
+
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       C3763737
+                                        JUDGMENT:
+
+
+    90  18CR 056033 PRIDDY,GEORGE,THOMAS  SHIELDS,B      SFF                        1
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:          $1 WPA
+        (T)DWLR IMPAIRED REV                PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    91  18CR 723157 RING,GARY,EDWARD      SPAINHOUR,R,H  SFF
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       079G727
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    92  18CR 721821 ROBINSON,JESSICA,DERE GRUBB,A,J      SFF
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       94G7743
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       94G7743
+        CLS:3  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   14
+
+          COURT DATE: 10/01/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    93  18CR 725220 ROMERO,DAVID,LOPEZ    BOWDEN,D,L     SFF
+        (T)NO OPERATORS LICENSE             PLEA:                VER:       33G8004
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    94  17CR 057261 RUSH,SPENCER,ANDREW   WALLACE,S      WPD P.D.:DAVIS,WHIT        6
+                    BOND:             WPA
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C3427092
+                                        JUDGMENT:
+
+
+    95  17CR 725033 RUSH,SPENCER,ANDREW   WALLACE,S,A    WPD P.D.:DAVIS,WHIT        6
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+        (M)POSS MARIJ >1/2 TO 1 1/2 OZ      PLEA:                VER:       2G61085
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:       2G61085
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    96  17IF 712058 RUSH,SPENCER,ANDREW   WALLACE,S,A    WPD P.D.:DAVIS,WHIT        6
+        (I)FAILURE TO REDUCE SPEED          PLEA:                VER:       2G61086
+                                        JUDGMENT:
+
+
+    97  16CR 057104 SAMUELS,DEQUINCE,JERL HANKS,T        WPD APT.:HESTER,WILLIAM,   1
+              AKA: SAMUELS,DEQUINCE,G  , SAMUELS,DEQUINCE,G  , SAMUELS,DEQUINCE,G
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:      $1,500 SEC
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C3760040
+                                        JUDGMENT:                           ADA: AMH
+
+
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       C3760040
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)MISDEMEANOR PROBATION VIOL       PLEA:                VER:       C3760040
+                                        JUDGMENT:
+
+
+        (M)MISDEMEANOR PROBATION VIOL       PLEA:                VER:       C3760040
+                                        JUDGMENT:
+
+
+    98  18CR 722659 SHEPARD,JOVAN,LORENN  GRUBB,A,J      SFF
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       94G7746
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    99  18CR 724793 SMITH,ASHLYNN,BRIANNA BOWDEN,D,L     SFF
+        (T)NO OPERATORS LICENSE             PLEA:                VER:       33G8001
+        CLS:3  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   15
+
+          COURT DATE: 10/01/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (T)OPERATE VEH NO INS               PLEA:                VER:       33G8001
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   100  18CR 724794 SMITH,ASHLYNN,BRIANNA BOWDEN,D,L     SFF
+        (T)DR/ALLOW REG PLATE NOT DISPLAY   PLEA:                VER:       33G8002
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   101  18CR 721422 SMITH,LLOYD,STANLEY,J SPAINHOUR,R,H  SFF
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       079G723
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   102  18CR 711794 SNYDER,JOHN,HOWARD    GRUBB,A,J      SFF ATTY:WAIVED            1
+        (T)GIVE/LEND/BORROW LIC PLATE       PLEA:                VER:       42G2732
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (I)POSS OPN CNT/CONS ALC PSG AREA   PLEA:                VER:       42G2732
+                                        JUDGMENT:
+
+
+   103  18IF 705162 SNYDER,JOHN,HOWARD    GRUBB,A,J      SFF ATTY:WAIVED            1
+        (I)IMPROPER VEHICLE INSPECTION      PLEA:                VER:       42G2733
+                                        JUDGMENT:
+
+
+   104  17CR 734492 STOVALL,DESIREE,APHRA LUFFMAN,M,M    SFF
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       9G07030
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   105  18CR 726733 SULARTEGARCIA,CECILIA SHIELDS,B,S    SFF
+        (T)SPEEDING                067/45   PLEA:                VER:       080G162
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   106  18CR 727190 TUTTLE,ROGER,DALE,JR. SHIELDS,B,S    SFF
+        (T)DWLR IMPAIRED REV                PLEA:                VER:       080G165
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+   107  18CR 053532 UPSON,KIRAH,LATISHA   GRUBB,A        SFF P.D.:STEWART,LARAQUE   1
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+        (M)MISDEMEANOR CHILD ABUSE          PLEA:                VER:
+        CLS:A1 P:   L:                  JUDGMENT:
+
+
+        (M)MISDEMEANOR CHILD ABUSE          PLEA:                VER:
+        CLS:A1 P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   16
+
+          COURT DATE: 10/01/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (M)MISDEMEANOR CHILD ABUSE          PLEA:                VER:
+        CLS:A1 P:   L:                  JUDGMENT:
+
+
+   108  18CR 712215 UPSON,KIRAH,LATISHA   GRUBB,A,J      SFF P.D.:STEWART,LARAQUE   1
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       42G2734
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (I)FAIL TO SECURE PASSEN UNDER 16   PLEA:                VER:       42G2734
+                                        JUDGMENT:
+
+
+   109  10CR 718841 WASHIGTON,ANDRAE,DANI DANIELS,B,P    SHP
+        (T)SPEEDING                064/45   PLEA:                VER:       26369E1
+        CLS:2  P:   L:                  JUDGMENT:                           ADA: GN
+
+
+   110  11CR 711233 WASHIGTON,ANDRAE,DANI TAYLOR,T,L     WPD
+        (T)OPERATE VEH NO INS               PLEA:                VER:       9590E82
+        CLS:1  P:   L:                  JUDGMENT:                           ADA: JRO
+
+
+   111  13CR 718901 WASHIGTON,ANDRAE,DANI INGRAM,C,L     WPD
+        (I)SPEEDING                054/45   PLEA:                VER:       11F9575
+                                        JUDGMENT:                           ADA: JRO
+
+
+        (T)DWLR                             PLEA:                VER:       11F9575
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+   112  13CR 723088 WASHIGTON,ANDRAE,DANI LUFFMAN,M,M    SFF
+        (T)DWLR                             PLEA:                VER:       27F7207
+        CLS:1  P:   L:                  JUDGMENT:                           ADA: JRO
+
+
+   113  11IF 704603 WASHIGTON,ANDRAE,DANI SHEETS,J,A     WPD
+        (I)SPEEDING                037/25   PLEA:                VER:       80405E2
+                                        JUDGMENT:
+
+
+   114  13IF 710398 WASHIGTON,ANDRAE,DANI LUFFMAN,M,M    SFF
+        (I)HANDICAPPED PARKING VIOLATION    PLEA:                VER:       27F7208
+                                        JUDGMENT:                           ADA: JRO
+
+
+   115  14CR 003844 WASHINGTON,ANDRAE,D,L SISSON,MATTHEW WPD
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       C2413121
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: JRO
+1                             DISTRICT COURT CALENDAR                    PAGE:   17
+
+          COURT DATE: 10/01/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       C2413121
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   116  12CR 006101 WASHINGTON,ANDRAE,DAN BEAUCHAMP,D    WPD
+              AKA: WASHIGTON,ANDRAEDANI
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       C1947565
+        CLS:2  P:   L:                  JUDGMENT:                           ADA: JRO
+
+
+        (I)EXPIRED/NO INSPECTION            PLEA:                VER:       C1947565
+                                        JUDGMENT:
+
+
+   117  11CR 004189 WASHINGTON,ANDRAE,DAN WEMLINGER,GB   WPD
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       C1331688
+        CLS:2  P:   L:                  JUDGMENT:                           ADA: GN
+
+
+        (T)OPERATE VEH NO INS               PLEA:                VER:       C1331688
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+   118  14CR 001320 WASHINGTON,ANDREA,DAN BROWN,C        SFF P.D.:QUINLAN,AL
+              AKA: WASHIGTON,ANDRAEDANI, WASHINGTON,ANDRAE,DA
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       C1144652
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: JRO
+
+
+   119  18CR 053793 WATSON,NICOLAS,MIGUEL BOWDEN,D       SFF ATTY:BARROW,JOHN       2
+                    BOND:      $5,000 SEC
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C0893888
+                                        JUDGMENT:
+
+
+   120  18CR 052937 WHITE,DEBORA,VERMILLI GRUBB,A        SFF P.D.:PARKER,KELLY,EL   1
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:             WPA
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C3766330
+                                        JUDGMENT:
+
+
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       C3766330
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   121  17CR 059048 WHITE,NEKISHA,DIANE   WEBSTER,J      SFF P.D.:LANASA,JENNIFER   1
+                    BOND:          $1 WPA
+        (M)MISDEMEANOR PROBATION VIOL       PLEA:                VER:
+                                        JUDGMENT:                           ADA: BMH
+1                             DISTRICT COURT CALENDAR                    PAGE:   18
+
+          COURT DATE: 10/01/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+   122  18CR 704496 WHITE,RALPH,III       GRUBB,A,J      SFF ATTY:WAIVED            2
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       15G6217
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       15G6217
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   123  18IF 701776 WHITE,RALPH,III       GRUBB,A,J      SFF ATTY:WAIVED            2
+        (I)FAIL STOP STOPSIGN/FLSH RED LT   PLEA:                VER:       15G6219
+                                        JUDGMENT:
+
+
+   124  18CR 721850 WIDEMON,KAREN,SCALES  BOWDEN,D,L     SFF
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       33G7997
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   125  18CR 723159 WILBORN,BRANDON,CHRIS SPAINHOUR,R,H  SFF
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       079G729
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   126  18CR 727302 WILLIAMS,QUAMAINE,RAS GRUBB,A,J      SFF
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       228G151
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)OPERATE VEH NO INS               PLEA:                VER:       228G151
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   127  18CR 712092 XOCHIPA,MELISSA,BOWMA KING,C,R       SFF P.D.:PARKER,KELLY,EL   1
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+        (T)DWLR IMPAIRED REV                PLEA:                VER:       58G5931
+        CLS:1  P:   L:                  JUDGMENT:
+1 RUN DATE: 09/26/18                                                        PAGE   1
+                             IN THE GENERAL COURT OF JUSTICE
+  LOCATION: WINSTON-SALEM        DISTRICT COURT DIVISION       COUNTY OF FORSYTH
+
+          COURT DATE: 10/01/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+                  TRAFFIC
+
+                     JUDGE PRESIDING :
+                     COURTROOM CLERK :
+                     PROSECUTOR      :
+                                     :
+                                     :
+                                     :
+                                     :
+
+  NO. DEFENDANT NAME          OFFENSE                        COMPLAINANT FILE NUMBER
+  *************************************************************************************
+       1 ABULU,CYRIL,EDOBOR     UNLAWFULLY PASS EM/PUB SV VEH  RENDLEMAN,R 18IF 701012
+       2 ANDERSON,ANGELA,MAUREE DRIVING WHILE IMPAIRED         GRUBB,A     18CR 057036
+       3 BAIN,WILLIAM,ROBERT    DWLR NOT IMPAIRED REV          GRUBB,A,J   18CR 721428
+       4 BAKER,STANLY,EVAN      DWLR NOT IMPAIRED REV          SHIELDS,B,S 18CR 725416
+                                FICT/ALT TITLE/REG CARD/TAG    SHIELDS,B,S 18CR 725416
+       5 BATTLE,CHRISTOPHER,LEE RESISTING PUBLIC OFFICER       GRUBB,A,J   18CR 705435
+                                DWLR NOT IMPAIRED REV          GRUBB,A,J   18CR 705435
+       6 BESS,LEHRMAN,RENE      DWLR NOT IMPAIRED REV          GRUBB,A,J   18CR 716149
+       7 BLEDSOE,GREGORY,ARNOLD SPEEDING                059/45 MOSER,J,L   18CR 724171
+                                DWLR NOT IMPAIRED REV          MOSER,J,L   18CR 724171
+       8 BROOKS,TRAVIS,TODD     DWLR NOT IMPAIRED REV          LUFFMAN,M,M 18CR 717460
+                                UNSAFE LANE CHANGE             LUFFMAN,M,M 18CR 717460
+       9 BUCHANAN,STEVEN,MARK   DWLR NOT IMPAIRED REV          GRUBB,A,J   18CR 714866
+                                FAIL STOP STOPSIGN/FLSH RED LT GRUBB,A,J   18CR 714866
+      10 BUTLER,STEPHANIE,DAWN  DWLR NOT IMPAIRED REV          SHIELDS,B,S 18CR 724882
+                                EXPIRED REGISTRATION CARD/TAG  SHIELDS,B,S 18CR 724882
+      11 BUTTS,ASHLEY,EDWINA    DWLR NOT IMPAIRED REV          BOWDEN,D,L  18CR 724788
+      12 CAMPBELL,LESLIE,MICHEL EXPIRED REGISTRATION CARD/TAG  POPP,G,A    16CR 710308
+                                EXPIRED/NO INSPECTION          POPP,G,A    16CR 710308
+      13 CAMPBELL,LESLIE,MICHEL DWLR NOT IMPAIRED REV          POPP,G,A    16CR 710309
+      14 CAMPBELL,LESLIE,MICHEL EXPIRED REGISTRATION CARD/TAG  TESH,N,A    16CR 720832
+                                EXPIRED/NO INSPECTION          TESH,N,A    16CR 720832
+      15 CAMPBELL,LESLIE,MICHEL NO OPERATORS LICENSE           SIMON,S,T   16CR 723504
+                                EXPIRED/NO INSPECTION          SIMON,S,T   16CR 723504
+      16 CAMPBELL,LESLIE,MICHEL OPERATE VEH NO INS             SIMON,S,T   16CR 723505
+                                MIRROR VIOLATION               SIMON,S,T   16CR 723505
+      17 CAMPBELL,LESLIE,MICHEL DWLR NOT IMPAIRED REV          WILLIAMS,K, 17CR 723424
+                                EXPIRED REGISTRATION CARD/TAG  WILLIAMS,K, 17CR 723424
+      18 CAMPBELL,LESLIE,MICHEL OPERATE VEH NO INS             WILLIAMS,K, 17CR 723425
+                                GIVE/LEND/BORROW LIC PLATE     WILLIAMS,K, 17CR 723425
+      19 CAMPBELL,LESLIE,MICHEL DWLR NOT IMPAIRED REV          MENDENHALL, 17CR 733716
+                                GIVE/LEND/BORROW LIC PLATE     MENDENHALL, 17CR 733716
+      20 CAMPBELL,LESLIE,MICHEL NO LIABILITY INSURANCE         MENDENHALL, 17CR 733717
+                                DRIVE/ALLOW MV NO REGISTRATION MENDENHALL, 17CR 733717
+      21 CAMPBELL,LESLIE,MICHEL EXPIRED/NO INSPECTION          MENDENHALL, 17IF 716347
+      22 CHILDERS,HANNAH,ELIZAB EXPIRED REGISTRATION CARD/TAG  LIVENGOOD,C 18CR 707635
+                                UNSAFE LANE CHANGE             LIVENGOOD,C 18CR 707635
+      23 CHILDERS,HANNAH,ELIZAB POSSESS MARIJ PARAPHERNALIA    LIVENGOOD,C 18CR 707636
+      24 CLINE,NEALA,BURNETTE   EXPIRED REGISTRATION CARD/TAG  LIVENGOOD,C 18CR 716691
+                                DWLR NOT IMPAIRED REV          LIVENGOOD,C 18CR 716691
+      25 CREASMAN,DALLAS,SPENCE DWLR NOT IMPAIRED REV          LIVENGOOD,C 18CR 713580
+      26 CROUSE,TIMOTHY,WAYNE   DWLR IMPAIRED REV              SHIELDS,B,S 18CR 720418
+      27 DAOUST,MICHAEL,RAYMOND DWLR NOT IMPAIRED REV          BOWDEN,D,L  18CR 719162
+      28 EASTER,MARY,MELINDA    DWLR NOT IMPAIRED REV          GRUBB,A,J   18CR 727262
+      29 EPPERSON,TIMOTHY,WAYNE NO OPERATORS LICENSE           SPAINHOUR,R 18CR 721798
+      30 FORRESTER,BOBBY,LEE,RO DWLR NOT IMPAIRED REV          SHIELDS,B,S 18CR 723315
+1                             DISTRICT COURT CALENDAR                    PAGE:    2
+
+          COURT DATE: 10/01/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO. DEFENDANT NAME          OFFENSE                        COMPLAINANT FILE NUMBER
+  *************************************************************************************
+                                OPERATE VEH NO INS             SHIELDS,B,S 18CR 723315
+      31 FORRESTER,BOBBY,LEE,RO FICT/ALT TITLE/REG CARD/TAG    SHIELDS,B,S 18CR 723316
+      32 FULTON,BRIAN,JERRARD   DWLR NOT IMPAIRED REV          GRUBB,A,J   18CR 701658
+      33 GENTRY,MICHAEL,SHANE   AID AND ABET IMPAIRED DRIVING  SHIELDS,B   18CR 056034
+      34 GIBSON,STEPHEN,CLAIR   EXPIRED REGISTRATION CARD/TAG  SHIELDS,B,S 18CR 722656
+                                NO LIABILITY INSURANCE         SHIELDS,B,S 18CR 722656
+      35 GIBSON,STEPHEN,CLAIR   DWLR NOT IMPAIRED REV          SHIELDS,B,S 18CR 722657
+      36 GRAY,KRISTI,LYNN       DWLR IMPAIRED REV              SHIELDS,B,S 18CR 726844
+      37 GREENE,MARK,ANTHONY    DWLR NOT IMPAIRED REV          GRUBB,A,J   18CR 717753
+                                POSSESS MARIJUANA UP TO 1/2 OZ GRUBB,A,J   18CR 717753
+      38 HABANAAGUSTINIANO,IRVI EXPIRED REGISTRATION CARD/TAG  BOWDEN,D,L  18CR 721857
+      39 HAIRSTON,MARICO,LAMONT DWLR NOT IMPAIRED REV          SHIELDS,B,S 18CR 724696
+                                EXPIRED REGISTRATION CARD/TAG  SHIELDS,B,S 18CR 724696
+      40 HAIRSTON,SHANNAN,MICHE DWLR NOT IMPAIRED REV          BOWDEN,D,L  18CR 721934
+  **  41 HANELINE,SEBRINA,MARIE DRIVING WHILE IMPAIRED         GRUBB,A     18CR 053235
+                                SPEEDING                058/45 GRUBB,A     18CR 053235
+      42 HARDY,DONALD,RAY       NO OPERATORS LICENSE           GRUBB,A,J   18CR 718611
+                                EXPIRED REGISTRATION CARD/TAG  GRUBB,A,J   18CR 718611
+      43 HARDY,DONALD,RAY       POSSESS MARIJ PARAPHERNALIA    GRUBB,A,J   18CR 718612
+      44 HAVERKOS,JEFFREY,KENT  OPERATE VEH NO INS             SHIELDS,B,S 18CR 723340
+                                CANCL/REVOK/SUSP CERTIF/TAG    SHIELDS,B,S 18CR 723340
+      45 HENDERSON,GEORGE,EDWAR DWLR NOT IMPAIRED REV          SHIELDS,B,S 18CR 724649
+                                EXPIRED REGISTRATION CARD/TAG  SHIELDS,B,S 18CR 724649
+      46 HERNANDEZ,RIGOBERTO,ZA SPEEDING                080/55 WALLACE,S,A 18CR 720328
+      47 HUGHES,ISAIAH,NATHANIE DRIVING WHILE IMPAIRED         STRINGER,P  18CR 055849
+                                DRIVE AFTER CONSUMING < 21     STRINGER,P  18CR 055849
+      48 HUNTER,NYKHIA,CHANNEL  DWLR                           KELTNER,J,B 13CR 702968
+      49 HUNTER,NYKHIA,CHANNEL  EXPIRED REGISTRATION CARD/TAG  CONRAD,A,B  15CR 708855
+                                EXPIRED/NO INSPECTION          CONRAD,A,B  15CR 708855
+      50 HUNTER,NYKHIA,CHANNEL  DWLR NOT IMPAIRED REV          CONRAD,A,B  15CR 708856
+      51 HUNTER,NYKHIA,CHANNEL  DWLR NOT IMPAIRED REV          GARDNER,A,D 15CR 729866
+      52 HUNTER,NYKHIA,CHANNEL  DWLR NOT IMPAIRED REV          LEWIS,D,B   16CR 700036
+                                EXPIRED REGISTRATION CARD/TAG  LEWIS,D,B   16CR 700036
+      53 HUNTER,NYKHIA,CHANNEL  EXPIRED REGISTRATION CARD/TAG  CROCKETT,D, 16CR 703000
+                                EXPIRED/NO INSPECTION          CROCKETT,D, 16CR 703000
+      54 HUNTER,NYKHIA,CHANNEL  DWLR NOT IMPAIRED REV          CROCKETT,D, 16CR 703001
+      55 HUNTER,NYKHIA,CHANNEL  DWLR NOT IMPAIRED REV          HOULE,S,W   16CR 703713
+      56 HUNTER,NYKHIA,CHANNEL  EXPIRED/NO INSPECTION          LEWIS,D,B   16IF 700011
+      57 INGRAM,CEDRIC,DENARD   DWLR NOT IMPAIRED REV          SPAINHOUR,R 18CR 723531
+      58 IRIZARRY,JONATHAN,EDWA EXPIRED REGISTRATION CARD/TAG  BOWDEN,D,L  18CR 720491
+      59 JOHNSON,KATHERINE,MARI DWLR NOT IMPAIRED REV          SHIELDS,B,S 18CR 724697
+      60 JONES,NAKIA,TENAE      DWLR NOT IMPAIRED REV          BOWDEN,D,L  18CR 725209
+  **  61 JORDAN,TROY,LANE       DRIVING WHILE IMPAIRED         GRUBB,A     18CR 051199
+                                FAIL STOP STOPSIGN/FLSH RED LT GRUBB,A     18CR 051199
+      62 LACKEY,DEITRA,FAITH    DWLR IMPAIRED REV              LIVENGOOD,C 18CR 727137
+                                EXPIRED REGISTRATION CARD/TAG  LIVENGOOD,C 18CR 727137
+      63 LAMBETH,LESLIE,MARIE   POSSESSION OF FIREARM BY FELON GREINER,J   16CR 060996
+                                DWLR NOT IMPAIRED REV          GREINER,J   16CR 060996
+                                POSSESS DRUG PARAPHERNALIA     GREINER,J   16CR 060996
+                                PROBATION VIOLATION            GREINER,J   16CR 060996
+      64 LEE,KELLY,RENEGAR      DRIVING WHILE IMPAIRED         GRUBB,A     17CR 061553
+  **  65 LEE,KELLY,RENEGAR      POSSESS MARIJUANA UP TO 1/2 OZ GRUBB,A,J   17CR 739094
+      66 MABE,EDDIE,DEAN        DWLR IMPAIRED REV              SHIELDS,B,S 18CR 703754
+      67 MANRING,SCOTTIE,DALE   DWLR NOT IMPAIRED REV          SHIELDS,B,S 18CR 716200
+                                DRIVE/ALLOW MV NO REGISTRATION SHIELDS,B,S 18CR 716200
+      68 MARSHALL,HUNTER,CHRIST DRIVING WHILE IMPAIRED         GRUBB,A     18CR 055853
+                                DRIVE AFTER CONSUMING < 21     GRUBB,A     18CR 055853
+1                             DISTRICT COURT CALENDAR                    PAGE:    3
+
+          COURT DATE: 10/01/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO. DEFENDANT NAME          OFFENSE                        COMPLAINANT FILE NUMBER
+  *************************************************************************************
+      69 MARTINEZ,MIGUEL,SOTO   NO OPERATORS LICENSE           BOWDEN,D,L  18CR 719968
+                                OPERATE VEH NO INS             BOWDEN,D,L  18CR 719968
+      70 MATOS,ANTHONY,JR.      EXPIRED REGISTRATION CARD/TAG  GRUBB,A,J   18CR 722660
+                                CANCL/REVOK/SUSP CERTIF/TAG    GRUBB,A,J   18CR 722660
+      71 MATTHEWS,AMOND,BARNARD NO LIABILITY INSURANCE         CRAIG,J,H   18CR 722257
+                                CANCL/REVOK/SUSP CERTIF/TAG    CRAIG,J,H   18CR 722257
+      72 MATTHEWS,RYAN,CHRISTOP DWLR IMPAIRED REV              SHIELDS,B,S 18CR 715632
+      73 MAURER,WESLEY,ALAN     SPEEDING IN SCHOOL ZONE 040/25 SHEETS,J,A  17IF 713221
+      74 MWAMBAYI,POULINE,WAKAF SPEEDING                095/65 GRUBB,A,J   18CR 710816
+      75 NORRIS,SAMUEL,CLAYTON  DWLR IMPAIRED REV              LIVENGOOD,C 18CR 708610
+      76 OAKES,CEDRICK,TRENARD, DWLR NOT IMPAIRED REV          SHIELDS,B,S 18CR 703746
+                                FICT/ALT TITLE/REG CARD/TAG    SHIELDS,B,S 18CR 703746
+      77 OAKES,CEDRICK,TRENARD, NO LIABILITY INSURANCE         SHIELDS,B,S 18CR 703747
+                                DRIVE/ALLOW MV NO REGISTRATION SHIELDS,B,S 18CR 703747
+  **  78 OLVERA,LEONEL          DRIVING WHILE IMPAIRED         LIVENGOOD,C 18CR 052683
+                                DWLR IMPAIRED REV              LIVENGOOD,C 18CR 052683
+                                CIVIL REVOCATION DR LIC (30)   LIVENGOOD,C 18CR 052683
+      79 OLVERA,LEONEL          POSS OPN CNT/CONS ALC PSG AREA LIVENGOOD,C 18IF 000107
+                                FAIL MAINTAIN LANE CONTROL     LIVENGOOD,C 18IF 000107
+      80 PINKSTON,BRIANNA,TOSHE DWLR NOT IMPAIRED REV          MCGUIRE,D,E 16CR 737737
+                                EXPIRED REGISTRATION CARD/TAG  MCGUIRE,D,E 16CR 737737
+      81 PINKSTON,BRIANNA,TOSHE NO LIABILITY INSURANCE         MCGUIRE,D,E 16CR 737738
+      82 PINKSTON,BRIANNA,TOSHE DWLR NOT IMPAIRED REV          PERKINSON,J 16CR 739093
+                                FAIL CARRY REGISTRATION CARD   PERKINSON,J 16CR 739093
+      83 PINKSTON,BRIANNA,TOSHE EXPIRED REGISTRATION CARD/TAG  COOK,M,T    16CR 739248
+                                A&A DWLR NOT IMPAIRED REV      COOK,M,T    16CR 739248
+      84 PINKSTON,BRIANNA,TOSHE DWLR NOT IMPAIRED REV          WILLEY,R,F  17CR 700820
+                                EXPIRED REGISTRATION CARD/TAG  WILLEY,R,F  17CR 700820
+      85 PINKSTON,BRIANNA,TOSHE FAIL CARRY REGISTRATION CARD   WILLEY,R,F  17IF 700329
+      86 POLLARD,DEWAYNE,KENDAL DWLR NOT IMPAIRED REV          SHIELDS,B   18CR 054030
+                                DRIVING WHILE IMPAIRED         SHIELDS,B   18CR 054030
+                                CIVIL REVOCATION DR LIC (30)   SHIELDS,B   18CR 054030
+      87 PORTILLORIVAS,JOSE,ATI DWLR IMPAIRED REV              SHIELDS,B,S 18CR 714039
+      88 POTEAT,BROOKE,ELIZABET DWLR NOT IMPAIRED REV          GRUBB,A,J   18CR 724284
+      89 PRIDDY,GEORGE,THOMAS   DRIVING WHILE IMPAIRED         SHIELDS,B   18CR 056032
+                                DRIVE LEFT OF CENTER           SHIELDS,B   18CR 056032
+                                CIVIL REVOCATION DR LIC (30)   SHIELDS,B   18CR 056032
+  **  90 PRIDDY,GEORGE,THOMAS   DWLR IMPAIRED REV              SHIELDS,B   18CR 056033
+      91 RING,GARY,EDWARD       DWLR NOT IMPAIRED REV          SPAINHOUR,R 18CR 723157
+      92 ROBINSON,JESSICA,DEREE DWLR NOT IMPAIRED REV          GRUBB,A,J   18CR 721821
+                                EXPIRED REGISTRATION CARD/TAG  GRUBB,A,J   18CR 721821
+      93 ROMERO,DAVID,LOPEZ     NO OPERATORS LICENSE           BOWDEN,D,L  18CR 725220
+      94 RUSH,SPENCER,ANDREW    DRIVING WHILE IMPAIRED         WALLACE,S   17CR 057261
+  **  95 RUSH,SPENCER,ANDREW    POSS MARIJ >1/2 TO 1 1/2 OZ    WALLACE,S,A 17CR 725033
+                                POSSESS DRUG PARAPHERNALIA     WALLACE,S,A 17CR 725033
+      96 RUSH,SPENCER,ANDREW    FAILURE TO REDUCE SPEED        WALLACE,S,A 17IF 712058
+  **  97 SAMUELS,DEQUINCE,JERL, DRIVING WHILE IMPAIRED         HANKS,T     16CR 057104
+                                DWLR NOT IMPAIRED REV          HANKS,T     16CR 057104
+                                MISDEMEANOR PROBATION VIOL     HANKS,T     16CR 057104
+                                MISDEMEANOR PROBATION VIOL     HANKS,T     16CR 057104
+      98 SHEPARD,JOVAN,LORENN   DWLR NOT IMPAIRED REV          GRUBB,A,J   18CR 722659
+      99 SMITH,ASHLYNN,BRIANNA  NO OPERATORS LICENSE           BOWDEN,D,L  18CR 724793
+                                OPERATE VEH NO INS             BOWDEN,D,L  18CR 724793
+     100 SMITH,ASHLYNN,BRIANNA  DR/ALLOW REG PLATE NOT DISPLAY BOWDEN,D,L  18CR 724794
+     101 SMITH,LLOYD,STANLEY,JR DWLR NOT IMPAIRED REV          SPAINHOUR,R 18CR 721422
+     102 SNYDER,JOHN,HOWARD     GIVE/LEND/BORROW LIC PLATE     GRUBB,A,J   18CR 711794
+                                POSS OPN CNT/CONS ALC PSG AREA GRUBB,A,J   18CR 711794
+1                             DISTRICT COURT CALENDAR                    PAGE:    4
+
+          COURT DATE: 10/01/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO. DEFENDANT NAME          OFFENSE                        COMPLAINANT FILE NUMBER
+  *************************************************************************************
+     103 SNYDER,JOHN,HOWARD     IMPROPER VEHICLE INSPECTION    GRUBB,A,J   18IF 705162
+     104 STOVALL,DESIREE,APHRAD DWLR NOT IMPAIRED REV          LUFFMAN,M,M 17CR 734492
+     105 SULARTEGARCIA,CECILIA, SPEEDING                067/45 SHIELDS,B,S 18CR 726733
+     106 TUTTLE,ROGER,DALE,JR.  DWLR IMPAIRED REV              SHIELDS,B,S 18CR 727190
+  ** 107 UPSON,KIRAH,LATISHA    MISDEMEANOR CHILD ABUSE        GRUBB,A     18CR 053532
+                                MISDEMEANOR CHILD ABUSE        GRUBB,A     18CR 053532
+                                MISDEMEANOR CHILD ABUSE        GRUBB,A     18CR 053532
+     108 UPSON,KIRAH,LATISHA    DWLR NOT IMPAIRED REV          GRUBB,A,J   18CR 712215
+                                FAIL TO SECURE PASSEN UNDER 16 GRUBB,A,J   18CR 712215
+     109 WASHIGTON,ANDRAE,DANIE SPEEDING                064/45 DANIELS,B,P 10CR 718841
+     110 WASHIGTON,ANDRAE,DANIE OPERATE VEH NO INS             TAYLOR,T,L  11CR 711233
+     111 WASHIGTON,ANDRAE,DANIE SPEEDING                054/45 INGRAM,C,L  13CR 718901
+                                DWLR                           INGRAM,C,L  13CR 718901
+     112 WASHIGTON,ANDRAE,DANIE DWLR                           LUFFMAN,M,M 13CR 723088
+     113 WASHIGTON,ANDRAE,DANIE SPEEDING                037/25 SHEETS,J,A  11IF 704603
+     114 WASHIGTON,ANDRAE,DANIE HANDICAPPED PARKING VIOLATION  LUFFMAN,M,M 13IF 710398
+     115 WASHINGTON,ANDRAE,D,L  EXPIRED REGISTRATION CARD/TAG  SISSON,MATT 14CR 003844
+                                DWLR NOT IMPAIRED REV          SISSON,MATT 14CR 003844
+     116 WASHINGTON,ANDRAE,DANI EXPIRED REGISTRATION CARD/TAG  BEAUCHAMP,D 12CR 006101
+                                EXPIRED/NO INSPECTION          BEAUCHAMP,D 12CR 006101
+     117 WASHINGTON,ANDRAE,DANI EXPIRED REGISTRATION CARD/TAG  WEMLINGER,G 11CR 004189
+                                OPERATE VEH NO INS             WEMLINGER,G 11CR 004189
+     118 WASHINGTON,ANDREA,DANI DWLR NOT IMPAIRED REV          BROWN,C     14CR 001320
+     119 WATSON,NICOLAS,MIGUEL  DRIVING WHILE IMPAIRED         BOWDEN,D    18CR 053793
+  ** 120 WHITE,DEBORA,VERMILLIO DRIVING WHILE IMPAIRED         GRUBB,A     18CR 052937
+                                EXPIRED REGISTRATION CARD/TAG  GRUBB,A     18CR 052937
+     121 WHITE,NEKISHA,DIANE    MISDEMEANOR PROBATION VIOL     WEBSTER,J   17CR 059048
+     122 WHITE,RALPH,III        DWLR NOT IMPAIRED REV          GRUBB,A,J   18CR 704496
+                                EXPIRED REGISTRATION CARD/TAG  GRUBB,A,J   18CR 704496
+     123 WHITE,RALPH,III        FAIL STOP STOPSIGN/FLSH RED LT GRUBB,A,J   18IF 701776
+     124 WIDEMON,KAREN,SCALES   DWLR NOT IMPAIRED REV          BOWDEN,D,L  18CR 721850
+     125 WILBORN,BRANDON,CHRISS DWLR NOT IMPAIRED REV          SPAINHOUR,R 18CR 723159
+     126 WILLIAMS,QUAMAINE,RASH DWLR NOT IMPAIRED REV          GRUBB,A,J   18CR 727302
+                                OPERATE VEH NO INS             GRUBB,A,J   18CR 727302
+  ** 127 XOCHIPA,MELISSA,BOWMAN DWLR IMPAIRED REV              KING,C,R    18CR 712092
+
+  * MISSING/INVALID CHECK DIGIT
+ ** DEFENDANT NEEDS TO BE FINGERPRINTED

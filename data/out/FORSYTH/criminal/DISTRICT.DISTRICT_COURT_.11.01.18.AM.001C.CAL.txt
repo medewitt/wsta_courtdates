@@ -1,0 +1,988 @@
+
+  RUN DATE: 10/30/18                                                        PAGE   1
+                             IN THE GENERAL COURT OF JUSTICE
+  LOCATION: WINSTON-SALEM        DISTRICT COURT DIVISION       COUNTY OF FORSYTH
+
+          COURT DATE: 11/01/18        TIME: 09:00 AM        COURTROOM NUMBER: 001C
+
+                  CRIMINAL
+
+                     JUDGE PRESIDING :
+                     COURTROOM CLERK :
+                     PROSECUTOR      :
+                                     :
+                                     :
+                                     :
+                                     :
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+     1  18CR 719689 AIKEN,AUNDRA,TISHAY   BROWN,C        WPD P.D.:PARKER,KELLY,EL   1
+        (M)MISDEMEANOR LARCENY              PLEA:                VER:       87G2880
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+     2  15CR 059723 ALDANA RODRIGUEZ,GELB TROY,M         WPD ATTY:WAIVED            5
+                    BOND:     $10,000 SEC
+        (M)MISDEMEANOR LARCENY              PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:                           ADA: JLM
+
+
+        (M)RESISTING PUBLIC OFFICER         PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+     3  18CR 729480 ANSON-BOWLES,KELLIE,L DUNN,R,A,JR    WPD
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       122G289
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       122G289
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+     4  18CR 729481 ANSON-BOWLES,KELLIE,L DUNN,R,A,JR    WPD
+        (M)MISDEMEANOR LARCENY              PLEA:                VER:       122G290
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+     5  18CR 729483 ANSON-BOWLES,KELLIE,L DUNN,R,A,JR    WPD
+        (M)MISDEMEANOR LARCENY              PLEA:                VER:       122G291
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+     6  17CR 735999 BELL,RICHARD,SHAMAR   TROY,M,A       WPD P.D.:SPEAS,BRITTANY,   1
+        (M)COMMUNICATING THREATS            PLEA:                VER:       8G11092
+        CLS:1  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    2
+
+          COURT DATE: 11/01/18        TIME: 09:00 AM        COURTROOM NUMBER: 001C
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+     7  17CR 061150 BOWMAN,HUNTER,GRAY    FOX,T          WPD P.D.:SPEAS,BRITTANY,   4
+                    BOND:        $150 CSH
+        (M)SIMPLE ASSAULT                   PLEA:                VER:
+        CLS:2  P:   L:      DOM VL: Y   JUDGMENT:
+
+
+     8  18CR 052899 BOWMAN,HUNTER,GRAY    MILLER,Q       WPD P.D.:SPEAS,BRITTANY,   3
+                    BOND:             WPA
+        (F)FELONY POSSESSION OF COCAINE     PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+     9  18CR 055011 BOWMAN,HUNTER,GRAY    AMAYA,G        KPD P.D.:SPEAS,BRITTANY,   1
+                    BOND:        $500 UNS
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)CONSUME ALC BY 19/20             PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    10  18CR 057708 BOYD,YVETTE,DECARLO   JOHNSON,W      WPD APT.:WALDER,URSULA,L   1
+                    BOND:      $1,000 SEC
+        (M)SECOND DEGREE TRESPASS           PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    11  18CR 059611 BRODERSON,IRA,AUSTIN  BRANDON,D      WPD P.D.:SPEAS,BRITTANY,
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:      $2,000 SEC
+        (M)SECOND DEGREE TRESPASS           PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)RESISTING PUBLIC OFFICER         PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+    12  18CR 716724 CAMPBELL,ROBERT,MILTO HERRIN,W,M     WPD APT.:CUADRA,MIGUEL,A   2
+        (M)SECOND DEGREE TRESPASS           PLEA:                VER:       53G3011
+        CLS:3  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    3
+
+          COURT DATE: 11/01/18        TIME: 09:00 AM        COURTROOM NUMBER: 001C
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    13  18CR 723511 CAMPBELL,ROBERT,MILTO NEAL,G,L       WPD APT.:CUADRA,MIGUEL,A   1
+        (M)OPEN CONTAINER ALCOHOL VIOL      PLEA:                VER:       37G4457
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)SECOND DEGREE TRESPASS           PLEA:                VER:       37G4457
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    14  99CR 037054 CHANDLER,BRIAN,JAMAAL GANT,          SFF ATTY:RAMSEY,R
+                    BOND:        $500 SEC
+        (M)MOTION FOR EXPUNCTION            PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:                           ADA: DKT
+
+
+        (M)ORDER FOR EXPUNCTION             PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+    15  18CR 716458 CLARK,JAMANI,AINEE    DUNN,R,A,JR    WPD APT.:GATES,BRYAN       1
+        (M)MISDEMEANOR LARCENY              PLEA:                VER:       77G1059
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    16  17CR 726554 COFFEY,SANDRA,KARI    PRIM,A,B       WPD P.D.:WILSON,GREGORY    2
+              AKA: BATES,SANDRA,K      , BATES,SANDRA,K
+                    BOND:      $1,500 SEC
+        (M)MISDEMEANOR PROBATION VIOL       PLEA:                VER:       G835561
+                                        JUDGMENT:                           ADA: BAP
+
+
+    17  15CR 051194 COLEY,CHRISTINA,LEE   SWAIM,DEBORAH,     ATTY:WAIVED            1
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:        $260 CSH
+        (M)SECOND DEGREE TRESPASS           PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: WNW
+
+
+        (M)VIOLATION OF COURT ORDER         PLEA:                VER:
+                                        JUDGMENT:
+
+
+    18  18CR 001040 COOK,VENSIN,MADDOT    STRANGE,S,A    WPD                        1
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:       C3427391
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:       C3427391
+        CLS:3  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    4
+
+          COURT DATE: 11/01/18        TIME: 09:00 AM        COURTROOM NUMBER: 001C
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    19  12CR 020246 CORNELL,SHEQUELLE,RAK CHEECK,D,C     WPD ATTY:WAIVED
+        (M)VIOLATION OF COURT ORDER         PLEA:                VER:       C1985515
+                                        JUDGMENT:                           ADA: JLM
+
+
+    20  18CR 052465 CORRADETTI,DOMINIC,RO BOYD,K         WPD APT.:OPATA,KWAME       2
+                    BOND:      $1,500 SEC
+        (M)SIMPLE AFFRAY                    PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+        (M)DISORDERLY CONDUCT-SCHOOL        PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+    21  18CR 051182 CORTEZ-SAGUILAN,HECTO BOYD,K         WPD P.D.:WILSON,GREGORY    2
+                    BOND:      $3,000 SEC
+        (M)MISDEMEANOR LARCENY              PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    22  17CR 004513 COTY,HEATH,WILLAM     ALLRED,J,S         ATTY:LOGAN,DANIEL,N    1
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+        (M)SIMPLE POSSESSION LESS THAN ON   PLEA:                VER:       C3048227
+        CLS:   P:   L:                  JUDGMENT:
+
+
+    23  17CR 731726 COVINGTON,QUITON,LAMO JAMERSON,B,M   WPD P.D.:ABERNETHY,HANNA   2
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+        (M)MISDEMEANOR PROBATION VIOL       PLEA:                VER:       5G16873
+                                        JUDGMENT:                           ADA: JCG
+
+
+    24  12CR 057781 CUNNINGHAM,OTIS       STRONG,PORTIA,     P.D.:MARTIN,JENNIFER
+        (M)SIGN EXPUNCTION                  PLEA:                VER:
+        CLS:   P:   L:      DOM VL: Y   JUDGMENT:                           ADA: BMH
+
+
+    25  18CR 711338 DAVIS,CHRISTINA,JUSTY BOYD,K,E       WPD P.D.:ZIGLAR,ARTRESE,   2
+        (M)DISORDERLY CONDUCT               PLEA:                VER:       1G18940
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+    26  17CR 739718 DAVIS,MICHAEL,MAJOR   TIDD,M,E       WPD ATTY:WAIVED            1
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+        (M)MISDEMEANOR PROBATION VIOL       PLEA:                VER:       7G01320
+                                        JUDGMENT:                           ADA: PAT
+
+
+    27  17CR 738871 DAVIS,MISTY,DAWN      JONES,B,B      SFF                        2
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:       10G4377
+        CLS:3  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    5
+
+          COURT DATE: 11/01/18        TIME: 09:00 AM        COURTROOM NUMBER: 001C
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    28  17CR 739012 DAVIS,MISTY,DAWN      JONES,B,B      SFF                        2
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       05G1549
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    29  18CR 730437 DAWKINS,TYRELL,RAMONE FISHER,C       WPD
+        (M)SIMPLE POSSESS SCH VI CS (M)     PLEA:                VER:       299G433
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:       299G433
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    30  18CR 730438 DAWKINS,TYRELL,RAMONE FISHER,C       WPD
+        (M)CARRYING CONCEALED GUN(M)        PLEA:                VER:       299G434
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:       299G434
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    31  18CR 059051 DAYS,RAYQUELLE,JAMES  BOYD,R
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:             WPA
+        (M)DISORDERLY CONDUCT               PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+    32  18CR 057774 DELOSSANTOS,TREVOR,Z  LUJANO,H       SFF P.D.:SPEAS,BRITTANY,   2
+                    BOND:      $1,000 SEC
+        (M)MISDEMEANOR LARCENY              PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    33  18CR 059343 DOWNEY,RASHUNDA,MICHE FULKS,ANKINGNA
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:             WPA
+        (M)COMMUNICATING THREATS            PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    34  18CR 724230 EDMONDSON,WILLIAM,EUG FIELDS,I,O     WPD
+        (M)INJURY TO PERSONAL PROPERTY      PLEA:                VER:       043G642
+        CLS:   P:   L:                  JUDGMENT:
+
+
+    35  18CR 052467 ELDRIDGE,KAASHIF,T    BOYD,K         WPD APT.:HINES,TERRENCE,   2
+                    BOND:        $500 SEC
+        (M)DISORDERLY CONDUCT-SCHOOL        PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    6
+
+          COURT DATE: 11/01/18        TIME: 09:00 AM        COURTROOM NUMBER: 001C
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    36  18CR 052519 ELDRIDGE,KAASHIF,T    BOYD,K         WPD APT.:HINES,TERRENCE,   2
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:             CUS
+        (M)SIMPLE AFFRAY                    PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+    37  18CR 056657 ELDRIDGE,KAASHIF,T    SPEIGHT,C      WPD APT.:DENIED            1
+                    BOND:             WPA
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    38  18CR 058659 FULKS,ACKINGNA        STONE,LILLIE,P     APT.:DENIED            1
+                    BOND:        $500 CSH
+        (M)SECOND DEGREE TRESPASS           PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    39  18CR 728788 GENTRY,MARYANN,MARGAR MITCHELL,J,R   WPD
+        (M)INTOXICATED AND DISRUPTIVE       PLEA:                VER:       324G085
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)CONSUME ALC/MALT CITY/CO PROP    PLEA:                VER:       324G085
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    40  18CR 728789 GENTRY,MARYANN,MARGAR MITCHELL,J,R   WPD
+        (M)RESISTING PUBLIC OFFICER         PLEA:                VER:       368G528
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+    41  18CR 059126 GEORGE,ZACHERY,NOLAN  MCFADDEN,T     WPD
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:             CUS
+        (M)ASSAULT GOVT OFFICIAL/EMPLY      PLEA:                VER:
+        CLS:A1 P:   L:                  JUDGMENT:
+
+
+    42  17CR 060651 GLENN,DARRYL,LEEMANUE BROWN,RICKEA,L     P.D.:SPEAS,BRITTANY,   2
+              AKA: GLENN,DARRYL,LEERANU
+                    BOND:      $2,500 SEC
+        (M)MISDEMEANOR PROBATION VIOL       PLEA:                VER:
+                            DOM VL: Y   JUDGMENT:                           ADA: MKG
+
+
+    43  18CR 706044 HAMER,DOMINIQUE,PANAG REYNOLDS,C,J   WPD P.D.:SHILLITO,BRIAN,   1
+        (M)MISDEMEANOR PROBATION VIOL       PLEA:                VER:       29G5890
+                                        JUDGMENT:                           ADA: JAC
+1                             DISTRICT COURT CALENDAR                    PAGE:    7
+
+          COURT DATE: 11/01/18        TIME: 09:00 AM        COURTROOM NUMBER: 001C
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    44  18CR 056464 HARRIS,DANIELLE,ROICH DUNN,R         WPD ATTY:WAIVED            1
+        (M)DISORDERLY CONDUCT               PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+    45  17CR 061890 HEATH,THURMOND,LEE    GATEWOOD,CURTI     APT.:LEE,KELLY,SCOTT   1
+                    BOND:        $500 SEC
+        (M)MISDEMEANOR PROBATION VIOL       PLEA:                VER:
+                                        JUDGMENT:                           ADA: THL
+
+
+    46  17CR 740271 HILTON,JOSHUA,FRANKLI COLLINS,M,D    SFF ATTY:WAIVED            4
+                    BOND:        $530 CSH
+        (M)SHOPLIFTING CONCEALMENT GOODS    PLEA:                VER:       G942425
+        CLS:   P:   L:                  JUDGMENT:                           ADA: CRS
+
+
+        (M)VIOLATION OF COURT ORDER         PLEA:                VER:       G942425
+                                        JUDGMENT:
+
+
+    47  18CR 001807 HOLIDAY,RODERIC,IRWIN MANEY,M        WPD P.D.:STEWART,LARAQUE   1
+                    BOND:        $100 CSH
+        (M)POSS/CON BEER/WINE UNAUTH PREM   PLEA:                VER:       L109337
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    48  17CR 061859 JOHNSON,MARCUS,JEROD  SHAFFER,J      SFF P.D.:SMITH,CARA
+                    BOND:             WPA
+        (M)MISDEMEANOR PROBATION VIOL       PLEA:                VER:
+                                        JUDGMENT:                           ADA: PAT
+
+
+    49  18CR 050366 JOHNSON,RANDAL        LITTLE,J       WPD ATTY:WILSON,JIM,B      1
+                    BOND:      $4,000 SEC
+        (M)MISDEMEANOR PROBATION VIOL       PLEA:                VER:
+                            DOM VL: Y   JUDGMENT:                           ADA: JNM
+
+
+    50  18CR 052518 JORDAN,JAMAL,D        BOYD,K         WPD APT.:HINES,TERRENCE,   3
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:             WPA
+        (M)SIMPLE AFFRAY                    PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+        (M)DISORDERLY CONDUCT-SCHOOL        PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+    51  18CR 730462 LAIL,MITCHELL,LEE     WILLIAMS,J,D   WPD
+        (M)TRESPASS OR SLEEP IN PARK VIOL   PLEA:                VER:       040G813
+        CLS:3  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    8
+
+          COURT DATE: 11/01/18        TIME: 09:00 AM        COURTROOM NUMBER: 001C
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    52  18CR 001189 LASHLEY,WILLIAM,JOHN  WATTS,V,L
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:       C3043229
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    53  18CR 001568 LAWRENCE,TRAVIS,LEE   HERRIN,W,M     WPD
+        (M)MISDEMEANOR LARCENY              PLEA:                VER:       C4395197
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    54  17CR 710415 LEATH,JAWAN,STEFANO   GERALD,J,B     WPD ATTY:WAIVED            2
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:       G723574
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:       G723574
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    55  18CR 054064 LEWIS-FUSSA,EMILIO,CL SWAIM,J        WPD ATTY:WAIVED
+                    BOND:     $10,000 SEC
+        (M)MISDEMEANOR PROBATION VIOL       PLEA:                VER:
+                                        JUDGMENT:                           ADA: ANL
+
+
+    56  18CR 053845 LEWIS,JAMES,ANTHONY,J OLIVO,C        WPD APT.:LEE,KELLY,SCOTT   2
+              AKA: LEWIS,JAMES,ANTHONY , LEWIS,JAMES,JR
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:             WPA
+        (M)SECOND DEGREE TRESPASS           PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    57  18CR 001196 LEWIS,KAREEM,JAVAN    WHITLOW,M,J    WPD                        1
+              AKA: LEWIS,KAREEM,JAVAAN
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:       C3991314
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    58  18CR 001195 LEWIS,KHAJI,ALBERTO   WHITLOW,M,J    WPD                        1
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:       C3991313
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)MISDEMEANOR PROBATION VIOL       PLEA:                VER:       C3991313
+                                        JUDGMENT:
+
+
+    59  18CR 058460 LYONS,COURTNEY,RENA   FIELDS,I       WPD
+                    BOND:      $1,000 SEC
+        (M)MISDEMEANOR LARCENY              PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    9
+
+          COURT DATE: 11/01/18        TIME: 09:00 AM        COURTROOM NUMBER: 001C
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    60  18CR 708987 MASTERS,CARL,WALTER,J RICE,J,L       WPD ATTY:WAIVED            1
+        (M)MISDEMEANOR PROBATION VIOL       PLEA:                VER:       9G48952
+                                        JUDGMENT:                           ADA: THL
+
+
+    61  18CR 058461 MCLAURIN,ELIZABETH,AN FIELDS,I       WPD
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:      $1,000 SEC
+        (M)MISDEMEANOR LARCENY              PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    62  18CR 709649 MCNEIL,LAVANDER,DEMON BRANDON,D,E    WPD ATTY:WAIVED            3
+        (M)SECOND DEGREE TRESPASS           PLEA:                VER:       02G6395
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    63  17CR 717002 MESSICK,CHRISTOPHER,A GUEST,J,W      WPD APT.:GERBER,KAREN,M    6
+        (M)MISDEMEANOR PROBATION VIOL       PLEA:                VER:       1G76607
+                                        JUDGMENT:                           ADA: PAT
+
+
+    64  18CR 001087 MICHAELS,STEPHEN,DALE HERRIN,W,M     WPD P.D.:QUINLAN,AL
+        (M)BEGGING WITH NO PRIVILEDGE LIC   PLEA:                VER:       C4395191
+        CLS:   P:   L:                  JUDGMENT:
+
+
+        (M)BEGGING ON MEDIAN                PLEA:                VER:       C4395191
+        CLS:   P:   L:                  JUDGMENT:
+
+
+    65  18CR 705412 MICHAELS,STEPHEN,DALE CARTER,J,C     WPD P.D.:QUINLAN,AL        1
+        (M)PANHANDLING IN A PROHIBITED WA   PLEA:                VER:       34G9220
+        CLS:   P:   L:                  JUDGMENT:
+
+
+    66  18CR 716338 MICHAELS,STEPHEN,DALE PENDRY,A,B     WPD
+        (M)SOLICIT ALMS/BEG FOR MONEY       PLEA:                VER:       52G2894
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    67  18CR 724335 MICHAELS,STEPHEN,DALE NEAL,G,L       WPD
+        (M)SOLICIT ALMS/BEG FOR MONEY       PLEA:                VER:       169G770
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    68  18CR 730460 MILLER,MARY,KATHLEEN  WILLIAMS,J,D   WPD
+        (M)TRESPASS OR SLEEP IN PARK VIOL   PLEA:                VER:       040G811
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    69  17CR 057896 MILLER,MONICA,SHONREC LONG,N         WPD P.D.:WILSON,GREGORY    5
+                    BOND:      $1,500 UNS
+        (M)DISORDERLY CONDUCT               PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   10
+
+          COURT DATE: 11/01/18        TIME: 09:00 AM        COURTROOM NUMBER: 001C
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (M)RESISTING PUBLIC OFFICER         PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+    70  17CR 057040 NETTERVILLE,KEVIN,MAT HERRIN,W       WPD P.D.:MARTIN,JENNIFER   5
+                    BOND:      $5,000 SEC
+        (M)MISDEMEANOR LARCENY              PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:                           ADA:
+
+
+        (M)MISDEMEANOR LARCENY              PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    71  18CR 054009 PENNINGTON,SHANE,LEON GREINER,J      SFF P.D.:KEEVER,ANDREW
+                    BOND:      $5,000 SEC
+        (M)MISDEMEANOR PROBATION VIOL       PLEA:                VER:
+                                        JUDGMENT:                           ADA: ANL
+
+
+    72  18CR 703193 PETERSON,MORGAN,NICOL BRANDON,D,E    WPD P.D.:ZIGLAR,ARTRESE,   2
+              AKA: PETERSON,MORGAN     , PETERSON,MORGAN
+                    BOND:        $500 SEC
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:       02G6381
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (M)MOTION FOR RECALL                PLEA:                VER:       02G6381
+        CLS:   P:   L:                  JUDGMENT:
+
+
+        (M)MOTION OFA RECALL                PLEA:                VER:       02G6381
+        CLS:   P:   L:                  JUDGMENT:
+
+
+    73  18CR 724618 RAINES,DONALD,RYAN    LAZUSKY,A,M    WPD
+        (M)MISDEMEANOR LARCENY              PLEA:                VER:       69G5007
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    74  18CR 051503 RICE,JEREMIAH,THOMAS  LONG,N         WPD ATTY:ADAMS,FRED,II     4
+                    BOND:      $2,000 SEC
+        (M)RESISTING PUBLIC OFFICER         PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+    75  18CR 059290 RIVERA,LUIS           DUNN,R         WPD APT.:HINES,TERRENCE,
+                    BOND:      $1,000 SEC
+        (M)MISDEMEANOR LARCENY              PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   11
+
+          COURT DATE: 11/01/18        TIME: 09:00 AM        COURTROOM NUMBER: 001C
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    76  18CR 714047 RIVERA,LUIS,MANUEL    GULLEDGE,C,B   WPD APT.:HINES,TERRENCE,   3
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:       23G6507
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    77  18CR 053368 ROLLEY,JACQUELINE,CIO RUSSELL,R      KPD P.D.:THOMAS,CHRISTIA   2
+                    BOND:      $1,000 SEC
+        (M)ASSAULT GOVT OFFICIAL/EMPLY      PLEA:                VER:
+        CLS:A1 P:   L:                  JUDGMENT:
+
+
+        (M)RESISTING PUBLIC OFFICER         PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+    78  18CR 000736 SALAZAR,ISAAC,BANOS   BOYD,K,E       WPD ATTY:MYERS,DOUG        1
+        (M)SIMPLE ASSAULT                   PLEA:                VER:       C1524216
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+    79  18CR 052035 SAMUELS,JOSHUA,CALEB  TROY,M         WPD ATTY:WAIVED            2
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:             WPA
+        (M)BREAKING OR ENTERING (M)         PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (M)INJURY TO REAL PROPERTY          PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    80  18CR 730218 SCALES,RENITA,MAE     DUNN,R,A,JR    WPD
+        (M)MISDEMEANOR LARCENY              PLEA:                VER:       404G020
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    81  18CR 051898 SEARS,ABDUL-AZIZ,HANI BOYD,K         WPD APT.:BOYER,JULIE       4
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)RESISTING PUBLIC OFFICER         PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+        (M)PRETRIAL RELEASE VIOL            PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   12
+
+          COURT DATE: 11/01/18        TIME: 09:00 AM        COURTROOM NUMBER: 001C
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (M)MOTION TO WITHDRAW COUNSEL       PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+        (M)MOTION TO WITHDRAW COUNSEL       PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+    82  17CR 004500 SEARS,ABDUL,AZIZ-HANI STUMP,J,K      WPD APT.:BOYER,JULIE       2
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:       C3343217
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)MOTION TO WITHDRAW COUNSEL       PLEA:                VER:       C3343217
+        CLS:   P:   L:                  JUDGMENT:
+
+
+    83  18CR 703602 SEARS,ABDUL,AZIZHANIF PHILLIPS,S,D   WPD APT.:BOYER,JULIE       5
+        (M)BREAKING OR ENTERING (M)         PLEA:                VER:       10G7053
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (M)MOTION TO WITHDRAW COUNSEL       PLEA:                VER:       10G7053
+        CLS:   P:   L:                  JUDGMENT:
+
+
+    84  18CR 700317 SHEPPARD,HANNAH,BRYSO GREINER,J,E    SFF
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:       2G38341
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    85  17CR 055417 SHERRILL,STERLING,JAR HEYER,J        WPD ATTY:CHURCH,TERESA     1
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:      $3,000 SEC
+        (M)MISDEMEANOR PROBATION VIOL       PLEA:                VER:
+                                        JUDGMENT:                           ADA: PAT
+
+
+    86  18CR 052858 SHEW,SARAH,ELIZABETH  PERKINSON,J    WPD P.D.:ABERNETHY,HANNA
+                    BOND:      $1,000 SEC
+        (M)RESISTING PUBLIC OFFICER         PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+    87  18CR 000324 SIDES,COBBAN,ISSAC    WOOTEN,T,R     WPD P.D.:TOOMES,ELIZABET
+                    BOND:        $500 SEC
+        (M)VIOLATION OF COURT ORDER         PLEA:                VER:       L106088
+                                        JUDGMENT:                           ADA: CRS
+
+
+    88  18CR 053507 SIMS,ANTONIO,DONNELL  VANBUREN,M     WPD APT.:WALDER,URSULA,L
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:      $3,000 SEC
+        (M)SECOND DEGREE TRESPASS           PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   13
+
+          COURT DATE: 11/01/18        TIME: 09:00 AM        COURTROOM NUMBER: 001C
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (M)RESISTING PUBLIC OFFICER         PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+    89  17CR 052865 SMITH,NAKOUYE,NAUEE   DOYLE,F        WPD ATTY:WAIVED
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:             WPA
+        (M)VIOLATION OF COURT ORDER         PLEA:                VER:
+                                        JUDGMENT:                           ADA: CRS
+
+
+    90  18CR 730461 SPRUILL,SAMUEL        WILLIAMS,J,D   WPD
+        (M)TRESPASS OR SLEEP IN PARK VIOL   PLEA:                VER:       040G812
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    91  18CR 052863 STEPHENS,JAMES,LAMONT AHMED,BASHIR,H     ATTY:WAIVED
+        (M)MISDEMEANOR PROBATION VIOL       PLEA:                VER:
+                                        JUDGMENT:                           ADA: PAT
+
+
+    92  18CR 056869 STIMPSON,ANGELA       DAVIS,CARLISSA
+        (M)HARASSING PHONE CALL             PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+    93  18CR 059345 STYLES,ZACHARY,TYLER  MEGAN SHORTSLE
+                    BOND:      $1,000 SEC
+        (M)MISDEMEANOR LARCENY              PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    94  18CR 729700 STYLES,ZACHARY,TYLER  ABRAMS,A,M     WPD
+        (T)NO OPERATORS LICENSE             PLEA:                VER:       341G164
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)SIMPLE POSSESS SCH VI CS (M)     PLEA:                VER:       341G164
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    95  17CR 730856 THOMAS,MOLLY,ALLRED   TROY,M,A       WPD APT.:ELLINGTON,JAMES   4
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+        (M)MISDEMEANOR PROBATION VIOL       PLEA:                VER:       4G97857
+                                        JUDGMENT:                           ADA: BAP
+
+
+    96  18CR 719308 THOMAS,PATRICIA,DIANE CAIN,O,L       WPD P.D.:SCHAAL WILSON,N   2
+        (M)MISDEMEANOR LARCENY              PLEA:                VER:       14G0233
+        CLS:1  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   14
+
+          COURT DATE: 11/01/18        TIME: 09:00 AM        COURTROOM NUMBER: 001C
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    97  18CR 059189 TRENI,WAYNE,DAVID     KEEL,J         SFF
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:      $1,000 UNS
+        (M)MISDEMEANOR LARCENY              PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    98  18CR 723497 VILLATORO,EFRAIN,ALEX KEEL,J         SFF
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:       15G8040
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:       15G8040
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    99  17CR 053760 WEBSTER,BROOKE,MCKINL DAVIS,J            ATTY:FREEDMAN,DAVID    3
+        (M)MISDEMEANOR SECRET PEEPING       PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+   100  18CR 058977 WEBSTER,BROOKE,MCKINL JOHNSON,T
+                    BOND:             WPA
+        (M)SECOND DEGREE TRESPASS           PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   101  18CR 053173 WILLARD,MCKENZIE,MAE  PERKINSON,J    WPD ATTY:POOLE,CHARLES,W
+                    BOND:      $1,000 SEC
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:                           ADA: ANL
+
+
+        (M)MISDEMEANOR PROBATION VIOL       PLEA:                VER:
+                                        JUDGMENT:
+
+
+   102  17CR 001349 WILLIAMS,TRINA,NICOLE WADE,D,L       WPD APT.:STEWART,TIMOTHY   2
+        (M)SOLICIT PROSTITUTION-M           PLEA:                VER:       C3762142
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+   103  11CR 011087 YOUNG,WILLIAM,DOUGLAS WILLIAMS,L,N   WPD
+        (M)SIGN EXPUNCTION                  PLEA:                VER:       C1518981
+        CLS:   P:   L:                  JUDGMENT:                           ADA: JRO
+1 RUN DATE: 10/30/18                                                        PAGE   1
+                             IN THE GENERAL COURT OF JUSTICE
+  LOCATION: WINSTON-SALEM        DISTRICT COURT DIVISION       COUNTY OF FORSYTH
+
+          COURT DATE: 11/01/18        TIME: 09:00 AM        COURTROOM NUMBER: 001C
+
+                  CRIMINAL
+
+                     JUDGE PRESIDING :
+                     COURTROOM CLERK :
+                     PROSECUTOR      :
+                                     :
+                                     :
+                                     :
+                                     :
+
+  NO. DEFENDANT NAME          OFFENSE                        COMPLAINANT FILE NUMBER
+  *************************************************************************************
+       1 AIKEN,AUNDRA,TISHAY    MISDEMEANOR LARCENY            BROWN,C     18CR 719689
+       2 ALDANA RODRIGUEZ,GELBE MISDEMEANOR LARCENY            TROY,M      15CR 059723
+                                RESISTING PUBLIC OFFICER       TROY,M      15CR 059723
+       3 ANSON-BOWLES,KELLIE,LY EXPIRED REGISTRATION CARD/TAG  DUNN,R,A,JR 18CR 729480
+                                DWLR NOT IMPAIRED REV          DUNN,R,A,JR 18CR 729480
+       4 ANSON-BOWLES,KELLIE,LY MISDEMEANOR LARCENY            DUNN,R,A,JR 18CR 729481
+       5 ANSON-BOWLES,KELLIE,LY MISDEMEANOR LARCENY            DUNN,R,A,JR 18CR 729483
+       6 BELL,RICHARD,SHAMAR    COMMUNICATING THREATS          TROY,M,A    17CR 735999
+       7 BOWMAN,HUNTER,GRAY     SIMPLE ASSAULT                 FOX,T       17CR 061150
+       8 BOWMAN,HUNTER,GRAY     FELONY POSSESSION OF COCAINE   MILLER,Q    18CR 052899
+                                POSSESS MARIJ PARAPHERNALIA    MILLER,Q    18CR 052899
+       9 BOWMAN,HUNTER,GRAY     POSSESS MARIJ PARAPHERNALIA    AMAYA,G     18CR 055011
+                                POSSESS MARIJUANA UP TO 1/2 OZ AMAYA,G     18CR 055011
+                                CONSUME ALC BY 19/20           AMAYA,G     18CR 055011
+      10 BOYD,YVETTE,DECARLO    SECOND DEGREE TRESPASS         JOHNSON,W   18CR 057708
+  **  11 BRODERSON,IRA,AUSTIN   SECOND DEGREE TRESPASS         BRANDON,D   18CR 059611
+                                RESISTING PUBLIC OFFICER       BRANDON,D   18CR 059611
+      12 CAMPBELL,ROBERT,MILTON SECOND DEGREE TRESPASS         HERRIN,W,M  18CR 716724
+      13 CAMPBELL,ROBERT,MILTON OPEN CONTAINER ALCOHOL VIOL    NEAL,G,L    18CR 723511
+                                SECOND DEGREE TRESPASS         NEAL,G,L    18CR 723511
+      14 CHANDLER,BRIAN,JAMAAL  MOTION FOR EXPUNCTION          GANT,       99CR 037054
+                                ORDER FOR EXPUNCTION           GANT,       99CR 037054
+      15 CLARK,JAMANI,AINEE     MISDEMEANOR LARCENY            DUNN,R,A,JR 18CR 716458
+      16 COFFEY,SANDRA,KARI     MISDEMEANOR PROBATION VIOL     PRIM,A,B    17CR 726554
+  **  17 COLEY,CHRISTINA,LEE    SECOND DEGREE TRESPASS         SWAIM,DEBOR 15CR 051194
+                                VIOLATION OF COURT ORDER       SWAIM,DEBOR 15CR 051194
+  **  18 COOK,VENSIN,MADDOT     POSSESS MARIJUANA UP TO 1/2 OZ STRANGE,S,A 18CR 001040
+                                POSSESS MARIJ PARAPHERNALIA    STRANGE,S,A 18CR 001040
+      19 CORNELL,SHEQUELLE,RAKE VIOLATION OF COURT ORDER       CHEECK,D,C  12CR 020246
+      20 CORRADETTI,DOMINIC,ROS SIMPLE AFFRAY                  BOYD,K      18CR 052465
+                                DISORDERLY CONDUCT-SCHOOL      BOYD,K      18CR 052465
+      21 CORTEZ-SAGUILAN,HECTOR MISDEMEANOR LARCENY            BOYD,K      18CR 051182
+  **  22 COTY,HEATH,WILLAM      SIMPLE POSSESSION LESS THAN ON ALLRED,J,S  17CR 004513
+  **  23 COVINGTON,QUITON,LAMON MISDEMEANOR PROBATION VIOL     JAMERSON,B, 17CR 731726
+      24 CUNNINGHAM,OTIS        SIGN EXPUNCTION                STRONG,PORT 12CR 057781
+      25 DAVIS,CHRISTINA,JUSTYC DISORDERLY CONDUCT             BOYD,K,E    18CR 711338
+  **  26 DAVIS,MICHAEL,MAJOR    MISDEMEANOR PROBATION VIOL     TIDD,M,E    17CR 739718
+      27 DAVIS,MISTY,DAWN       POSSESS MARIJ PARAPHERNALIA    JONES,B,B   17CR 738871
+      28 DAVIS,MISTY,DAWN       DWLR NOT IMPAIRED REV          JONES,B,B   17CR 739012
+      29 DAWKINS,TYRELL,RAMONE  SIMPLE POSSESS SCH VI CS (M)   FISHER,C    18CR 730437
+                                POSSESS MARIJ PARAPHERNALIA    FISHER,C    18CR 730437
+      30 DAWKINS,TYRELL,RAMONE  CARRYING CONCEALED GUN(M)      FISHER,C    18CR 730438
+                                POSSESS DRUG PARAPHERNALIA     FISHER,C    18CR 730438
+  **  31 DAYS,RAYQUELLE,JAMES   DISORDERLY CONDUCT             BOYD,R      18CR 059051
+      32 DELOSSANTOS,TREVOR,Z   MISDEMEANOR LARCENY            LUJANO,H    18CR 057774
+  **  33 DOWNEY,RASHUNDA,MICHEL COMMUNICATING THREATS          FULKS,ANKIN 18CR 059343
+1                             DISTRICT COURT CALENDAR                    PAGE:    2
+
+          COURT DATE: 11/01/18        TIME: 09:00 AM        COURTROOM NUMBER: 001C
+
+  NO. DEFENDANT NAME          OFFENSE                        COMPLAINANT FILE NUMBER
+  *************************************************************************************
+      34 EDMONDSON,WILLIAM,EUGE INJURY TO PERSONAL PROPERTY    FIELDS,I,O  18CR 724230
+      35 ELDRIDGE,KAASHIF,T     DISORDERLY CONDUCT-SCHOOL      BOYD,K      18CR 052467
+  **  36 ELDRIDGE,KAASHIF,T     SIMPLE AFFRAY                  BOYD,K      18CR 052519
+      37 ELDRIDGE,KAASHIF,T     POSSESS MARIJUANA UP TO 1/2 OZ SPEIGHT,C   18CR 056657
+      38 FULKS,ACKINGNA         SECOND DEGREE TRESPASS         STONE,LILLI 18CR 058659
+      39 GENTRY,MARYANN,MARGARI INTOXICATED AND DISRUPTIVE     MITCHELL,J, 18CR 728788
+                                CONSUME ALC/MALT CITY/CO PROP  MITCHELL,J, 18CR 728788
+      40 GENTRY,MARYANN,MARGARI RESISTING PUBLIC OFFICER       MITCHELL,J, 18CR 728789
+  **  41 GEORGE,ZACHERY,NOLAN   ASSAULT GOVT OFFICIAL/EMPLY    MCFADDEN,T  18CR 059126
+      42 GLENN,DARRYL,LEEMANUEL MISDEMEANOR PROBATION VIOL     BROWN,RICKE 17CR 060651
+      43 HAMER,DOMINIQUE,PANAGI MISDEMEANOR PROBATION VIOL     REYNOLDS,C, 18CR 706044
+      44 HARRIS,DANIELLE,ROICHE DISORDERLY CONDUCT             DUNN,R      18CR 056464
+      45 HEATH,THURMOND,LEE     MISDEMEANOR PROBATION VIOL     GATEWOOD,CU 17CR 061890
+      46 HILTON,JOSHUA,FRANKLIN SHOPLIFTING CONCEALMENT GOODS  COLLINS,M,D 17CR 740271
+                                VIOLATION OF COURT ORDER       COLLINS,M,D 17CR 740271
+      47 HOLIDAY,RODERIC,IRWIN  POSS/CON BEER/WINE UNAUTH PREM MANEY,M     18CR 001807
+      48 JOHNSON,MARCUS,JEROD   MISDEMEANOR PROBATION VIOL     SHAFFER,J   17CR 061859
+      49 JOHNSON,RANDAL         MISDEMEANOR PROBATION VIOL     LITTLE,J    18CR 050366
+  **  50 JORDAN,JAMAL,D         SIMPLE AFFRAY                  BOYD,K      18CR 052518
+                                DISORDERLY CONDUCT-SCHOOL      BOYD,K      18CR 052518
+      51 LAIL,MITCHELL,LEE      TRESPASS OR SLEEP IN PARK VIOL WILLIAMS,J, 18CR 730462
+      52 LASHLEY,WILLIAM,JOHN   POSSESS DRUG PARAPHERNALIA     WATTS,V,L   18CR 001189
+      53 LAWRENCE,TRAVIS,LEE    MISDEMEANOR LARCENY            HERRIN,W,M  18CR 001568
+  **  54 LEATH,JAWAN,STEFANO    POSSESS MARIJUANA UP TO 1/2 OZ GERALD,J,B  17CR 710415
+                                POSSESS MARIJ PARAPHERNALIA    GERALD,J,B  17CR 710415
+      55 LEWIS-FUSSA,EMILIO,CLA MISDEMEANOR PROBATION VIOL     SWAIM,J     18CR 054064
+  **  56 LEWIS,JAMES,ANTHONY,JR SECOND DEGREE TRESPASS         OLIVO,C     18CR 053845
+  **  57 LEWIS,KAREEM,JAVAN     POSSESS MARIJUANA UP TO 1/2 OZ WHITLOW,M,J 18CR 001196
+  **  58 LEWIS,KHAJI,ALBERTO    POSSESS MARIJUANA UP TO 1/2 OZ WHITLOW,M,J 18CR 001195
+                                MISDEMEANOR PROBATION VIOL     WHITLOW,M,J 18CR 001195
+      59 LYONS,COURTNEY,RENA    MISDEMEANOR LARCENY            FIELDS,I    18CR 058460
+      60 MASTERS,CARL,WALTER,JR MISDEMEANOR PROBATION VIOL     RICE,J,L    18CR 708987
+  **  61 MCLAURIN,ELIZABETH,ANN MISDEMEANOR LARCENY            FIELDS,I    18CR 058461
+      62 MCNEIL,LAVANDER,DEMONT SECOND DEGREE TRESPASS         BRANDON,D,E 18CR 709649
+      63 MESSICK,CHRISTOPHER,AL MISDEMEANOR PROBATION VIOL     GUEST,J,W   17CR 717002
+      64 MICHAELS,STEPHEN,DALE  BEGGING WITH NO PRIVILEDGE LIC HERRIN,W,M  18CR 001087
+                                BEGGING ON MEDIAN              HERRIN,W,M  18CR 001087
+      65 MICHAELS,STEPHEN,DALE  PANHANDLING IN A PROHIBITED WA CARTER,J,C  18CR 705412
+      66 MICHAELS,STEPHEN,DALE  SOLICIT ALMS/BEG FOR MONEY     PENDRY,A,B  18CR 716338
+      67 MICHAELS,STEPHEN,DALE  SOLICIT ALMS/BEG FOR MONEY     NEAL,G,L    18CR 724335
+      68 MILLER,MARY,KATHLEEN   TRESPASS OR SLEEP IN PARK VIOL WILLIAMS,J, 18CR 730460
+      69 MILLER,MONICA,SHONRECA DISORDERLY CONDUCT             LONG,N      17CR 057896
+                                RESISTING PUBLIC OFFICER       LONG,N      17CR 057896
+      70 NETTERVILLE,KEVIN,MATT MISDEMEANOR LARCENY            HERRIN,W    17CR 057040
+                                MISDEMEANOR LARCENY            HERRIN,W    17CR 057040
+      71 PENNINGTON,SHANE,LEON  MISDEMEANOR PROBATION VIOL     GREINER,J   18CR 054009
+      72 PETERSON,MORGAN,NICOLE POSSESS DRUG PARAPHERNALIA     BRANDON,D,E 18CR 703193
+                                MOTION FOR RECALL              BRANDON,D,E 18CR 703193
+                                MOTION OFA RECALL              BRANDON,D,E 18CR 703193
+      73 RAINES,DONALD,RYAN     MISDEMEANOR LARCENY            LAZUSKY,A,M 18CR 724618
+      74 RICE,JEREMIAH,THOMAS   RESISTING PUBLIC OFFICER       LONG,N      18CR 051503
+      75 RIVERA,LUIS            MISDEMEANOR LARCENY            DUNN,R      18CR 059290
+      76 RIVERA,LUIS,MANUEL     POSSESS DRUG PARAPHERNALIA     GULLEDGE,C, 18CR 714047
+      77 ROLLEY,JACQUELINE,CIOT ASSAULT GOVT OFFICIAL/EMPLY    RUSSELL,R   18CR 053368
+                                RESISTING PUBLIC OFFICER       RUSSELL,R   18CR 053368
+      78 SALAZAR,ISAAC,BANOS    SIMPLE ASSAULT                 BOYD,K,E    18CR 000736
+  **  79 SAMUELS,JOSHUA,CALEB   BREAKING OR ENTERING (M)       TROY,M      18CR 052035
+1                             DISTRICT COURT CALENDAR                    PAGE:    3
+
+          COURT DATE: 11/01/18        TIME: 09:00 AM        COURTROOM NUMBER: 001C
+
+  NO. DEFENDANT NAME          OFFENSE                        COMPLAINANT FILE NUMBER
+  *************************************************************************************
+                                INJURY TO REAL PROPERTY        TROY,M      18CR 052035
+      80 SCALES,RENITA,MAE      MISDEMEANOR LARCENY            DUNN,R,A,JR 18CR 730218
+      81 SEARS,ABDUL-AZIZ,HANIF POSSESS MARIJUANA UP TO 1/2 OZ BOYD,K      18CR 051898
+                                POSSESS MARIJ PARAPHERNALIA    BOYD,K      18CR 051898
+                                RESISTING PUBLIC OFFICER       BOYD,K      18CR 051898
+                                PRETRIAL RELEASE VIOL          BOYD,K      18CR 051898
+                                MOTION TO WITHDRAW COUNSEL     BOYD,K      18CR 051898
+                                MOTION TO WITHDRAW COUNSEL     BOYD,K      18CR 051898
+      82 SEARS,ABDUL,AZIZ-HANIF POSSESS MARIJ PARAPHERNALIA    STUMP,J,K   17CR 004500
+                                MOTION TO WITHDRAW COUNSEL     STUMP,J,K   17CR 004500
+      83 SEARS,ABDUL,AZIZHANIF  BREAKING OR ENTERING (M)       PHILLIPS,S, 18CR 703602
+                                MOTION TO WITHDRAW COUNSEL     PHILLIPS,S, 18CR 703602
+      84 SHEPPARD,HANNAH,BRYSON POSSESS MARIJ PARAPHERNALIA    GREINER,J,E 18CR 700317
+  **  85 SHERRILL,STERLING,JARR MISDEMEANOR PROBATION VIOL     HEYER,J     17CR 055417
+      86 SHEW,SARAH,ELIZABETH   RESISTING PUBLIC OFFICER       PERKINSON,J 18CR 052858
+      87 SIDES,COBBAN,ISSAC     VIOLATION OF COURT ORDER       WOOTEN,T,R  18CR 000324
+  **  88 SIMS,ANTONIO,DONNELL   SECOND DEGREE TRESPASS         VANBUREN,M  18CR 053507
+                                RESISTING PUBLIC OFFICER       VANBUREN,M  18CR 053507
+  **  89 SMITH,NAKOUYE,NAUEE    VIOLATION OF COURT ORDER       DOYLE,F     17CR 052865
+      90 SPRUILL,SAMUEL         TRESPASS OR SLEEP IN PARK VIOL WILLIAMS,J, 18CR 730461
+      91 STEPHENS,JAMES,LAMONT  MISDEMEANOR PROBATION VIOL     AHMED,BASHI 18CR 052863
+      92 STIMPSON,ANGELA        HARASSING PHONE CALL           DAVIS,CARLI 18CR 056869
+      93 STYLES,ZACHARY,TYLER   MISDEMEANOR LARCENY            MEGAN SHORT 18CR 059345
+      94 STYLES,ZACHARY,TYLER   NO OPERATORS LICENSE           ABRAMS,A,M  18CR 729700
+                                SIMPLE POSSESS SCH VI CS (M)   ABRAMS,A,M  18CR 729700
+  **  95 THOMAS,MOLLY,ALLRED    MISDEMEANOR PROBATION VIOL     TROY,M,A    17CR 730856
+      96 THOMAS,PATRICIA,DIANE  MISDEMEANOR LARCENY            CAIN,O,L    18CR 719308
+  **  97 TRENI,WAYNE,DAVID      MISDEMEANOR LARCENY            KEEL,J      18CR 059189
+      98 VILLATORO,EFRAIN,ALEXA POSSESS MARIJUANA UP TO 1/2 OZ KEEL,J      18CR 723497
+                                POSSESS MARIJ PARAPHERNALIA    KEEL,J      18CR 723497
+      99 WEBSTER,BROOKE,MCKINLE MISDEMEANOR SECRET PEEPING     DAVIS,J     17CR 053760
+     100 WEBSTER,BROOKE,MCKINLE SECOND DEGREE TRESPASS         JOHNSON,T   18CR 058977
+     101 WILLARD,MCKENZIE,MAE   POSSESS DRUG PARAPHERNALIA     PERKINSON,J 18CR 053173
+                                MISDEMEANOR PROBATION VIOL     PERKINSON,J 18CR 053173
+     102 WILLIAMS,TRINA,NICOLE  SOLICIT PROSTITUTION-M         WADE,D,L    17CR 001349
+     103 YOUNG,WILLIAM,DOUGLAS  SIGN EXPUNCTION                WILLIAMS,L, 11CR 011087
+
+  * MISSING/INVALID CHECK DIGIT
+ ** DEFENDANT NEEDS TO BE FINGERPRINTED

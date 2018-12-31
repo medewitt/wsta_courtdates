@@ -1,0 +1,2955 @@
+
+  RUN DATE: 11/20/18                                                        PAGE   1
+                             IN THE GENERAL COURT OF JUSTICE
+  LOCATION: WINSTON-SALEM        DISTRICT COURT DIVISION       COUNTY OF FORSYTH
+
+          COURT DATE: 11/27/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+                  TRAFFIC
+
+                     JUDGE PRESIDING :
+                     COURTROOM CLERK :
+                     PROSECUTOR      :
+                                     :
+                                     :
+                                     :
+                                     :
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+     1  18CR 054248 ALARCON,JESSICA       BLAISE,A       WPD ATTY:SHIFFLETTE,EDWA   3
+                    BOND:             CUS
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4018008
+                                        JUDGMENT:
+
+
+        (T)DWLR IMPAIRED REV                PLEA:                VER:       C4018008
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       C4018008
+                                        JUDGMENT:
+
+
+     2  18IF 706195 ALARCON,JESSICA       BLAISE,A,J     WPD ATTY:SHIFFLETTE,EDWA   3
+        (I)FAIL MAINTAIN LANE CONTROL       PLEA:                VER:       58G3509
+                                        JUDGMENT:
+
+
+     3  17CR 735367 AMAYACARRANZA,JOSE,CA LAUER,T,R      WPD ATTY:WAIVED            1
+              AKA: AMAYA,JOSE,C
+        (T)OPERATE VEH NO INS               PLEA:                VER:       6G80494
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)FAIL TO APPLY FOR NEW TITLE      PLEA:                VER:       6G80494
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+     4  17CR 735368 AMAYACARRANZA,JOSE,CA LAUER,T,R      WPD ATTY:WAIVED            1
+              AKA: AMAYA,JOSE,C
+        (T)ALLOW UNLICENSED TO DRIVE        PLEA:                VER:       6G80495
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)MISDEMEANOR CHILD ABUSE          PLEA:                VER:       6G80495
+        CLS:A1 P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    2
+
+          COURT DATE: 11/27/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+     5  18CR 051499 AMICK,RICHARD,EUGENE  SHUPE,J        WPD P.D.:PARKER,KELLY,EL   4
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:             WPA
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4395241
+                                        JUDGMENT:
+
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       C4395241
+                                        JUDGMENT:
+
+
+     6  18CR 706099 AMICK,RICHARD,EUGENE  SHUPE,J,M      WPD P.D.:PARKER,KELLY,EL   3
+        (M)SECOND DEGREE TRESPASS           PLEA:                VER:       32G7868
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)FLEE/ELUDE ARREST W/MV (M)       PLEA:                VER:       32G7868
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+     7  18CR 706100 AMICK,RICHARD,EUGENE  SHUPE,J,M      WPD P.D.:PARKER,KELLY,EL   3
+        (T)NO OPERATORS LICENSE             PLEA:                VER:       32G7869
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)RESISTING PUBLIC OFFICER         PLEA:                VER:       32G7869
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+     8  18CR 706101 AMICK,RICHARD,EUGENE  SHUPE,J,M      WPD P.D.:PARKER,KELLY,EL   3
+        (M)DISORDERLY CONDUCT               PLEA:                VER:       32G7870
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+     9  14CR 060634 ARIAS,CARLA,BETH      STRINGER,P     SFF P.D.:DAVIS,WHIT        7
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:      $1,500 SEC
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C0625806
+                                        JUDGMENT:                           ADA: WNW
+
+
+        (I)FAIL MAINTAIN LANE CONTROL       PLEA:                VER:       C0625806
+                                        JUDGMENT:
+
+
+        (M)MOTION TO RECALL                 PLEA:                VER:       C0625806
+        CLS:   P:   L:                  JUDGMENT:
+
+
+    10  18CR 723223 ARMISTEAD,IRVIN,JARRE BLAISE,A,J     WPD P.D.:STEWART,LARAQUE
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       99G3041
+        CLS:3  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    3
+
+          COURT DATE: 11/27/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (T)RECKLESS DRVG-WANTON DISREGARD   PLEA:                VER:       99G3041
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+    11  18CR 723224 ARMISTEAD,IRVIN,JARRE BLAISE,A,J     WPD P.D.:STEWART,LARAQUE
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       99G3042
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)OPEN CONT AFTER CONS ALC 1ST     PLEA:                VER:       99G3042
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    12  18IF 711796 BANGHAM,RICHARD,WAYNE GENEST,M,H     SFF
+        (I)FAIL STOP STOPSIGN/FLSH RED LT   PLEA:                VER:       172G131
+                                        JUDGMENT:
+
+
+    13  18CR 709728 BECK,BRIAN,ALLEN      DEEL,B,C       SHP ATTY:WAIVED            1
+        (T)SPEEDING                078/60   PLEA:                VER:       47G4533
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)DWLR IMPAIRED REV                PLEA:                VER:       47G4533
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    14  18CR 054492 BERGER,KEVIN,MICHAEL  BLAISE,A       WPD ATTY:WAIVED            2
+                    BOND:     $10,000 SEC
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4018011
+                                        JUDGMENT:
+
+
+        (T)OPERATE VEH NO INS               PLEA:                VER:       C4018011
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    15  18CR 718626 BLUE,JAMES,DUSTIN     WALSH,D,W      WPD ATTY:LOGAN,DANIEL,N    1
+        (T)DWLR IMPAIRED REV                PLEA:                VER:       38G8655
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       38G8655
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    16  18CR 057440 BOLDEN,CRYSTAL,STARR  HANKS,T        WPD P.D.:ABERNETHY,HANNA   1
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:      $2,500 CSH
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C3991467
+                                        JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    4
+
+          COURT DATE: 11/27/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (I)POSS OPN CNT/CONS ALC PSG AREA   PLEA:                VER:       C3991467
+                                        JUDGMENT:
+
+
+    17  18CR 705190 BONILLA,JOSUE,LOPEZ   HETTLER,S,C    WPD ATTY:SUMMERS,CECIL     2
+        (T)SPEEDING                095/65   PLEA:                VER:       30G6642
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)RECKLESS DRVG-WANTON DISREGARD   PLEA:                VER:       30G6642
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+    18  17CR 061949 BOWLES,JOSHUA,ANTONIO HANKS,T        WPD ATTY:WAIVED            2
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:      $2,500 SEC
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C3988688
+                                        JUDGMENT:
+
+
+        (T)DWLR IMPAIRED REV                PLEA:                VER:       C3988688
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       C3988688
+                                        JUDGMENT:
+
+
+    19  17IF 719402 BOWLES,JOSHUA,ANTONIO HANKS,T,S      WPD ATTY:WAIVED            2
+        (I)SPEEDING                057/45   PLEA:                VER:       00G0098
+                                        JUDGMENT:
+
+
+        (I)BRAKE/STOP LIGHT EQUIP VIOL      PLEA:                VER:       00G0098
+                                        JUDGMENT:
+
+
+    20  17IF 719404 BOWLES,JOSHUA,ANTONIO HANKS,T,S      WPD ATTY:WAIVED            2
+        (I)POSS OPN CNT/CONS ALC PSG AREA   PLEA:                VER:       00G0099
+                                        JUDGMENT:
+
+
+    21  18CR 705788 BOWMAN,KAYLA,RENITA   BLAISE,A,J     WPD ATTY:WAIVED            2
+        (I)UNLAWFULLY PASS EM/PUB SV VEH    PLEA:                VER:       25G0904
+                                        JUDGMENT:
+
+
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       25G0904
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    22  17CR 723827 BRADFORD,DANIEL,THOMA BROWN,R,M      WPD P.D.:THOMAS,CHRISTIA   2
+                    BOND:      $1,000 SEC
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       0G44935
+        CLS:3  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    5
+
+          COURT DATE: 11/27/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (I)FAIL TO STOP-STEADY RED LIGHT    PLEA:                VER:       0G44935
+                                        JUDGMENT:
+
+
+    23  18CR 050553 BROWN,CORLEY,LAVELLE  BLAISE,A       WPD P.D.:SMITH,CARA        3
+              AKA: BROWN,CORLEY
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:             WPA
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4394291
+                                        JUDGMENT:
+
+
+        (T)DWLR IMPAIRED REV                PLEA:                VER:       C4394291
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       C4394291
+                                        JUDGMENT:
+
+
+    24  18CR 702303 BROWN,CORLEY,LAVELLE  BLAISE,A,J     WPD P.D.:SMITH,CARA        3
+        (T)OPEN CONT AFTER CONS ALC 1ST     PLEA:                VER:       09G8185
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)NOISE ORDINANCE VIOLATION        PLEA:                VER:       09G8185
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    25  17CR 725579 BROWN,DARRIEL,TYRIQUE WRAY,J,R       WPD ATTY:LOGAN,DANIEL,N    3
+        (T)DRIVE AFTER CONSUMING < 21       PLEA:                VER:       3G04820
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+        (T)SPEEDING                062/45   PLEA:                VER:       3G04820
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    26  18CR 054232 BROWN,JOSEPH,LAWRENCE BLAISE,A       WPD ATTY:SIMPSON,TRAVIS    2
+                    BOND:             CUS
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4018007
+                                        JUDGMENT:
+
+
+        (I)POSS OPN CNT/CONS ALC PSG AREA   PLEA:                VER:       C4018007
+                                        JUDGMENT:
+
+
+    27  18CR 714143 BROWN,JOSEPH,LAWRENCE BLAISE,A,J     WPD ATTY:SIMPSON,TRAVIS    1
+        (T)NO OPERATORS LICENSE             PLEA:                VER:       58G3508
+        CLS:3  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    6
+
+          COURT DATE: 11/27/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    28  18IF 706194 BROWN,JOSEPH,LAWRENCE BLAISE,A,J     WPD ATTY:SIMPSON,TRAVIS    1
+        (I)FAIL MAINTAIN LANE CONTROL       PLEA:                VER:       58G3507
+                                        JUDGMENT:
+
+
+        (I)DIRECTIONAL SIGNALS EQUIP VIOL   PLEA:                VER:       58G3507
+                                        JUDGMENT:
+
+
+    29  18IF 710055 BROWN,LATRELLA,DYVETT MCRAE,P,J      WPD
+        (I)SPEEDING                080/65   PLEA:                VER:       77G7080
+                                        JUDGMENT:
+
+
+    30  18CR 728965 BULLINS,JONATHAN,LEWI LIGONS,S
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       118G308
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)OPERATE VEH NO INS               PLEA:                VER:       118G308
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    31  17CR 061093 BURKE,CHRISTOPHER,EDW HANKS,T        WPD ATTY:BYRD,JONES,P      5
+                    BOND:             WPA
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4396750
+                                        JUDGMENT:                           ADA: JCG
+
+
+        (I)FAIL MAINTAIN LANE CONTROL       PLEA:                VER:       C4396750
+                                        JUDGMENT:
+
+
+    32  18CR 000400 BURKE,LINDSEY,ANN     HANKS,T,S      WPD APT.:GREENWOOD,DYLAN   3
+        (T)AID AND ABET IMPAIRED DRIVING    PLEA:                VER:       C3988708
+                                        JUDGMENT:
+
+
+    33  18CR 050772 BURKS,KAYLAB,CHRISTIA HANKS,T        WPD P.D.:STEWART,LARAQUE   2
+                    BOND:             WPA
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C3988709
+                                        JUDGMENT:
+
+
+        (I)POSS OPN CNT/CONS ALC PSG AREA   PLEA:                VER:       C3988709
+                                        JUDGMENT:
+
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       C3988709
+                                        JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    7
+
+          COURT DATE: 11/27/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    34  18CR 055856 BURKS,STEVE,RAY       BLAISE,A       WPD P.D.:DAVIS,WHIT        2
+                    BOND:     $20,000 SEC
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4018014
+                                        JUDGMENT:                           ADA: JCG
+
+
+        (T)DWLR IMPAIRED REV                PLEA:                VER:       C4018014
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       C4018014
+                                        JUDGMENT:
+
+
+    35  18CR 715737 CHIPLEY,ODERIA,JEBAR  RUIZ,M,A       WPD ATTY:WAIVED            1
+        (T)DWLR IMPAIRED REV                PLEA:                VER:       53G6472
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    36  18CR 725821 CLEARY,MICHAEL,BRYSON ALLRED,L,C     WPD P.D.:WILSON,GREGORY
+        (T)DWLR IMPAIRED REV                PLEA:                VER:       75G2702
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    37  18CR 040203 COLES,QUENTIN,VALENTI BLAISE,A,J     WPD P.D.:WILSON,GREGORY    1
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4396508
+                                        JUDGMENT:                           ADA: JCG
+
+
+        (T)NO OPERATORS LICENSE             PLEA:                VER:       C4396508
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       C4396508
+                                        JUDGMENT:
+
+
+    38  18CR 728476 COLES,QUENTIN,VALENTI BLAISE,A,J     WPD
+        (M)INTOXICATED AND DISRUPTIVE       PLEA:                VER:       254G985
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)RECKLESS DRVG-WANTON DISREGARD   PLEA:                VER:       254G985
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+    39  18IF 712629 COLES,QUENTIN,VALENTI BLAISE,A,J     WPD
+        (I)FAIL MAINTAIN LANE CONTROL       PLEA:                VER:       254G986
+                                        JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    8
+
+          COURT DATE: 11/27/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    40  17CR 060822 COOKE,MOLLY,ELIZABETH HANKS,T        WPD ATTY:NEWMAN,ANDREW     3
+                    BOND:             CUS
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4396742
+                                        JUDGMENT:
+
+
+        (I)FAIL TO STOP-STEADY RED LIGHT    PLEA:                VER:       C4396742
+                                        JUDGMENT:
+
+
+    41  17CR 716491 COOKE,MOLLY,ELIZABETH SHERRILL,J,J   SHP ATTY:NEWMAN,ANDREW     4
+        (T)SPEEDING                075/45   PLEA:                VER:       1G47719
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (I)EXPIRED/NO INSPECTION            PLEA:                VER:       1G47719
+                                        JUDGMENT:
+
+
+    42  17CR 736633 COOKE,MOLLY,ELIZABETH HANKS,T,S      WPD ATTY:NEWMAN,ANDREW     3
+        (I)DRIVE LEFT OF CENTER             PLEA:                VER:       7G07076
+                                        JUDGMENT:
+
+
+        (T)FAIL COMPLY LIC RESTRICTIONS     PLEA:                VER:       7G07076
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    43  18CR 720644 CRAWFORD,MICHELLE,ANN MCRAE,P,J      WPD ATTY:CHURCH,TERESA     2
+        (T)PASSENGER FLEE ACC PROP DAM      PLEA:                VER:       77G7075
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    44  18CR 728585 CRUZ-SIXTOS,JUVENTINO GENEST,M,H     SFF
+        (T)NO OPERATORS LICENSE             PLEA:                VER:       340G934
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)NO LIABILITY INSURANCE           PLEA:                VER:       340G934
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+    45  18CR 001823 DAVIDSON,JOSEPH,LEE   WALSH,D,W      WPD P.D.:THOMAS,CHRISTIA   1
+        (I)FAILURE TO REDUCE SPEED          PLEA:                VER:       C4394121
+                                        JUDGMENT:
+
+
+        (T)FAIL COMPLY LIC RESTRICTIONS     PLEA:                VER:       C4394121
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    46  18CR 055817 DAVIDSON,JOSEPH,LEE   WALSH,D        WPD P.D.:THOMAS,CHRISTIA   1
+                    BOND:      $5,000 SEC
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4394120
+                                        JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    9
+
+          COURT DATE: 11/27/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (T)HIT/RUN LEAVE SCENE PROP DAM     PLEA:                VER:       C4394120
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       C4394120
+                                        JUDGMENT:
+
+
+    47  18CR 055819 DAVIDSON,JOSEPH,LEE   WALSH,D        WPD P.D.:THOMAS,CHRISTIA   1
+                    BOND:      $1,000 SEC
+        (T)RECKLESS DRVG-WANTON DISREGARD   PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+        (I)FAIL TO NOTIFY DMV ADDR CHANGE   PLEA:                VER:
+                                        JUDGMENT:
+
+
+        (I)FAIL CARRY VALID DRIVERS LIC     PLEA:                VER:
+                                        JUDGMENT:
+
+
+    48  18CR 728770 DAVIDSON,SHANTA,RENEE BURKS,C,M      WPD
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       88G2811
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    49  18CR 056952 DAY,BURLEY,JAMES,JR   BROWN,R        WPD ATTY:RANDOLPH,MARK,E
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:             WPA
+        (M)CONCEALED GUN AFTER/WHILE CONS   PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+    50  18CR 056953 DAY,BURLEY,JAMES,JR   BROWN,R        WPD ATTY:RANDOLPH,MARK,E
+                    BOND:             CUS
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4395734
+                                        JUDGMENT:
+
+
+    51  18CR 057221 DUNN,STEVEN,KENT      WALSH,D        WPD ATTY:WAIVED
+                    BOND:      $1,500 SEC
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C3762198
+                                        JUDGMENT:
+
+
+        (I)POSS OPN CNT/CONS ALC PSG AREA   PLEA:                VER:       C3762198
+                                        JUDGMENT:
+
+
+    52  18CR 722404 DUNN,STEVEN,KENT      WALSH,D,W      WPD ATTY:WAIVED
+        (T)NO OPERATORS LICENSE             PLEA:                VER:       87G4335
+        CLS:3  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   10
+
+          COURT DATE: 11/27/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (T)RECKLESS DRIVING TO ENDANGER     PLEA:                VER:       87G4335
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+    53  18CR 060512 EDWARDS,KENNETH,GUY   JOHNSON,S      KPD
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:             WPA
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4017762
+                                        JUDGMENT:
+
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       C4017762
+                                        JUDGMENT:
+
+
+        (M)DRIVING PRIVILEGE                PLEA:                VER:       C4017762
+        CLS:   P:   L:                  JUDGMENT:
+
+
+    54  18CR 050524 ENTSMINGER,DRUEN,LEE  BLAISE,A       WPD ATTY:TOLIN,JAMES,W     5
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:             CUS
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4394290
+                                        JUDGMENT:
+
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       C4394290
+                                        JUDGMENT:
+
+
+    55  18IF 700870 ENTSMINGER,DRUEN,LEE  BLAISE,A,J     WPD ATTY:TOLIN,JAMES,W     5
+        (I)UNSAFE MOVEMENT                  PLEA:                VER:       09G8182
+                                        JUDGMENT:
+
+
+    56  18CR 727596 EVANS,MATTHEW,DARREN  GENEST,M,H     SFF
+        (T)NO LIABILITY INSURANCE           PLEA:                VER:       172G134
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+        (T)FICT/ALT TITLE/REG CARD/TAG      PLEA:                VER:       172G134
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    57  18CR 730340 FISHER,LATRECE,RONETT CROSSWHITE,M,H L-T
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       66G1169
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    58  18CR 728943 FRENCH,ANGELA,MICHELE HANKS,T,S      WPD
+        (T)NO OPERATORS LICENSE             PLEA:                VER:       89G9579
+        CLS:3  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   11
+
+          COURT DATE: 11/27/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    59  17CR 058787 FULK,ANDREW,REDMON    HANKS,T        WPD ATTY:TISDALE,KEN       3
+                    BOND:             CUS
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4396719
+                                        JUDGMENT:
+
+
+        (I)EXCEEDING POSTED SPEED           PLEA:                VER:       C4396719
+                                        JUDGMENT:
+
+
+    60  17CR 730010 FULK,ANDREW,REDMON    HANKS,T,S      WPD ATTY:TISDALE,KEN       3
+        (T)FAIL COMPLY LIC RESTRICTIONS     PLEA:                VER:       7G07055
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (I)DESIGNATED LANE VIOLATION        PLEA:                VER:       7G07055
+                                        JUDGMENT:
+
+
+    61  18IF 712340 GARCIA,BEBERLI,CONTRE HANKS,T,S      WPD
+        (I)FAIL MAINTAIN LANE CONTROL       PLEA:                VER:       89G9577
+                                        JUDGMENT:
+                   SPANISH
+
+
+        (I)TRAFFIC CONTROL DEVICE VIOL      PLEA:                VER:       89G9577
+                                        JUDGMENT:
+                   SPANISH
+
+
+    62  18CR 058870 GARCIA,BEBERLI,CONTRE HANKS,T        WPD P.D.:THOMAS,CHRISTIA
+              AKA: CONTRERAS,FRANCISCO , GARCIA,BEBERLI
+                    BOND:      $3,000 SEC
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C3991471
+                                        JUDGMENT:
+
+
+        (T)DWLR IMPAIRED REV                PLEA:                VER:       C3991471
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       C3991471
+                                        JUDGMENT:
+
+
+    63  18CR 058381 GLASSER,DEREK,ROBERT  HANKS,T        WPD P.D.:DAVIS,WHIT        1
+                    BOND:      $5,000 SEC
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C3991470
+                                        JUDGMENT:
+
+
+        (T)DWLR IMPAIRED REV                PLEA:                VER:       C3991470
+        CLS:1  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   12
+
+          COURT DATE: 11/27/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       C3991470
+                                        JUDGMENT:
+
+
+    64  18CR 726083 GLASSER,DEREK,ROBERT  HANKS,T,S      WPD P.D.:DAVIS,WHIT        1
+        (M)CARRYING CONCEALED WEAPON        PLEA:                VER:       89G9570
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+        (I)TRAFFIC CONTROL DEVICE VIOL      PLEA:                VER:       89G9570
+                                        JUDGMENT:
+
+
+    65  18IF 711649 GLASSER,DEREK,ROBERT  HANKS,T,S      WPD P.D.:DAVIS,WHIT        1
+        (I)POSS OPN CNT/CONS ALC PSG AREA   PLEA:                VER:       89G9571
+                                        JUDGMENT:
+
+
+    66  17CR 059696 GOMEZ,GAYLE           BROWN,R        WPD ATTY:MCMINN,JAMES      7
+                    BOND:             WPA
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4395728
+                                        JUDGMENT:
+
+
+    67  17IF 716024 GOMEZ,GAYLE           BROWN,R,M      WPD ATTY:MCMINN,JAMES      7
+        (I)FAIL MAINTAIN LANE CONTROL       PLEA:                VER:       6G18956
+                                        JUDGMENT:
+
+
+        (I)POSS OPN CNT/CONS ALC PSG AREA   PLEA:                VER:       6G18956
+                                        JUDGMENT:
+
+
+    68  18CR 058280 GONZALEZ,MICHAEL,ANGE BLAISE,A       WPD ATTY:CHURCH,TERESA
+                    BOND:      $2,000 SEC
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4018024
+                                        JUDGMENT:
+
+
+        (T)NO OPERATORS LICENSE             PLEA:                VER:       C4018024
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       C4018024
+                                        JUDGMENT:
+
+
+    69  18IF 711505 GONZALEZ,MICHAEL,ANGE BLAISE,A,J     WPD
+        (I)WRONG WAY ON DUAL LANE HIGHWAY   PLEA:                VER:       99G3047
+                                        JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   13
+
+          COURT DATE: 11/27/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (I)FAIL MAINTAIN LANE CONTROL       PLEA:                VER:       99G3047
+                                        JUDGMENT:
+
+
+    70  18CR 054978 GRAHAM,AMY,LEA        HANKS,T        WPD ATTY:FRADIN,MICHAEL    1
+                    BOND:             CUS
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C3991441
+                                        JUDGMENT:
+
+
+        (I)FAIL MAINTAIN LANE CONTROL       PLEA:                VER:       C3991441
+                                        JUDGMENT:
+
+
+    71  15CR 040179 GRANT,KEATON,TYLER    BYRD,J,M       SHP ATTY:LEE,KELLY,SCOTT   3
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       6676083
+                                        JUDGMENT:                           ADA: JCG
+
+
+        (M)MOTION TO RECALL                 PLEA:                VER:       6676083
+        CLS:   P:   L:                  JUDGMENT:
+
+
+        (M)MISDEMEANOR PROBATION VIOL       PLEA:                VER:       6676083
+                                        JUDGMENT:
+
+
+    72  18CR 059221 GRIFFIN,MARK,EUGENE R HANKS,T        WPD
+                    BOND:             CUS
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C3991473
+                                        JUDGMENT:
+
+
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       C3991473
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       C3991473
+                                        JUDGMENT:
+
+
+    73  18IF 712805 GRIFFIN,MARK,EUGENE,R HANKS,T,S      WPD
+        (I)DRIVE LEFT OF CENTER             PLEA:                VER:       89G9580
+                                        JUDGMENT:
+
+
+    74  18CR 726370 HALL,CHRISTINA,MARIE  GENEST,M,H     SFF
+        (T)NO OPERATORS LICENSE             PLEA:                VER:       172G129
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)FICT/ALT TITLE/REG CARD/TAG      PLEA:                VER:       172G129
+        CLS:3  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   14
+
+          COURT DATE: 11/27/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    75  18CR 720806 HARRIS,SHAUN,LAURICE  RUIZ,M,A       WPD ATTY:WAIVED
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       78G3076
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (I)FAIL TO STOP-STEADY RED LIGHT    PLEA:                VER:       78G3076
+                                        JUDGMENT:
+
+
+    76  18CR 720807 HARRIS,SHAUN,LAURICE  RUIZ,M,A       WPD ATTY:WAIVED
+        (T)DR/ALLOW REG PLATE NOT DISPLAY   PLEA:                VER:       78G3077
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    77  18CR 720826 HARRIS,SHAUN,LAURICE  BLAISE,A,J     WPD
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:       99G3031
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:       99G3031
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    78  18CR 040140 HARVILLE,DANIEL,LEE   RUIZ,M,A       WPD P.D.:ABERNETHY,HANNA   1
+                    BOND:      $1,500 SEC
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C3759999
+                                        JUDGMENT:
+
+
+    79  18CR 717735 HARVILLE,DANIEL,LEE   CAMPBELL,A,III WPD P.D.:ABERNETHY,HANNA   1
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       68G6553
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       68G6553
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    80  18CR 717736 HARVILLE,DANIEL,LEE   CAMPBELL,A,III WPD P.D.:ABERNETHY,HANNA   1
+        (T)OPERATE VEH NO INS               PLEA:                VER:       68G6554
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)FAIL TO REPORT ACCIDENT          PLEA:                VER:       68G6554
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+    81  18CR 717869 HARVILLE,DANIEL,LEE   SHUPE,J,M      WPD P.D.:ABERNETHY,HANNA   1
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       88G3300
+        CLS:3  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   15
+
+          COURT DATE: 11/27/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       88G3300
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    82  18CR 717870 HARVILLE,DANIEL,LEE   SHUPE,J,M      WPD P.D.:ABERNETHY,HANNA   1
+        (T)NO LIABILITY INSURANCE           PLEA:                VER:       88G3302
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+        (I)EXCEEDING POSTED SPEED           PLEA:                VER:       88G3302
+                                        JUDGMENT:
+
+
+    83  18CR 717871 HARVILLE,DANIEL,LEE   SHUPE,J,M      WPD P.D.:ABERNETHY,HANNA   1
+        (T)FAIL TO REPORT ACCIDENT          PLEA:                VER:       88G3303
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+    84  18IF 708039 HARVILLE,DANIEL,LEE   SHUPE,J,M      WPD P.D.:ABERNETHY,HANNA   1
+        (I)FAIL MAINTAIN LANE CONTROL       PLEA:                VER:       88G3301
+                                        JUDGMENT:
+
+
+        (I)UNSAFE TIRES                     PLEA:                VER:       88G3301
+                                        JUDGMENT:
+
+
+    85  18CR 727642 HENLEY,PATRICK,SHAWN  GENEST,M,H     SFF
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       172G135
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       172G135
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    86  16CR 040223 HEPLER,CHANDLER,DAYNE FREEMAN,K,D    WPD P.D.:PARKER,KELLY,EL   7
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+        (M)MISDEMEANOR PROBATION VIOL       PLEA:                VER:       C3760138
+                                        JUDGMENT:                           ADA: MMR
+
+
+    87  18CR 726471 HERNANDEZCRUZ,MARIA,T SHUPE,J,M      WPD
+        (I)UNSAFE LANE CHANGE               PLEA:                VER:       025G438
+                                        JUDGMENT:
+
+
+        (T)NO OPERATORS LICENSE             PLEA:                VER:       025G438
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    88  18CR 726472 HERNANDEZCRUZ,MARIA,T SHUPE,J,M      WPD
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       025G439
+        CLS:3  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   16
+
+          COURT DATE: 11/27/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    89  18CR 056276 HIATT,BRANDON,MICHAEL BLAISE,A       WPD P.D.:THOMAS,CHRISTIA   1
+              AKA: BOGGS HIATT,BRANDON,
+                    BOND:             CUS
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4018016
+                                        JUDGMENT:
+
+
+        (T)DWLR IMPAIRED REV                PLEA:                VER:       C4018016
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    90  18CR 719888 HIATT,BRANDON,MICHAEL BLAISE,A,J     WPD P.D.:THOMAS,CHRISTIA   1
+        (T)RECKLESS DRVG-WANTON DISREGARD   PLEA:                VER:       76G9639
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+        (I)FAIL MAINTAIN LANE CONTROL       PLEA:                VER:       76G9639
+                                        JUDGMENT:
+
+
+    91  18CR 719889 HIATT,BRANDON,MICHAEL BLAISE,A,J     WPD P.D.:THOMAS,CHRISTIA   1
+        (T)OPEN CONT AFTER CONS ALC 1ST     PLEA:                VER:       76G9640
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (I)FAILURE TO REDUCE SPEED          PLEA:                VER:       76G9640
+                                        JUDGMENT:
+
+
+    92  17CR 061085 HIGGINS,JOSE,ANGEL    HANKS,T        WPD ATTY:SIMMONS,JOSHUA,   2
+                    BOND:             CUS
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4396749
+                                        JUDGMENT:
+
+
+        (T)SPEEDING                055/35   PLEA:                VER:       C4396749
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    93  18CR 051129 HOLLY,CAROL,ANN       HANKS,T        WPD P.D.:MCCORMICK,CATHE   2
+                    BOND:             CUS
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C3988712
+                                        JUDGMENT:
+
+
+        (T)DWLR IMPAIRED REV                PLEA:                VER:       C3988712
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       C3988712
+                                        JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   17
+
+          COURT DATE: 11/27/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    94  17CR 003561 HOPPER,MATTHEW,STONEW HANKS,T,S      WPD ATTY:BYRD,JONES,P      5
+        (T)AID AND ABET IMPAIRED DRIVING    PLEA:                VER:       C4396030
+                                        JUDGMENT:
+
+
+        (I)FAIL TO NOTIFY DMV ADDR CHANGE   PLEA:                VER:       C4396030
+                                        JUDGMENT:
+
+
+    95  18CR 728250 HUNTER,AJLON,JAALAH   GENEST,M,H     SFF
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       340G932
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    96  17CR 721073 HURT,GREGORY,VANCE    HANKS,T,S      WPD P.D.:MCCORMICK,CATHE   3
+                    BOND:      $5,000 SEC
+        (T)DWLR IMPAIRED REV                PLEA:                VER:       0G19409
+        CLS:1  P:   L:                  JUDGMENT:                           ADA: JLM
+
+
+        (I)DRIVE LEFT OF CENTER             PLEA:                VER:       0G19409
+                                        JUDGMENT:
+
+
+        (M)MOTION OFA RECALL                PLEA:                VER:       0G19409
+        CLS:   P:   L:                  JUDGMENT:
+
+
+        (M)MOTION FOR OFA RECALL            PLEA:                VER:       0G19409
+        CLS:   P:   L:                  JUDGMENT:
+
+
+        (M)MOTION FOR OFA RECALL            PLEA:                VER:       0G19409
+        CLS:   P:   L:                  JUDGMENT:
+
+
+    97  18CR 712321 HUTTON,JOHN,ROBERT    WETTER,B,M     SFF ATTY:BYRD,JONES,P      2
+        (T)DWLR IMPAIRED REV                PLEA:                VER:       7G12048
+        CLS:1  P:   L:                  JUDGMENT:                           ADA: JCG
+
+
+    98  18CR 723531 INGRAM,CEDRIC,DENARD  SPAINHOUR,R,H  SFF ATTY:WAIVED            1
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       079G730
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    99  18CR 728996 JACOBO-CASTANEDA,ZENA LIGONS,S
+        (T)NO OPERATORS LICENSE             PLEA:                VER:       118G309
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   100  18CR 001694 JARRELL,JUSTIN,LEE    SINK,K,M       SFF P.D.:LANASA,JENNIFER   1
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       C3760693
+        CLS:3  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   18
+
+          COURT DATE: 11/27/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       C3760693
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   101  18CR 058206 JAYSON,STEPHEN,EUGENE BLAISE,A       WPD P.D.:DAVIS,WHIT        1
+                    BOND:             WPA
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4018023
+                                        JUDGMENT:                           ADA: JCG
+
+
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       C4018023
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   102  18CR 725580 JAYSON,STEPHEN,EUGENE BLAISE,A,J     WPD P.D.:DAVIS,WHIT        1
+        (T)NO OPERATORS LICENSE             PLEA:                VER:       99G3046
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: JCG
+
+
+        (T)FAIL COMPLY LIC RESTRICTIONS     PLEA:                VER:       99G3046
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   103  18CR 054277 JESSUP,ELIJAH,DANIEL  BLAISE,A       WPD P.D.:THOMAS,CHRISTIA   1
+                    BOND:             WPA
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4018010
+                                        JUDGMENT:
+
+
+   104  18CR 714212 JESSUP,ELIJAH,DANIEL  BLAISE,A,J     WPD P.D.:THOMAS,CHRISTIA   1
+        (T)DRIVE AFTER CONSUMING < 21       PLEA:                VER:       58G3511
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+        (T)HIT/RUN FAIL STOP PROP DAMAGE    PLEA:                VER:       58G3511
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+   105  18CR 714213 JESSUP,ELIJAH,DANIEL  BLAISE,A,J     WPD P.D.:THOMAS,CHRISTIA   1
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:       58G3512
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:       58G3512
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   106  18CR 057852 JOHNSON,CRAIG,ARNOLD, PACE,S         WPD P.D.:ABERNETHY,HANNA
+                    BOND:             CUS
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C3426485
+                                        JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   19
+
+          COURT DATE: 11/27/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       C3426485
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       C3426485
+                                        JUDGMENT:
+
+
+   107  18CR 724441 JOHNSON,CRAIG,ARNOLD, PACE,S,A       WPD P.D.:ABERNETHY,HANNA
+        (M)DISORDERLY CONDUCT               PLEA:                VER:       196G873
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       196G873
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   108  18IF 710970 JOHNSON,CRAIG,ARNOLD, PACE,S,A       WPD P.D.:ABERNETHY,HANNA
+        (I)EXPIRED/NO INSPECTION            PLEA:                VER:       196G874
+                                        JUDGMENT:
+
+
+   109  17CR 059075 JOHNSON,DONNA,SMITH   BROWN,R        WPD ATTY:MCMINN,JAMES      2
+                    BOND:             WPA
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4395727
+                                        JUDGMENT:
+
+
+        (I)FAIL STOP AT APPROPRIATE SPOT    PLEA:                VER:       C4395727
+                                        JUDGMENT:
+
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       C4395727
+                                        JUDGMENT:
+
+
+   110  17CR 058252 JOHNSON,JEREMY,JERROD HANKS,T        WPD ATTY:TISDALE,KEN       3
+                    BOND:             CUS
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4396707
+                                        JUDGMENT:                           ADA: PAT
+
+
+        (I)FAIL TO STOP-STEADY RED LIGHT    PLEA:                VER:       C4396707
+                                        JUDGMENT:
+
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       C4396707
+                                        JUDGMENT:
+
+
+   111  17IF 713523 JOHNSON,JEREMY,JERROD HANKS,T,S      WPD ATTY:TISDALE,KEN       3
+        (I)EXCEEDING POSTED SPEED           PLEA:                VER:       5G55147
+                                        JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   20
+
+          COURT DATE: 11/27/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+   112  17CR 001893 JOHNSON,LORIE,ANN     HANKS,T,S      WPD ATTY:SHIFFLETTE,EDWA   7
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+        (I)FAIL TO STOP-STEADY RED LIGHT    PLEA:                VER:       C1994138
+                                        JUDGMENT:
+
+
+        (M)CONTRIBUTING DEL OF JUVENILE     PLEA:                VER:       C1994138
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+   113  17CR 054666 JOHNSON,LORIE,ANN     HANKS,T        WPD ATTY:SHIFFLETTE,EDWA   7
+                    BOND:             WPA
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C1994137
+                                        JUDGMENT:
+
+
+        (T)DWLR IMPAIRED REV                PLEA:                VER:       C1994137
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       C1994137
+                                        JUDGMENT:
+
+
+   114  17CR 061952 JONES,JONATHON,RASHAD BLAISE,A       WPD ATTY:ELLISON,ERIC      4
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:             CUS
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4394289
+                                        JUDGMENT:
+
+
+        (I)POSS OPN CNT/CONS ALC PSG AREA   PLEA:                VER:       C4394289
+                                        JUDGMENT:
+
+
+   115  17CR 061953 JONES,JONATHON,RASHAD BLAISE,A       WPD ATTY:ELLISON,ERIC      4
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:          $1 CUS
+        (M)CARRYING CONCEALED GUN(M)        PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+        (T)FAIL COMPLY LIC RESTRICTIONS     PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   116  17IF 719407 JONES,JONATHON,RASHAD BLAISE,A,J     WPD ATTY:ELLISON,ERIC      4
+        (I)DRIVE LEFT OF CENTER             PLEA:                VER:       09G8163
+                                        JUDGMENT:
+
+
+        (I)FAIL MAINTAIN LANE CONTROL       PLEA:                VER:       09G8163
+                                        JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   21
+
+          COURT DATE: 11/27/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+   117  18CR 058722 KENT,GREG,JAMES       LANCASTER,J    WPD
+                    BOND:             WPA
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4018403
+                                        JUDGMENT:
+
+
+        (T)OPEN CONT AFTR CONS ALC SUBOFN   PLEA:                VER:       C4018403
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       C4018403
+                                        JUDGMENT:
+
+
+   118  18CR 727305 KENT,GREG,JAMES       LANCASTER,J,C  WPD
+        (T)NO OPERATORS LICENSE             PLEA:                VER:       075G649
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (I)FAIL MAINTAIN LANE CONTROL       PLEA:                VER:       075G649
+                                        JUDGMENT:
+
+
+   119  18IF 712170 KENT,GREG,JAMES       LANCASTER,J,C  WPD
+        (I)FAIL TO WEAR SEAT BELT-DRIVER    PLEA:                VER:       075G650
+                                        JUDGMENT:
+
+
+   120  18CR 057952 KING,JAMAR,DONNELL    JACOBSON,N     SHP
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       6892866
+                                        JUDGMENT:
+
+
+   121  18CR 059952 KING,JAMAR,DONNELL    JACOBSON,N     SHP APT.:GREENWOOD,DYLAN
+                    BOND:      $5,000 SEC
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       6894353
+                                        JUDGMENT:
+
+
+        (I)POSS OPN CNT/CONS ALC PSG AREA   PLEA:                VER:       6894353
+                                        JUDGMENT:
+
+
+   122  18CR 059953 KING,JAMAR,DONNELL    JACOBSON,N     SHP
+                    BOND:          $1 SEC
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       6894354
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)WINDOW TINTING VIOL              PLEA:                VER:       6894354
+        CLS:3  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   22
+
+          COURT DATE: 11/27/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+   123  18CR 702210 KRONBERG,CHRISTOPHER, BLAISE,A,J     WPD P.D.:THOMAS,CHRISTIA   1
+        (T)DWLR IMPAIRED REV                PLEA:                VER:       09G8179
+        CLS:1  P:   L:                  JUDGMENT:                           ADA: JCG
+
+
+        (T)FICT/ALT TITLE/REG CARD/TAG      PLEA:                VER:       09G8179
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   124  18CR 702211 KRONBERG,CHRISTOPHER, BLAISE,A,J     WPD P.D.:THOMAS,CHRISTIA   1
+        (T)NO LIABILITY INSURANCE           PLEA:                VER:       09G8180
+        CLS:2  P:   L:                  JUDGMENT:                           ADA: JCG
+
+
+        (I)EXPIRED/NO INSPECTION            PLEA:                VER:       09G8180
+                                        JUDGMENT:
+
+
+   125  17CR 709289 LAMBERT,CHRISTOPHER,E MEBANE,T,T     SHP ATTY:MCMINN,JAMES
+                    BOND:        $365 CSH
+        (T)SPEEDING                094/55   PLEA:                VER:       G736159
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: JCG
+
+
+        (T)RECKLESS DRIVING TO ENDANGER     PLEA:                VER:       G736159
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+        (M)VIOLATION OF COURT ORDER         PLEA:                VER:       G736159
+                                        JUDGMENT:
+
+
+   126  18CR 002348 LANE,AMY,RENEE        HANKS,T,S      WPD APT.:SHORT,RONALD,J    1
+        (T)AID AND ABET IMPAIRED DRIVING    PLEA:                VER:       C3991469
+                                        JUDGMENT:
+
+
+   127  18IF 712220 LINDSAY,MASON,JAVAE   ALLEN,W,A      WPD
+        (I)FAILURE TO REDUCE SPEED          PLEA:                VER:       4G63059
+                                        JUDGMENT:
+
+
+   128  18CR 700044 LIVINGSTON,MONIQUE    HANKS,T,S      WPD ATTY:MCMINN,JAMES      3
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       00G0106
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (I)DRIVE LEFT OF CENTER             PLEA:                VER:       00G0106
+                                        JUDGMENT:
+
+
+   129  18CR 700045 LIVINGSTON,MONIQUE    HANKS,T,S      WPD ATTY:MCMINN,JAMES      3
+        (M)MISDEMEANOR CHILD ABUSE          PLEA:                VER:       16G6854
+        CLS:A1 P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   23
+
+          COURT DATE: 11/27/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+   130  18CR 050020 LIVINGSTON,MONIQUE,SH HANKS,T        WPD ATTY:MCMINN,JAMES      3
+              AKA: LIVINGSTON,MONIQUE,S
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:      $3,000 SEC
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C3988691
+                                        JUDGMENT:
+
+
+        (T)SPEEDING                073/55   PLEA:                VER:       C3988691
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   131  18CR 725420 LYONS,DEMONICA,LADASH BLAISE,A,J     WPD APT.:DENIED            1
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       99G3043
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: JCG
+
+
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       99G3043
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   132  18CR 725421 LYONS,DEMONICA,LADASH BLAISE,A,J     WPD APT.:DENIED            1
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:       99G3044
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: JCG
+
+
+   133  18CR 720819 LYONS,RICHARD,GRANT   MCRAE,P,J      WPD P.D.:THOMAS,CHRISTIA   2
+        (T)HIT/RUN FAIL STOP PROP DAMAGE    PLEA:                VER:       77G7079
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+   134  18CR 058477 MATTHEWS,TINA,MARIE   BLAISE,A       WPD
+                    BOND:             WPA
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4018025
+                                        JUDGMENT:
+
+
+        (I)FAIL TO STOP-STEADY RED LIGHT    PLEA:                VER:       C4018025
+                                        JUDGMENT:
+
+
+   135  18CR 726438 MATTHEWS,TINA,MARIE   BLAISE,A,J     WPD
+        (T)OPEN CONT AFTER CONS ALC 1ST     PLEA:                VER:       99G3050
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   136  18CR 053316 MCCOY,DANA,PADGETT    STANLEY,A      WPD ATTY:MCMINN,JAMES      3
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:             CUS
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C2539547
+                                        JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   24
+
+          COURT DATE: 11/27/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (T)SPEEDING                067/45   PLEA:                VER:       C2539547
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   137  18CR 051953 MCGANN-MILLER,JACE,AU HANKS,T        WPD ATTY:MCMINN,JAMES      2
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:             CUS
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C3988723
+                                        JUDGMENT:
+
+
+        (I)SPEEDING                058/45   PLEA:                VER:       C3988723
+                                        JUDGMENT:
+
+
+   138  18CR 714952 MCGRIFF,ERICK,JERMAIN BLAISE,A,J     WPD ATTY:WAIVED            1
+        (T)SPEEDING                071/35   PLEA:                VER:       76G9619
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)RECKLESS DRIVING TO ENDANGER     PLEA:                VER:       76G9619
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+   139  18CR 714953 MCGRIFF,ERICK,JERMAIN BLAISE,A,J     WPD ATTY:WAIVED            1
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       76G9620
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   140  18CR 055818 MCLAUGHLIN,TARA,ANNE  BLAISE,A       WPD ATTY:MCMINN,JAMES      1
+                    BOND:             CUS
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4018013
+                                        JUDGMENT:
+
+
+        (I)FAILURE TO REDUCE SPEED          PLEA:                VER:       C4018013
+                                        JUDGMENT:
+
+
+   141  18CR 727816 MEDDERS,ALBERT,JUNIOR GENEST,M,H     SFF
+        (I)FAIL STOP STOPSIGN/FLSH RED LT   PLEA:                VER:       172G136
+                                        JUDGMENT:
+
+
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       172G136
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   142  18CR 716812 MEDLEY,BROIC,DEMOND   SHUPE,J,M      WPD ATTY:WAIVED
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       66G0778
+        CLS:3  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   25
+
+          COURT DATE: 11/27/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (T)RECKLESS DRVG-WANTON DISREGARD   PLEA:                VER:       66G0778
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+   143  18CR 716813 MEDLEY,BROIC,DEMOND   SHUPE,J,M      WPD ATTY:WAIVED
+        (T)OPEN CONT AFTER CONS ALC 1ST     PLEA:                VER:       66G0779
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   144  86CR 033025 MERRITT,ANTHONY,RAY   FLIPPIN,T,L    SHP ATTY:WAIVED            2
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       6811764
+                                        JUDGMENT:
+
+
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:       6811764
+                                        JUDGMENT:
+
+
+        (T)CIVIL REVOCATION DR LIC (10)     PLEA:                VER:       6811764
+                                        JUDGMENT:
+
+
+   145  13IF 701536 MERRITT,ANTHONY,RAY   WHITE,H,L,III  WPD                        1
+        (I)SPEEDING                070/55   PLEA:                VER:       4F34764
+                                        JUDGMENT:                           ADA: JRO
+
+
+   146  18CR 728920 MILES,MIGUEL,DAMONT   BURKS,C,M      WPD
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       88G2812
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)NO OPERATORS LICENSE             PLEA:                VER:       88G2812
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   147  17CR 738916 MITCHELL,ROBIN,LYNN   SHUPE,J,M      WPD P.D.:WILSON,GREGORY    3
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       09G2694
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       09G2694
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   148  18CR 729027 MITCHELL,VERNELL      LIGONS,S
+        (T)NO OPERATORS LICENSE             PLEA:                VER:       118G310
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   149  18CR 056198 MOCK,ZACHARY,JOEL     BLAISE,A       WPD APT.:TUTTLE,LAUREN,A   1
+                    BOND:             CUS
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4018015
+                                        JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   26
+
+          COURT DATE: 11/27/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (I)REAR LAMPS VIOLATION             PLEA:                VER:       C4018015
+                                        JUDGMENT:
+
+
+   150  18CR 719642 MOCK,ZACHARY,JOEL     BLAISE,A,J     WPD APT.:TUTTLE,LAUREN,A   1
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:       76G9637
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+   151  17CR 003987 MOENICH,ROBIN,ELIZABE ROBBINS,S,D    WPD ATTY:BYRD,JONES,PHAR   3
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       C4395238
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (I)EXPIRED/NO INSPECTION            PLEA:                VER:       C4395238
+                                        JUDGMENT:
+
+
+   152  17CR 060035 MOENICH,ROBIN,ELIZABE SHUPE,J        WPD ATTY:BYRD,JONES,PHAR   3
+                    BOND:             WPA
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4395237
+                                        JUDGMENT:
+
+
+   153  18CR 054405 MONROE,JUSTIN,ANTHONY HANKS,T        WPD ATTY:MCMINN,JAMES      1
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:             CUS
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C3991434
+                                        JUDGMENT:
+
+
+        (I)FAIL TO BURN HEADLAMPS           PLEA:                VER:       C3991434
+                                        JUDGMENT:
+
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       C3991434
+                                        JUDGMENT:
+
+
+        (M)MOTION FOR OFA RECALL            PLEA:                VER:       C3991434
+        CLS:   P:   L:                  JUDGMENT:
+
+
+   154  18IF 706492 MONROE,JUSTIN,ANTHONY HANKS,T,S      WPD ATTY:MCMINN,JAMES      1
+        (I)EXPIRED OPERATORS LICENSE        PLEA:                VER:       39G8138
+                                        JUDGMENT:
+
+
+   155  18CR 058285 MONTEGRICO,MA ANGELIC RUIZ,M         WPD ATTY:FRADIN,MICHAEL
+              AKA: ASCAN,MA,ANGELICA,NI
+                    BOND:             CUS
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C3760000
+                                        JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   27
+
+          COURT DATE: 11/27/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (T)DRIVE AFTER CONSUMING < 21       PLEA:                VER:       C3760000
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+   156  18CR 713033 MOODY,TERRY           CAMPBELL,A,III WPD ATTY:WAIVED
+                    BOND:        $100 CSH
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       28G1451
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   157  18CR 053567 MOORE,JAMES,FRANKLIN  BLAISE,A       WPD P.D.:PARKER,KELLY,EL   1
+                    BOND:             WPA
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4018006
+                                        JUDGMENT:
+
+
+        (I)FAILURE TO REDUCE SPEED          PLEA:                VER:       C4018006
+                                        JUDGMENT:
+
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       C4018006
+                                        JUDGMENT:
+
+
+   158  18CR 053568 MOORE,JAMES,FRANKLIN  BLAISE,A       WPD P.D.:PARKER,KELLY,EL   1
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:      $1,000 SEC
+        (M)INTOXICATED AND DISRUPTIVE       PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)SIMPLE POSSESS SCH IV CS (M)     PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+   159  18CR 002386 MYERS,KHADIJAH,LATEEF THOMPSON,J,C   SFF
+        (T)DWLR IMPAIRED REV                PLEA:                VER:       C3766397
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+   160  18CR 726522 NGUYEN,TUYET,NGOC     JACOBSON,N,E   SHP
+                   VIETNAMESE
+        (T)SPEEDING                079/60   PLEA:                VER:       260G773
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   161  18CR 051774 NICHOLS,STEVEN,WAYNE  BLAISE,A       WPD P.D.:DAVIS,WHIT        5
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:      $1,500 SEC
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4394297
+                                        JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   28
+
+          COURT DATE: 11/27/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+   162  18CR 706956 NICHOLS,STEVEN,WAYNE  BLAISE,A,J     WPD P.D.:DAVIS,WHIT        4
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:       25G0912
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)SIMPLE POSSESS SCH IV CS (M)     PLEA:                VER:       25G0912
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+   163  18CR 057431 NOYOLA,OSCAR,CISNEROS BLAISE,A       WPD ATTY:WAIVED
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:             CUS
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4018019
+                                        JUDGMENT:
+
+
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       C4018019
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       C4018019
+                                        JUDGMENT:
+
+
+   164  18IF 710418 NOYOLA,OSCAR,CISNEROS BLAISE,A,J     WPD
+        (I)FAIL MAINTAIN LANE CONTROL       PLEA:                VER:       99G3040
+                                        JUDGMENT:
+
+
+        (I)DIRECTIONAL SIGNALS EQUIP VIOL   PLEA:                VER:       99G3040
+                                        JUDGMENT:
+
+
+   165  18CR 727759 ORTIZ,EVELYN,IVETTE   HANKS,T,S      WPD
+        (T)DRIVE AFTER CONSUMING < 21       PLEA:                VER:       89G9574
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+        (I)DRIVE WITHOUT TWO HEADLAMPS      PLEA:                VER:       89G9574
+                                        JUDGMENT:
+
+
+   166  18CR 727760 ORTIZ,EVELYN,IVETTE   HANKS,T,S      WPD
+        (I)DRIVE WRONG WAY-ONE WAY LOCAL    PLEA:                VER:       89G9575
+                                        JUDGMENT:
+
+
+        (M)CONSUME ALC BY 19/20             PLEA:                VER:       89G9575
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   167  18IF 712339 ORTIZ,EVELYN,IVETTE   HANKS,T,S      WPD
+        (I)FAIL TO NOTIFY DMV ADDR CHANGE   PLEA:                VER:       89G9576
+                                        JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   29
+
+          COURT DATE: 11/27/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+   168  18CR 054486 PALMER,BRUCE,J        HANKS,T        WPD ATTY:WAIVED            2
+              AKA: PALMER,BRUCE,JASON
+                    BOND:             WPA
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C3991435
+                                        JUDGMENT:
+
+
+        (I)IMPROPER USE OF TRAFFIC LANE     PLEA:                VER:       C3991435
+                                        JUDGMENT:
+
+
+   169  18CR 714760 PALMER,BRUCE,JASON    HANKS,T,S      WPD ATTY:WAIVED            3
+        (T)FAIL COMPLY LIC RESTRICTIONS     PLEA:                VER:       70G2976
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   170  18CR 709617 PARKS,BRADLEY,GRAY    NIBLOCK,M,P    WPD ATTY:WAIVED            1
+                    BOND:      $1,000 SEC
+        (I)SPEEDING                040/25   PLEA:                VER:       44G5990
+                                        JUDGMENT:
+
+
+        (T)DWLR IMPAIRED REV                PLEA:                VER:       44G5990
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+   171  18CR 052422 PATTERSON,CHARLES,EDW BLAISE,A       WPD ATTY:KEITH,JASON,L     2
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:             WPA
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4018001
+                                        JUDGMENT:                           ADA: MMR
+
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       C4018001
+                                        JUDGMENT:
+
+
+   172  18CR 052423 PATTERSON,CHARLES,EDW BLAISE,A       WPD ATTY:KEITH,JASON,L     2
+                    BOND:      $4,000 SEC
+        (M)ASSAULT GOVT OFFICIAL/EMPLY      PLEA:                VER:
+        CLS:A1 P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   173  18IF 703721 PATTERSON,CHARLES,EDW BLAISE,A,J     WPD ATTY:KEITH,JASON,L     2
+        (I)SPEEDING                053/45   PLEA:                VER:       42G1281
+                                        JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   30
+
+          COURT DATE: 11/27/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (I)FAIL MAINTAIN LANE CONTROL       PLEA:                VER:       42G1281
+                                        JUDGMENT:
+
+
+   174  18CR 727657 PEREZ,MARTIN          HANKS,T,S      WPD
+        (T)SPEEDING                089/65   PLEA:                VER:       89G9573
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (I)FOLLOWING TOO CLOSELY            PLEA:                VER:       89G9573
+                                        JUDGMENT:
+
+
+   175  18CR 058209 PEREZ,OSCAR,RODRIGUEZ HANKS,T        WPD ATTY:BYERS,J,D         1
+              AKA: PEREZ,OSCAR,GUERRERO
+                    BOND:             WPA
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C3991468
+                                        JUDGMENT:
+
+
+        (T)DWLR IMPAIRED REV                PLEA:                VER:       C3991468
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+   176  18CR 726597 PRATT,SESEMICA,GREGG  BLAISE,A,J     WPD
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       254G978
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (I)FAIL MAINTAIN LANE CONTROL       PLEA:                VER:       254G978
+                                        JUDGMENT:
+
+
+   177  18CR 726598 PRATT,SESEMICA,GREGG  BLAISE,A,J     WPD
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:       254G979
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:       254G979
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   178  18CR 728564 RAMIREZPANFILO,ANTONI CAMPBELL,A,III WPD
+        (T)FAIL TO REPORT ACCIDENT          PLEA:                VER:       243G150
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+        (I)FAIL MAINTAIN LANE CONTROL       PLEA:                VER:       243G150
+                                        JUDGMENT:
+
+
+   179  18IF 712677 RAMIREZPANFILO,ANTONI CAMPBELL,A,III WPD
+        (I)EXCEEDING SAFE SPEED             PLEA:                VER:       243G151
+                                        JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   31
+
+          COURT DATE: 11/27/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+   180  18CR 057223 RHYNE,MATTHEW,WILLIAM HANKS,T        WPD P.D.:DAVIS,WHIT
+                    BOND:             WPA  OFA: Y
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C3991466
+                                        JUDGMENT:
+
+
+        (T)DWLR IMPAIRED REV                PLEA:                VER:       C3991466
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       C3991466
+                                        JUDGMENT:
+
+
+        (M)OFA RECALL                       PLEA:                VER:       C3991466
+        CLS:   P:   L:                  JUDGMENT:
+
+
+   181  18CR 722535 RICE,BRENTON,JARVAYE  WALSH,D,W      WPD
+        (T)FAIL TO REPORT ACCIDENT          PLEA:                VER:       87G4336
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+   182  18CR 002210 RILEY,DEANNA,MARIE    COBB,A,M       WPD ATTY:WAIVED
+        (I)IMPROPER BRAKES                  PLEA:                VER:       C3991801
+                                        JUDGMENT:
+
+
+        (T)FICT/ALT TITLE/REG CARD/TAG      PLEA:                VER:       C3991801
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   183  18CR 002220 RILEY,DEANNA,MARIE    COBB,A,M       WPD ATTY:WAIVED
+        (T)ALLOW UNLICENSED TO DRIVE        PLEA:                VER:       C3991802
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)RESISTING PUBLIC OFFICER         PLEA:                VER:       C3991802
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+   184  18CR 723157 RING,GARY,EDWARD      SPAINHOUR,R,H  SFF P.D.:ABERNETHY,HANNA   1
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       079G727
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   185  17CR 736869 RIOS-SANCHEZ,OMAR,ARI JAMES,M,L      WPD P.D.:SMITH,CARA        3
+                    BOND:      $1,000 SEC
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:       9G73658
+        CLS:3  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   32
+
+          COURT DATE: 11/27/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:       9G73658
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   186  17CR 736870 RIOS-SANCHEZ,OMAR,ARI JAMES,M,L      WPD P.D.:SMITH,CARA        3
+                    BOND:          $1 SEC
+        (M)RESISTING PUBLIC OFFICER         PLEA:                VER:       9G73659
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+   187  18CR 059657 ROBBINS,JOSHUA,MATTHE BLAISE,A       WPD
+                    BOND:      $2,500 SEC
+        (M)ASSAULT GOVT OFFICIAL/EMPLY      PLEA:                VER:
+        CLS:A1 P:   L:                  JUDGMENT:
+
+
+        (M)RESISTING PUBLIC OFFICER         PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+   188  18CR 059658 ROBBINS,JOSHUA,MATTHE BLAISE,A       WPD
+                    BOND:             WPA
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4396202
+                                        JUDGMENT:
+
+
+   189  17CR 053777 ROBERTS,CHASE,CHRISTI WALSH,D        WPD P.D.:DAVIS,WHIT        5
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:             CUS
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4394109
+                                        JUDGMENT:
+
+
+        (I)FAIL TO YIELD LEFT TURN          PLEA:                VER:       C4394109
+                                        JUDGMENT:
+
+
+   190  18CR 058127 ROBERTSON,NICHOLAS,LE BLAISE,A       WPD
+                    BOND:             WPA
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4018022
+                                        JUDGMENT:
+
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       C4018022
+                                        JUDGMENT:
+
+
+   191  18CR 725399 ROBERTSON,NICHOLAS,LE SMITH,A,B      WPD
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       76G9580
+        CLS:3  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   33
+
+          COURT DATE: 11/27/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (T)GIVE/LEND/BORROW LIC PLATE       PLEA:                VER:       76G9580
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   192  18IF 711372 ROBERTSON,NICHOLAS,LE SMITH,A,B      WPD
+        (I)EXCEEDING POSTED SPEED           PLEA:                VER:       76G9581
+                                        JUDGMENT:
+
+
+        (I)FAIL MAINTAIN LANE CONTROL       PLEA:                VER:       76G9581
+                                        JUDGMENT:
+
+
+   193  18CR 056538 ROBINSON,CAMERON,KEIT HANKS,T        WPD ATTY:FRADIN,MICHAEL    2
+                    BOND:             CUS
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C3991455
+                                        JUDGMENT:                           ADA: MMR
+
+
+        (M)MOTION-DRIVING PRIVL             PLEA:                VER:       C3991455
+        CLS:   P:   L:                  JUDGMENT:
+
+
+   194  17CR 731999 ROSEBORO,DERRICK,DONN BLAISE,A,J     WPD ATTY:SUMMERS,CECIL     3
+        (T)SPEEDING                071/45   PLEA:                VER:       6G91933
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       6G91933
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   195  17IF 715473 ROSEBORO,DERRICK,DONN BLAISE,A,J     WPD ATTY:SUMMERS,CECIL     3
+        (I)EXCEEDING SAFE SPEED             PLEA:                VER:       6G91934
+                                        JUDGMENT:
+
+
+   196  18CR 059283 SCEARCE,RACHEL,DAWN   HESTER,A       WPD
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (I)FAIL TO WEAR SEAT BELT-DRIVER    PLEA:                VER:
+                                        JUDGMENT:
+
+
+   197  18CR 052412 SCHOEFIELD,EARNEST,KI BLAISE,A       WPD P.D.:ABERNETHY,HANNA   2
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:             WPA
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4394299
+                                        JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   34
+
+          COURT DATE: 11/27/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (T)DWLR IMPAIRED REV                PLEA:                VER:       C4394299
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       C4394299
+                                        JUDGMENT:
+
+
+   198  18CR 708857 SCHOEFIELD,EARNEST,KI BLAISE,A,J     WPD P.D.:ABERNETHY,HANNA   2
+        (T)NO LIABILITY INSURANCE           PLEA:                VER:       42G1277
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       42G1277
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   199  18CR 708858 SCHOEFIELD,EARNEST,KI BLAISE,A,J     WPD P.D.:ABERNETHY,HANNA   2
+        (I)FAILURE TO REDUCE SPEED          PLEA:                VER:       42G1278
+                                        JUDGMENT:
+
+
+        (T)HIT/RUN FAIL STOP PROP DAMAGE    PLEA:                VER:       42G1278
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+   200  18CR 050444 SEFEROVIC,EDVIN       HANKS,T        WPD ATTY:BYERS,J,D         4
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:      $5,000 SEC
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C3988698
+                                        JUDGMENT:
+
+
+        (T)DWLR IMPAIRED REV                PLEA:                VER:       C3988698
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+   201  18IF 700806 SEFEROVIC,EDVIN       HANKS,T,S      WPD                        4
+        (I)FAIL MAINTAIN LANE CONTROL       PLEA:                VER:       16G6865
+                                        JUDGMENT:
+
+
+   202  18CR 054938 SHAW,JUSTIN,EVAN      HANKS,T        WPD ATTY:ANDREWS,CHERYL,   1
+                    BOND:             CUS
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C3991440
+                                        JUDGMENT:
+
+
+        (I)EXCEEDING POSTED SPEED           PLEA:                VER:       C3991440
+                                        JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   35
+
+          COURT DATE: 11/27/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       C3991440
+                                        JUDGMENT:
+
+
+   203  18CR 715901 SHAW,JUSTIN,EVAN      HANKS,T,S      WPD                        1
+        (M)RESISTING PUBLIC OFFICER         PLEA:                VER:       70G2985
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:       70G2985
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   204  18CR 715982 SHAW,JUSTIN,EVAN      HANKS,T,S      WPD                        1
+        (T)FAIL COMPLY LIC RESTRICTIONS     PLEA:                VER:       70G2988
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   205  18IF 707023 SHAW,JUSTIN,EVAN      HANKS,T,S      WPD                        1
+        (I)DRIVE LEFT OF CENTER             PLEA:                VER:       70G2984
+                                        JUDGMENT:
+
+
+        (I)POSS OPN CNT/CONS ALC PSG AREA   PLEA:                VER:       70G2984
+                                        JUDGMENT:
+
+
+   206  17CR 000964 SIMMONS,TERELL,LEON   CRIDER,M,D     WPD P.D.:DAVIS,WHIT        4
+              AKA: SIMMONS,TERRELL,L   , SIMMONS,TERRELL,L   , SIMMONS,TERRELL,L
+                    BOND:          $1 SEC
+        (T)DWLR IMPAIRED REV                PLEA:                VER:       C3768403
+        CLS:1  P:   L:                  JUDGMENT:                           ADA: JRO
+
+
+        (M)MOTION TO RECALL                 PLEA:                VER:       C3768403
+        CLS:   P:   L:                  JUDGMENT:
+
+
+   207  17CR 052302 SIMMONS,TERRELL,LEON  CRIDER,M       WPD P.D.:DAVIS,WHIT        5
+              AKA: SIMMONS,TERELL,LEON
+                    BOND:     $20,000 SEC
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C3768402
+                                        JUDGMENT:                           ADA: JLM
+
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       C3768402
+                                        JUDGMENT:
+
+
+        (M)MOTION TO RECALL                 PLEA:                VER:       C3768402
+        CLS:   P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   36
+
+          COURT DATE: 11/27/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+   208  17CR 059597 SIMS,STEVEN,LAMONT    LOPEZ,O        WPD P.D.:MCCORMICK,CATHE   5
+                    BOND:      $1,500 SEC
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C3428260
+                                        JUDGMENT:
+
+
+        (T)FAIL TO REPORT ACCIDENT          PLEA:                VER:       C3428260
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       C3428260
+                                        JUDGMENT:
+
+
+   209  18CR 053051 SINCLAIR,COREY        BLAISE,A       WPD P.D.:ABERNETHY,HANNA   2
+              AKA: SINCLAIR,COREY,ALLAN
+                    BOND:             WPA
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4018002
+                                        JUDGMENT:
+
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       C4018002
+                                        JUDGMENT:
+
+
+   210  18CR 055241 SMITH,DAVID,DEAKIN    BROWN,R        WPD ATTY:SMITH,SCOTT       1
+                    BOND:             CUS
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4395732
+                                        JUDGMENT:
+
+
+   211  18CR 716795 SMITH,DAVID,DEAKIN    BROWN,R,M      WPD ATTY:SMITH,SCOTT       1
+        (T)RECKLESS DRVG-WANTON DISREGARD   PLEA:                VER:       74G8351
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+   212  18CR 728673 SMITH,GREGG,LEE       GENEST,M,H     SFF
+        (T)NO OPERATORS LICENSE             PLEA:                VER:       340G935
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   213  18CR 055189 SNYDER,ANNIE,MARIE    BROWN,R        WPD ATTY:MCMINN,JAMES      1
+                    BOND:             WPA
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4395731
+                                        JUDGMENT:
+
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       C4395731
+                                        JUDGMENT:
+
+
+   214  18CR 716568 SNYDER,ANNIE,MARIE    WALSH,D,W      WPD ATTY:MCMINN,JAMES      1
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       38G8645
+        CLS:3  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   37
+
+          COURT DATE: 11/27/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (T)HIT/RUN FAIL STOP PROP DAMAGE    PLEA:                VER:       38G8645
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+   215  18CR 716569 SNYDER,ANNIE,MARIE    WALSH,D,W      WPD ATTY:MCMINN,JAMES      1
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       38G8646
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (I)EXPIRED/NO INSPECTION            PLEA:                VER:       38G8646
+                                        JUDGMENT:
+
+
+   216  18IF 707397 SNYDER,ANNIE,MARIE    WALSH,D,W      WPD ATTY:MCMINN,JAMES      1
+        (I)FAILURE TO REDUCE SPEED          PLEA:                VER:       38G8647
+                                        JUDGMENT:
+
+
+   217  18CR 710532 SVEC,DANIEL,JOSEPH    BLAISE,A,J     WPD P.D.:PARKER,KELLY,EL   2
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       42G1289
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   218  18CR 055014 SZARO,HEATHER,MARIE   HANKS,T        WPD ATTY:SMITH,SCOTT       2
+                    BOND:             WPA
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C3991442
+                                        JUDGMENT:                           ADA: JAC
+
+
+        (I)FAIL MAINTAIN LANE CONTROL       PLEA:                VER:       C3991442
+                                        JUDGMENT:
+
+
+   219  17CR 733939 TATE,DOMINIQUE,LAMICH BLAISE,A,J     WPD ATTY:WAIVED            2
+        (M)RESISTING PUBLIC OFFICER         PLEA:                VER:       8G53561
+        CLS:2  P:   L:                  JUDGMENT:                           ADA: JCG
+
+
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       8G53561
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   220  17CR 733940 TATE,DOMINIQUE,LAMICH BLAISE,A,J     WPD ATTY:WAIVED            2
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       8G53562
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: JCG
+
+
+        (I)DRIVE WITHOUT TWO HEADLAMPS      PLEA:                VER:       8G53562
+                                        JUDGMENT:
+
+
+   221  18CR 726722 THIERS,DIDIER,LUCAS   GENEST,M,H     SFF
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       172G133
+        CLS:3  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   38
+
+          COURT DATE: 11/27/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       172G133
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   222  18CR 052398 THOMAS,KIARA,SYMONE   CAMPBELL,A     WPD ATTY:HINES,TERRENCE,   1
+                    BOND:             WPA
+        (T)RECKLESS DRIVING TO ENDANGER     PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+        (M)INJURY TO PERSONAL PROPERTY      PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+        (T)NO OPERATORS LICENSE             PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   223  18CR 053552 TORRES,PABLO,SALINAS  BLAISE,A       WPD ATTY:FRADIN,MICHAEL    3
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:             WPA
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4018003
+                                        JUDGMENT:                           ADA: JCG
+
+
+        (T)DWLR IMPAIRED REV                PLEA:                VER:       C4018003
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       C4018003
+                                        JUDGMENT:
+
+
+   224  18CR 040055 TYREE,DEANNA,MARIE    BLAISE,A,J     WPD P.D.:MCCORMICK,CATHE   3
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4394294
+                                        JUDGMENT:
+
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       C4394294
+                                        JUDGMENT:
+
+
+   225  18CR 703250 TYREE,DEANNA,MARIE    BLAISE,A,J     WPD P.D.:MCCORMICK,CATHE   3
+        (I)WRONG WAY ON DUAL LANE HIGHWAY   PLEA:                VER:       25G0893
+                                        JUDGMENT:
+
+
+        (T)RECKLESS DRVG-WANTON DISREGARD   PLEA:                VER:       25G0893
+        CLS:2  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   39
+
+          COURT DATE: 11/27/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+   226  18CR 703251 TYREE,DEANNA,MARIE    BLAISE,A,J     WPD P.D.:MCCORMICK,CATHE   3
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       25G0894
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (I)FAILURE TO REDUCE SPEED          PLEA:                VER:       25G0894
+                                        JUDGMENT:
+
+
+   227  18CR 054271 VAZQUEZ,MELODIE,JACQU BLAISE,A       WPD P.D.:ABERNETHY,HANNA   1
+                    BOND:      $1,500 SEC
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4018009
+                                        JUDGMENT:
+
+
+   228  18CR 714211 VAZQUEZ,MELODIE,JACQU BLAISE,A,J     WPD P.D.:ABERNETHY,HANNA   1
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:       58G3510
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:       58G3510
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   229  18CR 714214 VAZQUEZ,MELODIE,JACQU BLAISE,A,J     WPD P.D.:ABERNETHY,HANNA   1
+        (T)DRIVE AFTER CONSUMING < 21       PLEA:                VER:       58G3513
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+   230  18CR 724180 VELAZQUEZ,BRANDON,CAM BROWN,R,M      WPD
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:       74G8363
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:       74G8363
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   231  18CR 724181 VELAZQUEZ,BRANDON,CAM BROWN,R,M      WPD
+        (I)FAILURE TO REDUCE SPEED          PLEA:                VER:       74G8364
+                                        JUDGMENT:
+
+
+        (T)HIT/RUN FAIL STOP PROP DAMAGE    PLEA:                VER:       74G8364
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+   232  17CR 733239 WATKINS,BRIONNA,ANDRE GAYLOR,E,M,III SFF ATTY:WAIVED            3
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       7G19565
+        CLS:3  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   40
+
+          COURT DATE: 11/27/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+   233  17CR 740538 WATKINS,BRIONNA,ANDRE BATULAN,K,J    SHP ATTY:WAIVED            2
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       12G6494
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)OPERATE VEH NO INS               PLEA:                VER:       12G6494
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   234  18CR 701449 WATKINS,BRIONNA,ANDRE ALLEN,N,A      WPD ATTY:WAIVED            1
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       08G9352
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   235  18CR 710319 WATKINS,BRIONNA,ANDRE NIBLOCK,M,P    WPD ATTY:WAIVED            2
+        (I)SPEEDING                060/45   PLEA:                VER:       44G5995
+                                        JUDGMENT:
+
+
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       44G5995
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   236  18CR 715611 WHITE,LESANDRA,TAYLOR DAVILA,M,A     WPD P.D.:WILSON,GREGORY    1
+        (T)DWLR IMPAIRED REV                PLEA:                VER:       28G9266
+        CLS:1  P:   L:                  JUDGMENT:                           ADA: JCG
+
+
+   237  17CR 716152 WHITE,TOYOKA,CHAQUAND JOHNSON,N,T    WPD
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       G880765
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: JRO
+
+
+        (M)MOTION OFA RECALL                PLEA:                VER:       G880765
+        CLS:   P:   L:                  JUDGMENT:
+
+
+        (M)MOTION OFA RECALL                PLEA:                VER:       G880765
+        CLS:   P:   L:                  JUDGMENT:
+
+
+   238  18CR 051380 WHITEHEAD,RAESHUN,DAN BLAISE,A       WPD ATTY:LEE,KELLY,SCOTT   3
+                    BOND:             CUS
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4394295
+                                        JUDGMENT:
+
+
+   239  18CR 705509 WHITEHEAD,RAESHUN,DAN BLAISE,A,J     WPD ATTY:LEE,KELLY,SCOTT   2
+        (I)FAILURE TO REDUCE SPEED          PLEA:                VER:       25G0902
+                                        JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   41
+
+          COURT DATE: 11/27/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (T)HIT/RUN FAIL STOP PROP DAMAGE    PLEA:                VER:       25G0902
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+   240  18CR 705510 WHITEHEAD,RAESHUN,DAN BLAISE,A,J     WPD ATTY:LEE,KELLY,SCOTT   2
+        (M)RESISTING PUBLIC OFFICER         PLEA:                VER:       25G0903
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+   241  18CR 055019 WHITSON,DALTON,REED   SMITH,A        WPD P.D.:ABERNETHY,HANNA   1
+                    BOND:             WPA
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C3761828
+                                        JUDGMENT:
+
+
+   242  18CR 716076 WHITSON,DALTON,REED   SMITH,A,B      WPD P.D.:ABERNETHY,HANNA   1
+        (T)RECKLESS DRVG-WANTON DISREGARD   PLEA:                VER:       76G9576
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+        (I)FAIL MAINTAIN LANE CONTROL       PLEA:                VER:       76G9576
+                                        JUDGMENT:
+
+
+   243  18CR 723159 WILBORN,BRANDON,CHRIS SPAINHOUR,R,H  SFF ATTY:WAIVED            1
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       079G729
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   244  18CR 059308 WILLIAMS,JOHN,DAREYN  BROWN,R        WPD APT.:DENIED
+                    BOND:        $500 UNS
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (I)REAR LAMPS VIOLATION             PLEA:                VER:
+                                        JUDGMENT:
+
+
+   245  18CR 056959 WILSON,DAVIDA,YVONNE  BLAISE,A       WPD ATTY:WAIVED            1
+                    BOND:             CUS
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4018017
+                                        JUDGMENT:                           ADA: JCG
+
+
+        (I)FAIL TO STOP-STEADY RED LIGHT    PLEA:                VER:       C4018017
+                                        JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   42
+
+          COURT DATE: 11/27/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+   246  18CR 709783 WILSON,TEQULA,DEVAE   SHUPE,J,M      WPD ATTY:WAIVED            2
+        (T)NO OPERATORS LICENSE             PLEA:                VER:       32G7879
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)HIT/RUN LEAVE SCENE PROP DAM     PLEA:                VER:       32G7879
+        CLS:1  P:   L:                  JUDGMENT:
+1 RUN DATE: 11/20/18                                                        PAGE   1
+                             IN THE GENERAL COURT OF JUSTICE
+  LOCATION: WINSTON-SALEM        DISTRICT COURT DIVISION       COUNTY OF FORSYTH
+
+          COURT DATE: 11/27/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+                  TRAFFIC
+
+                     JUDGE PRESIDING :
+                     COURTROOM CLERK :
+                     PROSECUTOR      :
+                                     :
+                                     :
+                                     :
+                                     :
+
+  NO. DEFENDANT NAME          OFFENSE                        COMPLAINANT FILE NUMBER
+  *************************************************************************************
+       1 ALARCON,JESSICA        DRIVING WHILE IMPAIRED         BLAISE,A    18CR 054248
+                                DWLR IMPAIRED REV              BLAISE,A    18CR 054248
+                                CIVIL REVOCATION DR LIC (30)   BLAISE,A    18CR 054248
+       2 ALARCON,JESSICA        FAIL MAINTAIN LANE CONTROL     BLAISE,A,J  18IF 706195
+       3 AMAYACARRANZA,JOSE,CAR OPERATE VEH NO INS             LAUER,T,R   17CR 735367
+                                FAIL TO APPLY FOR NEW TITLE    LAUER,T,R   17CR 735367
+       4 AMAYACARRANZA,JOSE,CAR ALLOW UNLICENSED TO DRIVE      LAUER,T,R   17CR 735368
+                                MISDEMEANOR CHILD ABUSE        LAUER,T,R   17CR 735368
+  **   5 AMICK,RICHARD,EUGENE   DRIVING WHILE IMPAIRED         SHUPE,J     18CR 051499
+                                CIVIL REVOCATION DR LIC (30)   SHUPE,J     18CR 051499
+       6 AMICK,RICHARD,EUGENE   SECOND DEGREE TRESPASS         SHUPE,J,M   18CR 706099
+                                FLEE/ELUDE ARREST W/MV (M)     SHUPE,J,M   18CR 706099
+       7 AMICK,RICHARD,EUGENE   NO OPERATORS LICENSE           SHUPE,J,M   18CR 706100
+                                RESISTING PUBLIC OFFICER       SHUPE,J,M   18CR 706100
+       8 AMICK,RICHARD,EUGENE   DISORDERLY CONDUCT             SHUPE,J,M   18CR 706101
+  **   9 ARIAS,CARLA,BETH       DRIVING WHILE IMPAIRED         STRINGER,P  14CR 060634
+                                FAIL MAINTAIN LANE CONTROL     STRINGER,P  14CR 060634
+                                MOTION TO RECALL               STRINGER,P  14CR 060634
+      10 ARMISTEAD,IRVIN,JARRET DWLR NOT IMPAIRED REV          BLAISE,A,J  18CR 723223
+                                RECKLESS DRVG-WANTON DISREGARD BLAISE,A,J  18CR 723223
+      11 ARMISTEAD,IRVIN,JARRET EXPIRED REGISTRATION CARD/TAG  BLAISE,A,J  18CR 723224
+                                OPEN CONT AFTER CONS ALC 1ST   BLAISE,A,J  18CR 723224
+      12 BANGHAM,RICHARD,WAYNE  FAIL STOP STOPSIGN/FLSH RED LT GENEST,M,H  18IF 711796
+      13 BECK,BRIAN,ALLEN       SPEEDING                078/60 DEEL,B,C    18CR 709728
+                                DWLR IMPAIRED REV              DEEL,B,C    18CR 709728
+      14 BERGER,KEVIN,MICHAEL   DRIVING WHILE IMPAIRED         BLAISE,A    18CR 054492
+                                OPERATE VEH NO INS             BLAISE,A    18CR 054492
+      15 BLUE,JAMES,DUSTIN      DWLR IMPAIRED REV              WALSH,D,W   18CR 718626
+                                EXPIRED REGISTRATION CARD/TAG  WALSH,D,W   18CR 718626
+  **  16 BOLDEN,CRYSTAL,STARR   DRIVING WHILE IMPAIRED         HANKS,T     18CR 057440
+                                POSS OPN CNT/CONS ALC PSG AREA HANKS,T     18CR 057440
+      17 BONILLA,JOSUE,LOPEZ    SPEEDING                095/65 HETTLER,S,C 18CR 705190
+                                RECKLESS DRVG-WANTON DISREGARD HETTLER,S,C 18CR 705190
+  **  18 BOWLES,JOSHUA,ANTONIO  DRIVING WHILE IMPAIRED         HANKS,T     17CR 061949
+                                DWLR IMPAIRED REV              HANKS,T     17CR 061949
+                                CIVIL REVOCATION DR LIC (30)   HANKS,T     17CR 061949
+      19 BOWLES,JOSHUA,ANTONIO, SPEEDING                057/45 HANKS,T,S   17IF 719402
+                                BRAKE/STOP LIGHT EQUIP VIOL    HANKS,T,S   17IF 719402
+      20 BOWLES,JOSHUA,ANTONIO, POSS OPN CNT/CONS ALC PSG AREA HANKS,T,S   17IF 719404
+      21 BOWMAN,KAYLA,RENITA    UNLAWFULLY PASS EM/PUB SV VEH  BLAISE,A,J  18CR 705788
+                                DWLR NOT IMPAIRED REV          BLAISE,A,J  18CR 705788
+      22 BRADFORD,DANIEL,THOMAS DWLR NOT IMPAIRED REV          BROWN,R,M   17CR 723827
+                                FAIL TO STOP-STEADY RED LIGHT  BROWN,R,M   17CR 723827
+  **  23 BROWN,CORLEY,LAVELLE   DRIVING WHILE IMPAIRED         BLAISE,A    18CR 050553
+                                DWLR IMPAIRED REV              BLAISE,A    18CR 050553
+                                CIVIL REVOCATION DR LIC (30)   BLAISE,A    18CR 050553
+1                             DISTRICT COURT CALENDAR                    PAGE:    2
+
+          COURT DATE: 11/27/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO. DEFENDANT NAME          OFFENSE                        COMPLAINANT FILE NUMBER
+  *************************************************************************************
+      24 BROWN,CORLEY,LAVELLE   OPEN CONT AFTER CONS ALC 1ST   BLAISE,A,J  18CR 702303
+                                NOISE ORDINANCE VIOLATION      BLAISE,A,J  18CR 702303
+      25 BROWN,DARRIEL,TYRIQUE  DRIVE AFTER CONSUMING < 21     WRAY,J,R    17CR 725579
+                                SPEEDING                062/45 WRAY,J,R    17CR 725579
+      26 BROWN,JOSEPH,LAWRENCE  DRIVING WHILE IMPAIRED         BLAISE,A    18CR 054232
+                                POSS OPN CNT/CONS ALC PSG AREA BLAISE,A    18CR 054232
+      27 BROWN,JOSEPH,LAWRENCE  NO OPERATORS LICENSE           BLAISE,A,J  18CR 714143
+      28 BROWN,JOSEPH,LAWRENCE  FAIL MAINTAIN LANE CONTROL     BLAISE,A,J  18IF 706194
+                                DIRECTIONAL SIGNALS EQUIP VIOL BLAISE,A,J  18IF 706194
+      29 BROWN,LATRELLA,DYVETTE SPEEDING                080/65 MCRAE,P,J   18IF 710055
+      30 BULLINS,JONATHAN,LEWIS DWLR NOT IMPAIRED REV          LIGONS,S    18CR 728965
+                                OPERATE VEH NO INS             LIGONS,S    18CR 728965
+      31 BURKE,CHRISTOPHER,EDWA DRIVING WHILE IMPAIRED         HANKS,T     17CR 061093
+                                FAIL MAINTAIN LANE CONTROL     HANKS,T     17CR 061093
+      32 BURKE,LINDSEY,ANN      AID AND ABET IMPAIRED DRIVING  HANKS,T,S   18CR 000400
+      33 BURKS,KAYLAB,CHRISTIAN DRIVING WHILE IMPAIRED         HANKS,T     18CR 050772
+                                POSS OPN CNT/CONS ALC PSG AREA HANKS,T     18CR 050772
+                                CIVIL REVOCATION DR LIC (30)   HANKS,T     18CR 050772
+      34 BURKS,STEVE,RAY        DRIVING WHILE IMPAIRED         BLAISE,A    18CR 055856
+                                DWLR IMPAIRED REV              BLAISE,A    18CR 055856
+                                CIVIL REVOCATION DR LIC (30)   BLAISE,A    18CR 055856
+      35 CHIPLEY,ODERIA,JEBAR   DWLR IMPAIRED REV              RUIZ,M,A    18CR 715737
+      36 CLEARY,MICHAEL,BRYSON  DWLR IMPAIRED REV              ALLRED,L,C  18CR 725821
+  **  37 COLES,QUENTIN,VALENTIN DRIVING WHILE IMPAIRED         BLAISE,A,J  18CR 040203
+                                NO OPERATORS LICENSE           BLAISE,A,J  18CR 040203
+                                CIVIL REVOCATION DR LIC (30)   BLAISE,A,J  18CR 040203
+      38 COLES,QUENTIN,VALENTIN INTOXICATED AND DISRUPTIVE     BLAISE,A,J  18CR 728476
+                                RECKLESS DRVG-WANTON DISREGARD BLAISE,A,J  18CR 728476
+      39 COLES,QUENTIN,VALENTIN FAIL MAINTAIN LANE CONTROL     BLAISE,A,J  18IF 712629
+      40 COOKE,MOLLY,ELIZABETH  DRIVING WHILE IMPAIRED         HANKS,T     17CR 060822
+                                FAIL TO STOP-STEADY RED LIGHT  HANKS,T     17CR 060822
+      41 COOKE,MOLLY,ELIZABETH  SPEEDING                075/45 SHERRILL,J, 17CR 716491
+                                EXPIRED/NO INSPECTION          SHERRILL,J, 17CR 716491
+      42 COOKE,MOLLY,ELIZABETH  DRIVE LEFT OF CENTER           HANKS,T,S   17CR 736633
+                                FAIL COMPLY LIC RESTRICTIONS   HANKS,T,S   17CR 736633
+      43 CRAWFORD,MICHELLE,ANN  PASSENGER FLEE ACC PROP DAM    MCRAE,P,J   18CR 720644
+      44 CRUZ-SIXTOS,JUVENTINO  NO OPERATORS LICENSE           GENEST,M,H  18CR 728585
+                                NO LIABILITY INSURANCE         GENEST,M,H  18CR 728585
+      45 DAVIDSON,JOSEPH,LEE    FAILURE TO REDUCE SPEED        WALSH,D,W   18CR 001823
+                                FAIL COMPLY LIC RESTRICTIONS   WALSH,D,W   18CR 001823
+      46 DAVIDSON,JOSEPH,LEE    DRIVING WHILE IMPAIRED         WALSH,D     18CR 055817
+                                HIT/RUN LEAVE SCENE PROP DAM   WALSH,D     18CR 055817
+                                CIVIL REVOCATION DR LIC (30)   WALSH,D     18CR 055817
+      47 DAVIDSON,JOSEPH,LEE    RECKLESS DRVG-WANTON DISREGARD WALSH,D     18CR 055819
+                                FAIL TO NOTIFY DMV ADDR CHANGE WALSH,D     18CR 055819
+                                FAIL CARRY VALID DRIVERS LIC   WALSH,D     18CR 055819
+      48 DAVIDSON,SHANTA,RENEE  DWLR NOT IMPAIRED REV          BURKS,C,M   18CR 728770
+  **  49 DAY,BURLEY,JAMES,JR    CONCEALED GUN AFTER/WHILE CONS BROWN,R     18CR 056952
+      50 DAY,BURLEY,JAMES,JR    DRIVING WHILE IMPAIRED         BROWN,R     18CR 056953
+      51 DUNN,STEVEN,KENT       DRIVING WHILE IMPAIRED         WALSH,D     18CR 057221
+                                POSS OPN CNT/CONS ALC PSG AREA WALSH,D     18CR 057221
+      52 DUNN,STEVEN,KENT       NO OPERATORS LICENSE           WALSH,D,W   18CR 722404
+                                RECKLESS DRIVING TO ENDANGER   WALSH,D,W   18CR 722404
+  **  53 EDWARDS,KENNETH,GUY    DRIVING WHILE IMPAIRED         JOHNSON,S   18CR 060512
+                                CIVIL REVOCATION DR LIC (30)   JOHNSON,S   18CR 060512
+                                DRIVING PRIVILEGE              JOHNSON,S   18CR 060512
+  **  54 ENTSMINGER,DRUEN,LEE   DRIVING WHILE IMPAIRED         BLAISE,A    18CR 050524
+1                             DISTRICT COURT CALENDAR                    PAGE:    3
+
+          COURT DATE: 11/27/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO. DEFENDANT NAME          OFFENSE                        COMPLAINANT FILE NUMBER
+  *************************************************************************************
+                                CIVIL REVOCATION DR LIC (30)   BLAISE,A    18CR 050524
+      55 ENTSMINGER,DRUEN,LEE   UNSAFE MOVEMENT                BLAISE,A,J  18IF 700870
+      56 EVANS,MATTHEW,DARREN   NO LIABILITY INSURANCE         GENEST,M,H  18CR 727596
+                                FICT/ALT TITLE/REG CARD/TAG    GENEST,M,H  18CR 727596
+      57 FISHER,LATRECE,RONETTE DWLR NOT IMPAIRED REV          CROSSWHITE, 18CR 730340
+      58 FRENCH,ANGELA,MICHELE  NO OPERATORS LICENSE           HANKS,T,S   18CR 728943
+      59 FULK,ANDREW,REDMON     DRIVING WHILE IMPAIRED         HANKS,T     17CR 058787
+                                EXCEEDING POSTED SPEED         HANKS,T     17CR 058787
+      60 FULK,ANDREW,REDMON     FAIL COMPLY LIC RESTRICTIONS   HANKS,T,S   17CR 730010
+                                DESIGNATED LANE VIOLATION      HANKS,T,S   17CR 730010
+ SPA  61 GARCIA,BEBERLI,CONTRER FAIL MAINTAIN LANE CONTROL     HANKS,T,S   18IF 712340
+ SPA                            TRAFFIC CONTROL DEVICE VIOL    HANKS,T,S   18IF 712340
+      62 GARCIA,BEBERLI,CONTRER DRIVING WHILE IMPAIRED         HANKS,T     18CR 058870
+                                DWLR IMPAIRED REV              HANKS,T     18CR 058870
+                                CIVIL REVOCATION DR LIC (30)   HANKS,T     18CR 058870
+      63 GLASSER,DEREK,ROBERT   DRIVING WHILE IMPAIRED         HANKS,T     18CR 058381
+                                DWLR IMPAIRED REV              HANKS,T     18CR 058381
+                                CIVIL REVOCATION DR LIC (30)   HANKS,T     18CR 058381
+      64 GLASSER,DEREK,ROBERT   CARRYING CONCEALED WEAPON      HANKS,T,S   18CR 726083
+                                TRAFFIC CONTROL DEVICE VIOL    HANKS,T,S   18CR 726083
+      65 GLASSER,DEREK,ROBERT   POSS OPN CNT/CONS ALC PSG AREA HANKS,T,S   18IF 711649
+      66 GOMEZ,GAYLE            DRIVING WHILE IMPAIRED         BROWN,R     17CR 059696
+      67 GOMEZ,GAYLE            FAIL MAINTAIN LANE CONTROL     BROWN,R,M   17IF 716024
+                                POSS OPN CNT/CONS ALC PSG AREA BROWN,R,M   17IF 716024
+      68 GONZALEZ,MICHAEL,ANGEL DRIVING WHILE IMPAIRED         BLAISE,A    18CR 058280
+                                NO OPERATORS LICENSE           BLAISE,A    18CR 058280
+                                CIVIL REVOCATION DR LIC (30)   BLAISE,A    18CR 058280
+      69 GONZALEZ,MICHAEL,ANGEL WRONG WAY ON DUAL LANE HIGHWAY BLAISE,A,J  18IF 711505
+                                FAIL MAINTAIN LANE CONTROL     BLAISE,A,J  18IF 711505
+      70 GRAHAM,AMY,LEA         DRIVING WHILE IMPAIRED         HANKS,T     18CR 054978
+                                FAIL MAINTAIN LANE CONTROL     HANKS,T     18CR 054978
+      71 GRANT,KEATON,TYLER     DRIVING WHILE IMPAIRED         BYRD,J,M    15CR 040179
+                                MOTION TO RECALL               BYRD,J,M    15CR 040179
+                                MISDEMEANOR PROBATION VIOL     BYRD,J,M    15CR 040179
+      72 GRIFFIN,MARK,EUGENE R  DRIVING WHILE IMPAIRED         HANKS,T     18CR 059221
+                                DWLR NOT IMPAIRED REV          HANKS,T     18CR 059221
+                                CIVIL REVOCATION DR LIC (30)   HANKS,T     18CR 059221
+      73 GRIFFIN,MARK,EUGENE,RO DRIVE LEFT OF CENTER           HANKS,T,S   18IF 712805
+      74 HALL,CHRISTINA,MARIE   NO OPERATORS LICENSE           GENEST,M,H  18CR 726370
+                                FICT/ALT TITLE/REG CARD/TAG    GENEST,M,H  18CR 726370
+      75 HARRIS,SHAUN,LAURICE   DWLR NOT IMPAIRED REV          RUIZ,M,A    18CR 720806
+                                FAIL TO STOP-STEADY RED LIGHT  RUIZ,M,A    18CR 720806
+      76 HARRIS,SHAUN,LAURICE   DR/ALLOW REG PLATE NOT DISPLAY RUIZ,M,A    18CR 720807
+  **  77 HARRIS,SHAUN,LAURICE   POSSESS MARIJUANA UP TO 1/2 OZ BLAISE,A,J  18CR 720826
+                                POSSESS MARIJ PARAPHERNALIA    BLAISE,A,J  18CR 720826
+      78 HARVILLE,DANIEL,LEE    DRIVING WHILE IMPAIRED         RUIZ,M,A    18CR 040140
+      79 HARVILLE,DANIEL,LEE    DWLR NOT IMPAIRED REV          CAMPBELL,A, 18CR 717735
+                                EXPIRED REGISTRATION CARD/TAG  CAMPBELL,A, 18CR 717735
+      80 HARVILLE,DANIEL,LEE    OPERATE VEH NO INS             CAMPBELL,A, 18CR 717736
+                                FAIL TO REPORT ACCIDENT        CAMPBELL,A, 18CR 717736
+      81 HARVILLE,DANIEL,LEE    EXPIRED REGISTRATION CARD/TAG  SHUPE,J,M   18CR 717869
+                                DWLR NOT IMPAIRED REV          SHUPE,J,M   18CR 717869
+      82 HARVILLE,DANIEL,LEE    NO LIABILITY INSURANCE         SHUPE,J,M   18CR 717870
+                                EXCEEDING POSTED SPEED         SHUPE,J,M   18CR 717870
+      83 HARVILLE,DANIEL,LEE    FAIL TO REPORT ACCIDENT        SHUPE,J,M   18CR 717871
+      84 HARVILLE,DANIEL,LEE    FAIL MAINTAIN LANE CONTROL     SHUPE,J,M   18IF 708039
+                                UNSAFE TIRES                   SHUPE,J,M   18IF 708039
+1                             DISTRICT COURT CALENDAR                    PAGE:    4
+
+          COURT DATE: 11/27/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO. DEFENDANT NAME          OFFENSE                        COMPLAINANT FILE NUMBER
+  *************************************************************************************
+      85 HENLEY,PATRICK,SHAWN   DWLR NOT IMPAIRED REV          GENEST,M,H  18CR 727642
+                                EXPIRED REGISTRATION CARD/TAG  GENEST,M,H  18CR 727642
+  **  86 HEPLER,CHANDLER,DAYNE  MISDEMEANOR PROBATION VIOL     FREEMAN,K,D 16CR 040223
+      87 HERNANDEZCRUZ,MARIA,TE UNSAFE LANE CHANGE             SHUPE,J,M   18CR 726471
+                                NO OPERATORS LICENSE           SHUPE,J,M   18CR 726471
+      88 HERNANDEZCRUZ,MARIA,TE EXPIRED REGISTRATION CARD/TAG  SHUPE,J,M   18CR 726472
+      89 HIATT,BRANDON,MICHAEL  DRIVING WHILE IMPAIRED         BLAISE,A    18CR 056276
+                                DWLR IMPAIRED REV              BLAISE,A    18CR 056276
+      90 HIATT,BRANDON,MICHAEL, RECKLESS DRVG-WANTON DISREGARD BLAISE,A,J  18CR 719888
+                                FAIL MAINTAIN LANE CONTROL     BLAISE,A,J  18CR 719888
+      91 HIATT,BRANDON,MICHAEL, OPEN CONT AFTER CONS ALC 1ST   BLAISE,A,J  18CR 719889
+                                FAILURE TO REDUCE SPEED        BLAISE,A,J  18CR 719889
+      92 HIGGINS,JOSE,ANGEL     DRIVING WHILE IMPAIRED         HANKS,T     17CR 061085
+                                SPEEDING                055/35 HANKS,T     17CR 061085
+      93 HOLLY,CAROL,ANN        DRIVING WHILE IMPAIRED         HANKS,T     18CR 051129
+                                DWLR IMPAIRED REV              HANKS,T     18CR 051129
+                                CIVIL REVOCATION DR LIC (30)   HANKS,T     18CR 051129
+      94 HOPPER,MATTHEW,STONEWA AID AND ABET IMPAIRED DRIVING  HANKS,T,S   17CR 003561
+                                FAIL TO NOTIFY DMV ADDR CHANGE HANKS,T,S   17CR 003561
+      95 HUNTER,AJLON,JAALAH    DWLR NOT IMPAIRED REV          GENEST,M,H  18CR 728250
+      96 HURT,GREGORY,VANCE     DWLR IMPAIRED REV              HANKS,T,S   17CR 721073
+                                DRIVE LEFT OF CENTER           HANKS,T,S   17CR 721073
+                                MOTION OFA RECALL              HANKS,T,S   17CR 721073
+                                MOTION FOR OFA RECALL          HANKS,T,S   17CR 721073
+                                MOTION FOR OFA RECALL          HANKS,T,S   17CR 721073
+      97 HUTTON,JOHN,ROBERT     DWLR IMPAIRED REV              WETTER,B,M  18CR 712321
+      98 INGRAM,CEDRIC,DENARD   DWLR NOT IMPAIRED REV          SPAINHOUR,R 18CR 723531
+      99 JACOBO-CASTANEDA,ZENAI NO OPERATORS LICENSE           LIGONS,S    18CR 728996
+     100 JARRELL,JUSTIN,LEE     DWLR NOT IMPAIRED REV          SINK,K,M    18CR 001694
+                                EXPIRED REGISTRATION CARD/TAG  SINK,K,M    18CR 001694
+     101 JAYSON,STEPHEN,EUGENE  DRIVING WHILE IMPAIRED         BLAISE,A    18CR 058206
+                                EXPIRED REGISTRATION CARD/TAG  BLAISE,A    18CR 058206
+     102 JAYSON,STEPHEN,EUGENE  NO OPERATORS LICENSE           BLAISE,A,J  18CR 725580
+                                FAIL COMPLY LIC RESTRICTIONS   BLAISE,A,J  18CR 725580
+     103 JESSUP,ELIJAH,DANIEL   DRIVING WHILE IMPAIRED         BLAISE,A    18CR 054277
+     104 JESSUP,ELIJAH,DANIEL   DRIVE AFTER CONSUMING < 21     BLAISE,A,J  18CR 714212
+                                HIT/RUN FAIL STOP PROP DAMAGE  BLAISE,A,J  18CR 714212
+     105 JESSUP,ELIJAH,DANIEL   POSSESS MARIJUANA UP TO 1/2 OZ BLAISE,A,J  18CR 714213
+                                POSSESS MARIJ PARAPHERNALIA    BLAISE,A,J  18CR 714213
+     106 JOHNSON,CRAIG,ARNOLD,J DRIVING WHILE IMPAIRED         PACE,S      18CR 057852
+                                DWLR NOT IMPAIRED REV          PACE,S      18CR 057852
+                                CIVIL REVOCATION DR LIC (30)   PACE,S      18CR 057852
+     107 JOHNSON,CRAIG,ARNOLD,J DISORDERLY CONDUCT             PACE,S,A    18CR 724441
+                                EXPIRED REGISTRATION CARD/TAG  PACE,S,A    18CR 724441
+     108 JOHNSON,CRAIG,ARNOLD,J EXPIRED/NO INSPECTION          PACE,S,A    18IF 710970
+     109 JOHNSON,DONNA,SMITH    DRIVING WHILE IMPAIRED         BROWN,R     17CR 059075
+                                FAIL STOP AT APPROPRIATE SPOT  BROWN,R     17CR 059075
+                                CIVIL REVOCATION DR LIC (30)   BROWN,R     17CR 059075
+     110 JOHNSON,JEREMY,JERROD  DRIVING WHILE IMPAIRED         HANKS,T     17CR 058252
+                                FAIL TO STOP-STEADY RED LIGHT  HANKS,T     17CR 058252
+                                CIVIL REVOCATION DR LIC (30)   HANKS,T     17CR 058252
+     111 JOHNSON,JEREMY,JERROD  EXCEEDING POSTED SPEED         HANKS,T,S   17IF 713523
+  ** 112 JOHNSON,LORIE,ANN      FAIL TO STOP-STEADY RED LIGHT  HANKS,T,S   17CR 001893
+                                CONTRIBUTING DEL OF JUVENILE   HANKS,T,S   17CR 001893
+     113 JOHNSON,LORIE,ANN      DRIVING WHILE IMPAIRED         HANKS,T     17CR 054666
+                                DWLR IMPAIRED REV              HANKS,T     17CR 054666
+                                CIVIL REVOCATION DR LIC (30)   HANKS,T     17CR 054666
+1                             DISTRICT COURT CALENDAR                    PAGE:    5
+
+          COURT DATE: 11/27/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO. DEFENDANT NAME          OFFENSE                        COMPLAINANT FILE NUMBER
+  *************************************************************************************
+  ** 114 JONES,JONATHON,RASHAD  DRIVING WHILE IMPAIRED         BLAISE,A    17CR 061952
+                                POSS OPN CNT/CONS ALC PSG AREA BLAISE,A    17CR 061952
+  ** 115 JONES,JONATHON,RASHAD  CARRYING CONCEALED GUN(M)      BLAISE,A    17CR 061953
+                                FAIL COMPLY LIC RESTRICTIONS   BLAISE,A    17CR 061953
+     116 JONES,JONATHON,RASHAD  DRIVE LEFT OF CENTER           BLAISE,A,J  17IF 719407
+                                FAIL MAINTAIN LANE CONTROL     BLAISE,A,J  17IF 719407
+     117 KENT,GREG,JAMES        DRIVING WHILE IMPAIRED         LANCASTER,J 18CR 058722
+                                OPEN CONT AFTR CONS ALC SUBOFN LANCASTER,J 18CR 058722
+                                CIVIL REVOCATION DR LIC (30)   LANCASTER,J 18CR 058722
+     118 KENT,GREG,JAMES        NO OPERATORS LICENSE           LANCASTER,J 18CR 727305
+                                FAIL MAINTAIN LANE CONTROL     LANCASTER,J 18CR 727305
+     119 KENT,GREG,JAMES        FAIL TO WEAR SEAT BELT-DRIVER  LANCASTER,J 18IF 712170
+  ** 120 KING,JAMAR,DONNELL     DRIVING WHILE IMPAIRED         JACOBSON,N  18CR 057952
+     121 KING,JAMAR,DONNELL     DRIVING WHILE IMPAIRED         JACOBSON,N  18CR 059952
+                                POSS OPN CNT/CONS ALC PSG AREA JACOBSON,N  18CR 059952
+     122 KING,JAMAR,DONNELL     DWLR NOT IMPAIRED REV          JACOBSON,N  18CR 059953
+                                WINDOW TINTING VIOL            JACOBSON,N  18CR 059953
+     123 KRONBERG,CHRISTOPHER,J DWLR IMPAIRED REV              BLAISE,A,J  18CR 702210
+                                FICT/ALT TITLE/REG CARD/TAG    BLAISE,A,J  18CR 702210
+     124 KRONBERG,CHRISTOPHER,J NO LIABILITY INSURANCE         BLAISE,A,J  18CR 702211
+                                EXPIRED/NO INSPECTION          BLAISE,A,J  18CR 702211
+     125 LAMBERT,CHRISTOPHER,EU SPEEDING                094/55 MEBANE,T,T  17CR 709289
+                                RECKLESS DRIVING TO ENDANGER   MEBANE,T,T  17CR 709289
+                                VIOLATION OF COURT ORDER       MEBANE,T,T  17CR 709289
+     126 LANE,AMY,RENEE         AID AND ABET IMPAIRED DRIVING  HANKS,T,S   18CR 002348
+     127 LINDSAY,MASON,JAVAE    FAILURE TO REDUCE SPEED        ALLEN,W,A   18IF 712220
+     128 LIVINGSTON,MONIQUE     DWLR NOT IMPAIRED REV          HANKS,T,S   18CR 700044
+                                DRIVE LEFT OF CENTER           HANKS,T,S   18CR 700044
+     129 LIVINGSTON,MONIQUE     MISDEMEANOR CHILD ABUSE        HANKS,T,S   18CR 700045
+  ** 130 LIVINGSTON,MONIQUE,SHE DRIVING WHILE IMPAIRED         HANKS,T     18CR 050020
+                                SPEEDING                073/55 HANKS,T     18CR 050020
+     131 LYONS,DEMONICA,LADASHA DWLR NOT IMPAIRED REV          BLAISE,A,J  18CR 725420
+                                EXPIRED REGISTRATION CARD/TAG  BLAISE,A,J  18CR 725420
+     132 LYONS,DEMONICA,LADASHA POSSESS MARIJUANA UP TO 1/2 OZ BLAISE,A,J  18CR 725421
+     133 LYONS,RICHARD,GRANT    HIT/RUN FAIL STOP PROP DAMAGE  MCRAE,P,J   18CR 720819
+     134 MATTHEWS,TINA,MARIE    DRIVING WHILE IMPAIRED         BLAISE,A    18CR 058477
+                                FAIL TO STOP-STEADY RED LIGHT  BLAISE,A    18CR 058477
+     135 MATTHEWS,TINA,MARIE    OPEN CONT AFTER CONS ALC 1ST   BLAISE,A,J  18CR 726438
+  ** 136 MCCOY,DANA,PADGETT     DRIVING WHILE IMPAIRED         STANLEY,A   18CR 053316
+                                SPEEDING                067/45 STANLEY,A   18CR 053316
+  ** 137 MCGANN-MILLER,JACE,AUS DRIVING WHILE IMPAIRED         HANKS,T     18CR 051953
+                                SPEEDING                058/45 HANKS,T     18CR 051953
+     138 MCGRIFF,ERICK,JERMAINE SPEEDING                071/35 BLAISE,A,J  18CR 714952
+                                RECKLESS DRIVING TO ENDANGER   BLAISE,A,J  18CR 714952
+     139 MCGRIFF,ERICK,JERMAINE DWLR NOT IMPAIRED REV          BLAISE,A,J  18CR 714953
+     140 MCLAUGHLIN,TARA,ANNE   DRIVING WHILE IMPAIRED         BLAISE,A    18CR 055818
+                                FAILURE TO REDUCE SPEED        BLAISE,A    18CR 055818
+     141 MEDDERS,ALBERT,JUNIOR, FAIL STOP STOPSIGN/FLSH RED LT GENEST,M,H  18CR 727816
+                                EXPIRED REGISTRATION CARD/TAG  GENEST,M,H  18CR 727816
+     142 MEDLEY,BROIC,DEMOND    DWLR NOT IMPAIRED REV          SHUPE,J,M   18CR 716812
+                                RECKLESS DRVG-WANTON DISREGARD SHUPE,J,M   18CR 716812
+     143 MEDLEY,BROIC,DEMOND    OPEN CONT AFTER CONS ALC 1ST   SHUPE,J,M   18CR 716813
+     144 MERRITT,ANTHONY,RAY    DRIVING WHILE IMPAIRED         FLIPPIN,T,L 86CR 033025
+                                POSSESS MARIJUANA UP TO 1/2 OZ FLIPPIN,T,L 86CR 033025
+                                CIVIL REVOCATION DR LIC (10)   FLIPPIN,T,L 86CR 033025
+     145 MERRITT,ANTHONY,RAY    SPEEDING                070/55 WHITE,H,L,I 13IF 701536
+     146 MILES,MIGUEL,DAMONT    EXPIRED REGISTRATION CARD/TAG  BURKS,C,M   18CR 728920
+1                             DISTRICT COURT CALENDAR                    PAGE:    6
+
+          COURT DATE: 11/27/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO. DEFENDANT NAME          OFFENSE                        COMPLAINANT FILE NUMBER
+  *************************************************************************************
+                                NO OPERATORS LICENSE           BURKS,C,M   18CR 728920
+     147 MITCHELL,ROBIN,LYNN    EXPIRED REGISTRATION CARD/TAG  SHUPE,J,M   17CR 738916
+                                DWLR NOT IMPAIRED REV          SHUPE,J,M   17CR 738916
+     148 MITCHELL,VERNELL       NO OPERATORS LICENSE           LIGONS,S    18CR 729027
+     149 MOCK,ZACHARY,JOEL      DRIVING WHILE IMPAIRED         BLAISE,A    18CR 056198
+                                REAR LAMPS VIOLATION           BLAISE,A    18CR 056198
+     150 MOCK,ZACHARY,JOEL      POSSESS DRUG PARAPHERNALIA     BLAISE,A,J  18CR 719642
+     151 MOENICH,ROBIN,ELIZABET EXPIRED REGISTRATION CARD/TAG  ROBBINS,S,D 17CR 003987
+                                EXPIRED/NO INSPECTION          ROBBINS,S,D 17CR 003987
+     152 MOENICH,ROBIN,ELIZABET DRIVING WHILE IMPAIRED         SHUPE,J     17CR 060035
+  ** 153 MONROE,JUSTIN,ANTHONY  DRIVING WHILE IMPAIRED         HANKS,T     18CR 054405
+                                FAIL TO BURN HEADLAMPS         HANKS,T     18CR 054405
+                                CIVIL REVOCATION DR LIC (30)   HANKS,T     18CR 054405
+                                MOTION FOR OFA RECALL          HANKS,T     18CR 054405
+     154 MONROE,JUSTIN,ANTHONY  EXPIRED OPERATORS LICENSE      HANKS,T,S   18IF 706492
+     155 MONTEGRICO,MA ANGELICA DRIVING WHILE IMPAIRED         RUIZ,M      18CR 058285
+                                DRIVE AFTER CONSUMING < 21     RUIZ,M      18CR 058285
+     156 MOODY,TERRY            DWLR NOT IMPAIRED REV          CAMPBELL,A, 18CR 713033
+     157 MOORE,JAMES,FRANKLIN   DRIVING WHILE IMPAIRED         BLAISE,A    18CR 053567
+                                FAILURE TO REDUCE SPEED        BLAISE,A    18CR 053567
+                                CIVIL REVOCATION DR LIC (30)   BLAISE,A    18CR 053567
+  ** 158 MOORE,JAMES,FRANKLIN   INTOXICATED AND DISRUPTIVE     BLAISE,A    18CR 053568
+                                SIMPLE POSSESS SCH IV CS (M)   BLAISE,A    18CR 053568
+     159 MYERS,KHADIJAH,LATEEFA DWLR IMPAIRED REV              THOMPSON,J, 18CR 002386
+ VIE 160 NGUYEN,TUYET,NGOC      SPEEDING                079/60 JACOBSON,N, 18CR 726522
+  ** 161 NICHOLS,STEVEN,WAYNE   DRIVING WHILE IMPAIRED         BLAISE,A    18CR 051774
+     162 NICHOLS,STEVEN,WAYNE   POSSESS MARIJUANA UP TO 1/2 OZ BLAISE,A,J  18CR 706956
+                                SIMPLE POSSESS SCH IV CS (M)   BLAISE,A,J  18CR 706956
+  ** 163 NOYOLA,OSCAR,CISNEROS  DRIVING WHILE IMPAIRED         BLAISE,A    18CR 057431
+                                DWLR NOT IMPAIRED REV          BLAISE,A    18CR 057431
+                                CIVIL REVOCATION DR LIC (30)   BLAISE,A    18CR 057431
+     164 NOYOLA,OSCAR,CISNEROS  FAIL MAINTAIN LANE CONTROL     BLAISE,A,J  18IF 710418
+                                DIRECTIONAL SIGNALS EQUIP VIOL BLAISE,A,J  18IF 710418
+     165 ORTIZ,EVELYN,IVETTE    DRIVE AFTER CONSUMING < 21     HANKS,T,S   18CR 727759
+                                DRIVE WITHOUT TWO HEADLAMPS    HANKS,T,S   18CR 727759
+     166 ORTIZ,EVELYN,IVETTE    DRIVE WRONG WAY-ONE WAY LOCAL  HANKS,T,S   18CR 727760
+                                CONSUME ALC BY 19/20           HANKS,T,S   18CR 727760
+     167 ORTIZ,EVELYN,IVETTE    FAIL TO NOTIFY DMV ADDR CHANGE HANKS,T,S   18IF 712339
+     168 PALMER,BRUCE,J         DRIVING WHILE IMPAIRED         HANKS,T     18CR 054486
+                                IMPROPER USE OF TRAFFIC LANE   HANKS,T     18CR 054486
+     169 PALMER,BRUCE,JASON     FAIL COMPLY LIC RESTRICTIONS   HANKS,T,S   18CR 714760
+     170 PARKS,BRADLEY,GRAY     SPEEDING                040/25 NIBLOCK,M,P 18CR 709617
+                                DWLR IMPAIRED REV              NIBLOCK,M,P 18CR 709617
+  ** 171 PATTERSON,CHARLES,EDWA DRIVING WHILE IMPAIRED         BLAISE,A    18CR 052422
+                                CIVIL REVOCATION DR LIC (30)   BLAISE,A    18CR 052422
+     172 PATTERSON,CHARLES,EDWA ASSAULT GOVT OFFICIAL/EMPLY    BLAISE,A    18CR 052423
+                                POSSESS MARIJUANA UP TO 1/2 OZ BLAISE,A    18CR 052423
+     173 PATTERSON,CHARLES,EDWA SPEEDING                053/45 BLAISE,A,J  18IF 703721
+                                FAIL MAINTAIN LANE CONTROL     BLAISE,A,J  18IF 703721
+     174 PEREZ,MARTIN           SPEEDING                089/65 HANKS,T,S   18CR 727657
+                                FOLLOWING TOO CLOSELY          HANKS,T,S   18CR 727657
+     175 PEREZ,OSCAR,RODRIGUEZ  DRIVING WHILE IMPAIRED         HANKS,T     18CR 058209
+                                DWLR IMPAIRED REV              HANKS,T     18CR 058209
+     176 PRATT,SESEMICA,GREGG   DWLR NOT IMPAIRED REV          BLAISE,A,J  18CR 726597
+                                FAIL MAINTAIN LANE CONTROL     BLAISE,A,J  18CR 726597
+     177 PRATT,SESEMICA,GREGG   POSSESS MARIJUANA UP TO 1/2 OZ BLAISE,A,J  18CR 726598
+                                POSSESS MARIJ PARAPHERNALIA    BLAISE,A,J  18CR 726598
+1                             DISTRICT COURT CALENDAR                    PAGE:    7
+
+          COURT DATE: 11/27/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO. DEFENDANT NAME          OFFENSE                        COMPLAINANT FILE NUMBER
+  *************************************************************************************
+     178 RAMIREZPANFILO,ANTONIO FAIL TO REPORT ACCIDENT        CAMPBELL,A, 18CR 728564
+                                FAIL MAINTAIN LANE CONTROL     CAMPBELL,A, 18CR 728564
+     179 RAMIREZPANFILO,ANTONIO EXCEEDING SAFE SPEED           CAMPBELL,A, 18IF 712677
+     180 RHYNE,MATTHEW,WILLIAM  DRIVING WHILE IMPAIRED         HANKS,T     18CR 057223
+                                DWLR IMPAIRED REV              HANKS,T     18CR 057223
+                                CIVIL REVOCATION DR LIC (30)   HANKS,T     18CR 057223
+                                OFA RECALL                     HANKS,T     18CR 057223
+     181 RICE,BRENTON,JARVAYE   FAIL TO REPORT ACCIDENT        WALSH,D,W   18CR 722535
+     182 RILEY,DEANNA,MARIE     IMPROPER BRAKES                COBB,A,M    18CR 002210
+                                FICT/ALT TITLE/REG CARD/TAG    COBB,A,M    18CR 002210
+     183 RILEY,DEANNA,MARIE     ALLOW UNLICENSED TO DRIVE      COBB,A,M    18CR 002220
+                                RESISTING PUBLIC OFFICER       COBB,A,M    18CR 002220
+     184 RING,GARY,EDWARD       DWLR NOT IMPAIRED REV          SPAINHOUR,R 18CR 723157
+     185 RIOS-SANCHEZ,OMAR,ARIS POSSESS MARIJUANA UP TO 1/2 OZ JAMES,M,L   17CR 736869
+                                POSSESS MARIJ PARAPHERNALIA    JAMES,M,L   17CR 736869
+     186 RIOS-SANCHEZ,OMAR,ARIS RESISTING PUBLIC OFFICER       JAMES,M,L   17CR 736870
+     187 ROBBINS,JOSHUA,MATTHEW ASSAULT GOVT OFFICIAL/EMPLY    BLAISE,A    18CR 059657
+                                RESISTING PUBLIC OFFICER       BLAISE,A    18CR 059657
+     188 ROBBINS,JOSHUA,MATTHEW DRIVING WHILE IMPAIRED         BLAISE,A    18CR 059658
+  ** 189 ROBERTS,CHASE,CHRISTIA DRIVING WHILE IMPAIRED         WALSH,D     17CR 053777
+                                FAIL TO YIELD LEFT TURN        WALSH,D     17CR 053777
+     190 ROBERTSON,NICHOLAS,LEE DRIVING WHILE IMPAIRED         BLAISE,A    18CR 058127
+                                CIVIL REVOCATION DR LIC (30)   BLAISE,A    18CR 058127
+     191 ROBERTSON,NICHOLAS,LEE EXPIRED REGISTRATION CARD/TAG  SMITH,A,B   18CR 725399
+                                GIVE/LEND/BORROW LIC PLATE     SMITH,A,B   18CR 725399
+     192 ROBERTSON,NICHOLAS,LEE EXCEEDING POSTED SPEED         SMITH,A,B   18IF 711372
+                                FAIL MAINTAIN LANE CONTROL     SMITH,A,B   18IF 711372
+     193 ROBINSON,CAMERON,KEITH DRIVING WHILE IMPAIRED         HANKS,T     18CR 056538
+                                MOTION-DRIVING PRIVL           HANKS,T     18CR 056538
+     194 ROSEBORO,DERRICK,DONNE SPEEDING                071/45 BLAISE,A,J  17CR 731999
+                                DWLR NOT IMPAIRED REV          BLAISE,A,J  17CR 731999
+     195 ROSEBORO,DERRICK,DONNE EXCEEDING SAFE SPEED           BLAISE,A,J  17IF 715473
+     196 SCEARCE,RACHEL,DAWN    EXPIRED REGISTRATION CARD/TAG  HESTER,A    18CR 059283
+                                FAIL TO WEAR SEAT BELT-DRIVER  HESTER,A    18CR 059283
+  ** 197 SCHOEFIELD,EARNEST,KIN DRIVING WHILE IMPAIRED         BLAISE,A    18CR 052412
+                                DWLR IMPAIRED REV              BLAISE,A    18CR 052412
+                                CIVIL REVOCATION DR LIC (30)   BLAISE,A    18CR 052412
+     198 SCHOEFIELD,EARNEST,KIN NO LIABILITY INSURANCE         BLAISE,A,J  18CR 708857
+                                EXPIRED REGISTRATION CARD/TAG  BLAISE,A,J  18CR 708857
+     199 SCHOEFIELD,EARNEST,KIN FAILURE TO REDUCE SPEED        BLAISE,A,J  18CR 708858
+                                HIT/RUN FAIL STOP PROP DAMAGE  BLAISE,A,J  18CR 708858
+  ** 200 SEFEROVIC,EDVIN        DRIVING WHILE IMPAIRED         HANKS,T     18CR 050444
+                                DWLR IMPAIRED REV              HANKS,T     18CR 050444
+     201 SEFEROVIC,EDVIN        FAIL MAINTAIN LANE CONTROL     HANKS,T,S   18IF 700806
+     202 SHAW,JUSTIN,EVAN       DRIVING WHILE IMPAIRED         HANKS,T     18CR 054938
+                                EXCEEDING POSTED SPEED         HANKS,T     18CR 054938
+                                CIVIL REVOCATION DR LIC (30)   HANKS,T     18CR 054938
+     203 SHAW,JUSTIN,EVAN       RESISTING PUBLIC OFFICER       HANKS,T,S   18CR 715901
+                                POSSESS MARIJUANA UP TO 1/2 OZ HANKS,T,S   18CR 715901
+     204 SHAW,JUSTIN,EVAN       FAIL COMPLY LIC RESTRICTIONS   HANKS,T,S   18CR 715982
+     205 SHAW,JUSTIN,EVAN       DRIVE LEFT OF CENTER           HANKS,T,S   18IF 707023
+                                POSS OPN CNT/CONS ALC PSG AREA HANKS,T,S   18IF 707023
+     206 SIMMONS,TERELL,LEON    DWLR IMPAIRED REV              CRIDER,M,D  17CR 000964
+                                MOTION TO RECALL               CRIDER,M,D  17CR 000964
+     207 SIMMONS,TERRELL,LEON   DRIVING WHILE IMPAIRED         CRIDER,M    17CR 052302
+                                CIVIL REVOCATION DR LIC (30)   CRIDER,M    17CR 052302
+                                MOTION TO RECALL               CRIDER,M    17CR 052302
+1                             DISTRICT COURT CALENDAR                    PAGE:    8
+
+          COURT DATE: 11/27/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO. DEFENDANT NAME          OFFENSE                        COMPLAINANT FILE NUMBER
+  *************************************************************************************
+     208 SIMS,STEVEN,LAMONT     DRIVING WHILE IMPAIRED         LOPEZ,O     17CR 059597
+                                FAIL TO REPORT ACCIDENT        LOPEZ,O     17CR 059597
+                                CIVIL REVOCATION DR LIC (30)   LOPEZ,O     17CR 059597
+     209 SINCLAIR,COREY         DRIVING WHILE IMPAIRED         BLAISE,A    18CR 053051
+                                CIVIL REVOCATION DR LIC (30)   BLAISE,A    18CR 053051
+     210 SMITH,DAVID,DEAKIN     DRIVING WHILE IMPAIRED         BROWN,R     18CR 055241
+     211 SMITH,DAVID,DEAKIN     RECKLESS DRVG-WANTON DISREGARD BROWN,R,M   18CR 716795
+     212 SMITH,GREGG,LEE        NO OPERATORS LICENSE           GENEST,M,H  18CR 728673
+     213 SNYDER,ANNIE,MARIE     DRIVING WHILE IMPAIRED         BROWN,R     18CR 055189
+                                CIVIL REVOCATION DR LIC (30)   BROWN,R     18CR 055189
+     214 SNYDER,ANNIE,MARIE     DWLR NOT IMPAIRED REV          WALSH,D,W   18CR 716568
+                                HIT/RUN FAIL STOP PROP DAMAGE  WALSH,D,W   18CR 716568
+     215 SNYDER,ANNIE,MARIE     EXPIRED REGISTRATION CARD/TAG  WALSH,D,W   18CR 716569
+                                EXPIRED/NO INSPECTION          WALSH,D,W   18CR 716569
+     216 SNYDER,ANNIE,MARIE     FAILURE TO REDUCE SPEED        WALSH,D,W   18IF 707397
+     217 SVEC,DANIEL,JOSEPH     DWLR NOT IMPAIRED REV          BLAISE,A,J  18CR 710532
+     218 SZARO,HEATHER,MARIE    DRIVING WHILE IMPAIRED         HANKS,T     18CR 055014
+                                FAIL MAINTAIN LANE CONTROL     HANKS,T     18CR 055014
+     219 TATE,DOMINIQUE,LAMICHA RESISTING PUBLIC OFFICER       BLAISE,A,J  17CR 733939
+                                DWLR NOT IMPAIRED REV          BLAISE,A,J  17CR 733939
+     220 TATE,DOMINIQUE,LAMICHA EXPIRED REGISTRATION CARD/TAG  BLAISE,A,J  17CR 733940
+                                DRIVE WITHOUT TWO HEADLAMPS    BLAISE,A,J  17CR 733940
+     221 THIERS,DIDIER,LUCAS    DWLR NOT IMPAIRED REV          GENEST,M,H  18CR 726722
+                                EXPIRED REGISTRATION CARD/TAG  GENEST,M,H  18CR 726722
+     222 THOMAS,KIARA,SYMONE    RECKLESS DRIVING TO ENDANGER   CAMPBELL,A  18CR 052398
+                                INJURY TO PERSONAL PROPERTY    CAMPBELL,A  18CR 052398
+                                NO OPERATORS LICENSE           CAMPBELL,A  18CR 052398
+  ** 223 TORRES,PABLO,SALINAS   DRIVING WHILE IMPAIRED         BLAISE,A    18CR 053552
+                                DWLR IMPAIRED REV              BLAISE,A    18CR 053552
+                                CIVIL REVOCATION DR LIC (30)   BLAISE,A    18CR 053552
+  ** 224 TYREE,DEANNA,MARIE     DRIVING WHILE IMPAIRED         BLAISE,A,J  18CR 040055
+                                CIVIL REVOCATION DR LIC (30)   BLAISE,A,J  18CR 040055
+     225 TYREE,DEANNA,MARIE     WRONG WAY ON DUAL LANE HIGHWAY BLAISE,A,J  18CR 703250
+                                RECKLESS DRVG-WANTON DISREGARD BLAISE,A,J  18CR 703250
+     226 TYREE,DEANNA,MARIE     EXPIRED REGISTRATION CARD/TAG  BLAISE,A,J  18CR 703251
+                                FAILURE TO REDUCE SPEED        BLAISE,A,J  18CR 703251
+     227 VAZQUEZ,MELODIE,JACQUE DRIVING WHILE IMPAIRED         BLAISE,A    18CR 054271
+  ** 228 VAZQUEZ,MELODIE,JACQUE POSSESS MARIJUANA UP TO 1/2 OZ BLAISE,A,J  18CR 714211
+                                POSSESS MARIJ PARAPHERNALIA    BLAISE,A,J  18CR 714211
+     229 VAZQUEZ,MELODIE,JACQUE DRIVE AFTER CONSUMING < 21     BLAISE,A,J  18CR 714214
+     230 VELAZQUEZ,BRANDON,CAMP POSSESS MARIJUANA UP TO 1/2 OZ BROWN,R,M   18CR 724180
+                                POSSESS MARIJ PARAPHERNALIA    BROWN,R,M   18CR 724180
+     231 VELAZQUEZ,BRANDON,CAMP FAILURE TO REDUCE SPEED        BROWN,R,M   18CR 724181
+                                HIT/RUN FAIL STOP PROP DAMAGE  BROWN,R,M   18CR 724181
+     232 WATKINS,BRIONNA,ANDREA EXPIRED REGISTRATION CARD/TAG  GAYLOR,E,M, 17CR 733239
+     233 WATKINS,BRIONNA,ANDREA EXPIRED REGISTRATION CARD/TAG  BATULAN,K,J 17CR 740538
+                                OPERATE VEH NO INS             BATULAN,K,J 17CR 740538
+     234 WATKINS,BRIONNA,ANDREA EXPIRED REGISTRATION CARD/TAG  ALLEN,N,A   18CR 701449
+     235 WATKINS,BRIONNA,ANDREA SPEEDING                060/45 NIBLOCK,M,P 18CR 710319
+                                EXPIRED REGISTRATION CARD/TAG  NIBLOCK,M,P 18CR 710319
+     236 WHITE,LESANDRA,TAYLOR  DWLR IMPAIRED REV              DAVILA,M,A  18CR 715611
+     237 WHITE,TOYOKA,CHAQUANDA DWLR NOT IMPAIRED REV          JOHNSON,N,T 17CR 716152
+                                MOTION OFA RECALL              JOHNSON,N,T 17CR 716152
+                                MOTION OFA RECALL              JOHNSON,N,T 17CR 716152
+     238 WHITEHEAD,RAESHUN,DANT DRIVING WHILE IMPAIRED         BLAISE,A    18CR 051380
+     239 WHITEHEAD,RAESHUN,DANT FAILURE TO REDUCE SPEED        BLAISE,A,J  18CR 705509
+                                HIT/RUN FAIL STOP PROP DAMAGE  BLAISE,A,J  18CR 705509
+1                             DISTRICT COURT CALENDAR                    PAGE:    9
+
+          COURT DATE: 11/27/18        TIME: 09:00 AM        COURTROOM NUMBER: 001A
+
+  NO. DEFENDANT NAME          OFFENSE                        COMPLAINANT FILE NUMBER
+  *************************************************************************************
+     240 WHITEHEAD,RAESHUN,DANT RESISTING PUBLIC OFFICER       BLAISE,A,J  18CR 705510
+     241 WHITSON,DALTON,REED    DRIVING WHILE IMPAIRED         SMITH,A     18CR 055019
+     242 WHITSON,DALTON,REED    RECKLESS DRVG-WANTON DISREGARD SMITH,A,B   18CR 716076
+                                FAIL MAINTAIN LANE CONTROL     SMITH,A,B   18CR 716076
+     243 WILBORN,BRANDON,CHRISS DWLR NOT IMPAIRED REV          SPAINHOUR,R 18CR 723159
+     244 WILLIAMS,JOHN,DAREYN   DWLR NOT IMPAIRED REV          BROWN,R     18CR 059308
+                                POSSESS MARIJ PARAPHERNALIA    BROWN,R     18CR 059308
+                                REAR LAMPS VIOLATION           BROWN,R     18CR 059308
+     245 WILSON,DAVIDA,YVONNE   DRIVING WHILE IMPAIRED         BLAISE,A    18CR 056959
+                                FAIL TO STOP-STEADY RED LIGHT  BLAISE,A    18CR 056959
+     246 WILSON,TEQULA,DEVAE    NO OPERATORS LICENSE           SHUPE,J,M   18CR 709783
+                                HIT/RUN LEAVE SCENE PROP DAM   SHUPE,J,M   18CR 709783
+
+  * MISSING/INVALID CHECK DIGIT
+ ** DEFENDANT NEEDS TO BE FINGERPRINTED

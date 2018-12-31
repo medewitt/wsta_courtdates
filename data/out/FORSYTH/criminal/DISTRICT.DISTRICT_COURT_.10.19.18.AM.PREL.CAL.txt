@@ -1,0 +1,3704 @@
+
+  RUN DATE: 10/10/18                                                        PAGE   1
+                             IN THE GENERAL COURT OF JUSTICE
+  LOCATION: WINSTON-SALEM        DISTRICT COURT DIVISION       COUNTY OF FORSYTH
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+                  PRELIMINARY
+
+                     JUDGE PRESIDING :
+                     COURTROOM CLERK :
+                     PROSECUTOR      :
+                                     :
+                                     :
+                                     :
+                                     :
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+     1  18CR 058064 ADAMS,JONATHAN,LAMAR  MILLER,Q       WPD
+                    BOND:      $1,500 SEC
+        (F)FELONY POSSESSION SCH II CS      PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+     2  18CR 052876 ALOMIA,MARVIN,JUAN BA GALLAGHER,S    WPD ATTY:BYERS,J,D
+                    BOND:     $10,000 SEC
+        (F)PWISD MARIJUANA                  PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)PWIMSD MDA/MDMA                  PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:
+
+
+        (M)RESISTING PUBLIC OFFICER         PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+     3  18CR 052877 ALOMIA,MARVIN,JUAN BA GALLAGHER,S    WPD ATTY:BYERS,J,D
+                    BOND:          $1 SEC
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)PWISD COCAINE                    PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:
+
+
+        (M)CARRYING CONCEALED GUN(M)        PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+     4  18CR 057623 ANDRES,EDWARD         BRANDSEMA,K    ALE P.D.:WHITLER,JASON,R
+                    BOND:     $15,000 SEC
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: AJB
+1                             DISTRICT COURT CALENDAR                    PAGE:    2
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (F)CARRYING CONCEALED GUN(F)        PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:
+
+
+     5  18CR 057624 ANDRES,EDWARD         FANNING,D      WPD P.D.:WHITLER,JASON,R   1
+                    BOND:             WPA
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C3987801
+                                        JUDGMENT:                           ADA: AJB
+
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       C3987801
+                                        JUDGMENT:
+
+
+     6  18IF 000225 ANDRES,EDWARD         BRANDSEMA,K    ALE                        1
+        (I)FAIL STOP STOPSIGN/FLSH RED LT   PLEA:                VER:       C3987802
+                                        JUDGMENT:
+
+
+     7  18CR 059049 ARCHIE,WELDON,LEE     WEAVER,T       WPD
+                    BOND:      $3,000 SEC
+        (F)FELONY POSSESSION OF COCAINE     PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+     8  18CR 057889 BAILEY,WILLIAM,ERNEST FERGUSON,B     WPD
+                    BOND:     $30,000 SEC
+        (F)PWIMSD HEROIN                    PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+     9  18CR 057912 BAILEY,WILLIAM,ERNEST FERGUSON,B     WPD
+                    BOND:     $15,000 SEC
+        (F)PWIMSD HEROIN                    PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (F)MAINTN VEH/DWELL/PLACE CS (F)    PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    3
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    10  18CR 058048 BALDWIN,DOMINIQUE,JEV MONTGOMERY,T   WPD
+              AKA: BALDWIN,DOMINIC,JEVO
+                    BOND:      $3,000 UNS
+        (F)FELONY POSSESSION OF COCAINE     PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+    11  18CR 059074 BELL,TAVARRIA,AVAREES JONES,B        SFF P.D.:WHITLER,JASON,R   1
+                    BOND:      $1,000 SEC
+        (F)FELONY POSSESSION OF COCAINE     PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    12  16CR 057302 BROWN,MIKE,RENO       NAVY,C         WPD ATTY:BYRD,JONES,P      1
+              AKA: BROWN,MICHAEL,RENO
+                    BOND:      $5,000 SEC
+        (F)PWISD COCAINE                    PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)PWISD MARIJUANA                  PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    13  16CR 724036 BROWN,MIKE,RENO       WELLS,J,G      WPD ATTY:BYRD,JONES,P      2
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:       606362F
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:       606362F
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    14  16CR 724040 BROWN,MIKE,RENO       WELLS,J,G      WPD ATTY:BYRD,JONES,P      6
+        (T)DWLR IMPAIRED REV                PLEA:                VER:       606366F
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    15  16CR 729427 BROWN,MIKE,RENO       DIME,M,L       WPD ATTY:BYRD,JONES,P      6
+        (T)DWLR IMPAIRED REV                PLEA:                VER:       903035F
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (T)OPERATE VEH NO INS               PLEA:                VER:       903035F
+        CLS:3  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    4
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    16  18CR 058039 BUCK,WALTER,DAULTON   JONES,B        SFF
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:             WPA
+        (F)POSSESS HEROIN                   PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    17  18CR 058045 BURNS,KEDRICK,TYRONE  FERGUSON,B     WPD P.D.:ZIGLAR,ARTRESE,
+                    BOND:      $4,500 SEC
+        (F)PWISD COCAINE                    PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (I)FAIL WEAR SEAT BELT-FRONT SEAT   PLEA:                VER:
+                                        JUDGMENT:
+
+
+    18  18CR 058046 BURNS,KEDRICK,TYRONE  FERGUSON,B     WPD P.D.:ZIGLAR,ARTRESE,
+                    BOND:          $1 SEC
+        (M)RESISTING PUBLIC OFFICER         PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (F)POSS CS PRISON/JAIL PREMISES     PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:
+
+
+    19  18CR 057959 CARTLEDGE,KEVIN,BRADL JACKSON,C      WPD
+                    BOND:             WPA
+        (F)FELONY POSSESSION OF COCAINE     PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+    20  18CR 056036 CARTLIDGE,JOSEPH,MARS SMITH,J        KPD ATTY:WAIVED            2
+              AKA: CARTLIDGE,JOSEPH,M
+                    BOND:    $300,000 SEC
+        (F)ATT OBTAIN CS FORGERY/FRAUD(F)   PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+1                             DISTRICT COURT CALENDAR                    PAGE:    5
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (F)TRAFFICKING, OPIUM OR HEROIN     PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+        (F)CONSPIRE TRAFFIC OPIUM/HEROIN    PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+    21  18CR 056936 CARTLIDGE,JOSEPH,MARS PARKER,M       WPD ATTY:WAIVED            1
+                    BOND:    $150,000 SEC
+        (F)OBTAIN CS BY FRAUD/FORGERY (F)   PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)TRAFFICKING, OPIUM OR HEROIN     PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+    22  18CR 051863 CAYTON,LINDA,MORGAN   GRIFFITH,D     KPD APT.:WARD,CHRIS
+                    BOND:          $1 SEC
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)POSSESS METHAMPHETAMINE          PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:
+
+
+    23  18CR 056894 CAYTON,LINDA,MORGAN   OWEN,C         SFF APT.:WARD,CHRIS
+                    BOND:      $1,000 SEC
+        (F)POSSESS METHAMPHETAMINE          PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+    24  18CR 057062 CAYTON,LINDA,MORGAN   GENEST,M       SFF APT.:WARD,CHRIS
+                    BOND:      $2,500 SEC
+        (F)FELONY POSSESSION SCH II CS      PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+    25  18CR 050677 CLARK,KEVIN,DAJUAN    PARKER,M       WPD ATTY:DUMMIT,CLARKE     3
+                    BOND:          $1 SEC
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (M)BOND HEARING                     PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    6
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    26  18CR 051778 CLAYTON,LINDA         GRIFFITH,D     KPD APT.:WARD,CHRIS
+              AKA: CAYTON,LINDA,M      , CAYTON,LINDA,M
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:     $10,000 SEC
+        (F)POSSESS METHAMPHETAMINE          PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    27  18CR 051779 CLAYTON,LINDA         GRIFFITH,D     KPD APT.:WARD,CHRIS
+              AKA: CAYTON,LINDA,M      , CAYTON,LINDA,M
+                    BOND:          $1 SEC
+        (M)SIMPLE POSSESS SCH II CS (M)     PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    28  18CR 057083 COLBERT,DAVID,ANDREW  FANNING,D      WPD APT.:EUSTACHE,HAROLD
+                    BOND:      $7,500 SEC
+        (F)POSSESS HEROIN                   PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    29  18CR 057084 COLBERT,DAVID,ANDREW  FANNING,D      WPD APT.:EUSTACHE,HAROLD
+                    BOND:          $1 SEC
+        (M)RESISTING PUBLIC OFFICER         PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)SIMPLE POSSESS SCH IV CS (M)     PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    30  17CR 061919 COLEMAN,JAMES,REGINAL HOWARD,J       KPD ATTY:ADAMS,FRED,II     1
+                    BOND:     $50,000 SEC
+        (F)PWISD MARIJUANA                  PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)SELL/DELIVER MARIJUANA           PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    7
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (F)SELL/DELIVER MARIJUANA           PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+        (M)MOTION FOR BOND REDUCTION        PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+    31  17CR 061920 COLEMAN,JAMES,REGINAL HOWARD,J       KPD ATTY:ADAMS,FRED,II     1
+                    BOND:          $1 SEC
+        (F)MAINTN VEH/DWELL/PLACE CS (F)    PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)MOTION FOR BOND REDUCTION        PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+    32  17CR 061921 COLEMAN,JAMES,REGINAL HOWARD,J       KPD ATTY:ADAMS,FRED,II     1
+                    BOND:          $1 SEC
+        (F)PWISD MARIJUANA                  PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)SELL/DELIVER MARIJUANA           PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+        (F)SELL/DELIVER MARIJUANA           PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+        (M)MOTION FOR BOND REDUCTION        PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+    33  17CR 061922 COLEMAN,JAMES,REGINAL HOWARD,J       KPD ATTY:ADAMS,FRED,II     1
+                    BOND:          $1 SEC
+        (F)MAINTN VEH/DWELL/PLACE CS (F)    PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)MOTION FOR BOND REDUCTION        PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    8
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    34  18CR 059075 COLLINS,MEAGAN,CHEYEN JONES,B        SFF
+                    BOND:      $5,000 SEC
+        (F)POSSESS METHAMPHETAMINE          PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    35  18CR 059076 COLLINS,MEAGAN,CHEYEN JONES,B        SFF
+                    BOND:          $1 SEC
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    36  18CR 053693 COLON,MISTY,MICHELLE  MCKNIGHT,C     SFF APT.:HESTER,WILLIAM,
+                    BOND:          $1 SEC
+        (F)TRAFFICKING, OPIUM OR HEROIN     PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)TRAFFICKING, OPIUM OR HEROIN     PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+    37  18CR 053694 COLON,MISTY,MICHELLE  MCKNIGHT,C     SFF APT.:HESTER,WILLIAM,
+                    BOND:     $20,000 SEC
+        (F)PWISD COCAINE                    PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)FELONY POSSESSION MARIJUANA      PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:
+
+
+        (F)MAINTN VEH/DWELL/PLACE CS (F)    PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:
+
+
+    38  17CR 061316 DALTON,BRANDI,SHANEIS PARKER,M       WPD P.D.:TOOMES,ELIZABET
+                    BOND:    $250,000 SEC
+        (F)TRAFFICKING, OPIUM OR HEROIN     PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)CONSPIRE TRAFFIC OPIUM/HEROIN    PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    9
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    39  18CR 055965 DIAZ,CARLOS,VAZQUEZ   MEADOWS,C      SFF ATTY:MARADIAGA,LUIS,
+                    BOND:      $1,000 SEC
+        (F)POSS CS PRISON/JAIL PREMISES     PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)FELONY POSSESSION OF COCAINE     PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:
+
+
+    40  18CR 057879 DUCKETT,BRANDON,TERRE PORTER,J       ALE
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:      $2,500 UNS
+        (F)SELL/DELIVER MARIJUANA           PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)PWISD MARIJUANA                  PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:
+
+
+    41  18CR 058085 EMERSON,RONALD,CHRIST SHAFIT,M       SFF P.D.:SHILLITO,BRIAN,
+        (F)EXTRADITION/FUGITIVE OTH STATE   PLEA:                VER:
+                                        JUDGMENT:
+
+
+    42  18CR 050688 EVANS,STEFON,ALLEN    FOSTER,D       WPD ATTY:FREEDMAN,DAVID
+                    BOND:     $10,000 SEC
+        (M)MAINTN VEH/DWELL/PLACE CS (M)    PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)PWISD MARIJUANA                  PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    43  18CR 050690 EVANS,STEFON,ALLEN    FOSTER,D       WPD ATTY:FREEDMAN,DAVID
+                    BOND:          $1 SEC
+        (F)FELONY POSSESSION OF COCAINE     PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   10
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    44  18CR 050691 EVANS,STEFON,ALLEN    FOSTER,D       WPD ATTY:FREEDMAN,DAVID
+                    BOND:          $1 SEC
+        (M)SIMPLE POSSESS SCH II CS (M)     PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)SIMPLE POSSESS SCH IV CS (M)     PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (M)SIMPLE POSSESS SCH IV CS (M)     PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    45  18CR 050692 EVANS,STEFON,ALLEN    FOSTER,D       WPD ATTY:FREEDMAN,DAVID
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:          $1 SEC
+        (F)FELONY POSSESSION SCH I CS       PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+    46  18CR 050880 FORTUNE,VICTOR DARNEL THOMAS,B       WPD ATTY:FREEDMAN,DAVID
+              AKA: FORTUNE,VICTOR,DARNN
+                    BOND:    $300,000 SEC
+        (F)TRAFFICKING, OPIUM OR HEROIN     PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)TRAFFICKING, OPIUM OR HEROIN     PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+        (F)PWIMSD HEROIN                    PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:
+
+
+    47  18CR 050881 FORTUNE,VICTOR DARNEL THOMAS,B       WPD ATTY:FREEDMAN,DAVID
+              AKA: FORTUNE,VICTOR,DARNN
+                    BOND:          $1 SEC
+        (F)MAINTN VEH/DWELL/PLACE CS (F)    PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)RESISTING PUBLIC OFFICER         PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    48  18CR 057925 FRANCE,DOUGLAS,EUGENE FERGUSON,B     WPD
+                    BOND:             WPA
+        (F)PWISD MARIJUANA                  PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+1                             DISTRICT COURT CALENDAR                    PAGE:   11
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    49  17CR 051597 FRANCE,WILLIAM,ANTHON VEAL,L         WPD APT.:SPEAKS,BILL       1
+                    BOND:          $1 SEC
+        (F)M/S/D/P CS W/N 1000FT OF PARK    PLEA:                VER:
+        CLS:E  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    50  18CR 057138 FULTON,BRIAN,JERRARD  FERGUSON,B     WPD ATTY:WAIVED
+                    BOND:      $1,000 SEC
+        (F)FELONY POSSESSION OF COCAINE     PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    51  18CR 052832 GADSON,SHAQUAN,DAMONT WELLS,S        WPD ATTY:MCIVER,RODERICK
+              AKA: GADSON,SHAQUAN
+                    BOND:      $1,000 SEC
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)PWIMSD MARIJUANA                 PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:
+
+
+        (M)MAINTN VEH/DWELL/PLACE CS (M)    PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    52  18CR 710011 GADSON,SHAQUAN,DAMONT WELLS,S,S      WPD ATTY:MCIVER,RODERICK
+              AKA: GADSON,SHAQUAN
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       40G4304
+        CLS:3  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   12
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    53  18CR 057995 GARY,FRANKLIN,LEE     TAYLOR,T       WPD
+                    BOND:      $5,000 SEC
+        (F)PWISD COCAINE                    PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (M)MAINTN VEH/DWELL/PLACE CS (M)    PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    54  18CR 057137 GENTRY,JULETA         GEOGHEGIAN,P   WPD P.D.:SMITH,CARA
+                    BOND:        $500 SEC
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)POSSESS METHAMPHETAMINE          PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:
+
+
+    55  18CR 057151 GENTRY,JULETA         GEOGHEGIAN,P   WPD
+              AKA: GENTRY,JULETA,L
+                    BOND:     $10,000 SEC
+        (F)POSS CS PRISON/JAIL PREMISES     PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+    56  17CR 734858 GILHAM,LUCAS,AARON    LONG,J,L       WPD ATTY:SIMMONS,JOSHUA,   3
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       2G63507
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    57  17CR 734859 GILHAM,LUCAS,AARON    LONG,J,L       WPD ATTY:SIMMONS,JOSHUA,   3
+        (T)GIVE/LEND/BORROW LIC PLATE       PLEA:                VER:       2G63508
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)DRIVE/ALLOW MV NO REGISTRATION   PLEA:                VER:       2G63508
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    58  17CR 734864 GILHAM,LUCAS,AARON    LONG,J,L       WPD ATTY:SIMMONS,JOSHUA,   3
+        (T)NO LIABILITY INSURANCE           PLEA:                VER:       2G63509
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+        (I)FAILURE TO REDUCE SPEED          PLEA:                VER:       2G63509
+                                        JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   13
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    59  18CR 051203 GILHAM,LUCAS,AARON    CHEEK,O        WPD ATTY:SIMMONS,JOSHUA,
+                    BOND:             WPA
+        (F)POSSESS HEROIN                   PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: AJB
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    60  18CR 051204 GILHAM,LUCAS,AARON    CHEEK,O        WPD ATTY:SIMMONS,JOSHUA,
+                    BOND:          $1 WPA
+        (T)DWLR IMPAIRED REV                PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (T)GIVE/LEND/BORROW LIC PLATE       PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (I)EXPIRED/NO INSPECTION            PLEA:                VER:
+                                        JUDGMENT:
+
+
+    61  18CR 051205 GILHAM,LUCAS,AARON    CHEEK,D        WPD ATTY:SIMMONS,JOSHUA,
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:             CUS
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C2415540
+                                        JUDGMENT:                           ADA: AJB
+
+
+    62  15CR 006422 GONZALEZ,ROBERTO,MARI WADE,K         WPD ATTY:HINES,TERRENCE,   2
+                    BOND:          $1 SEC
+        (T)NO OPERATORS LICENSE             PLEA:                VER:       C3424276
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: JRO
+
+
+    63  15CR 058087 GONZALEZ,ROBERTO,MARI GONZALEZ,J     WPD ATTY:HINES,TERRENCE,   3
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:      $1,500 SEC
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C3310239
+                                        JUDGMENT:                           ADA: AJB
+
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       C3310239
+                                        JUDGMENT:
+
+
+    64  15CR 058092 GONZALEZ,ROBERTO,MARI GONZALEZ,J     WPD APT.:HINES,TERRENCE,
+                    BOND:     $10,000 SEC
+        (F)POSSESSION OF COCAINE ON JAIL    PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:                           ADA: AJB
+1                             DISTRICT COURT CALENDAR                    PAGE:   14
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (F)FELONY POSSESSION SCH II CS      PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESSION OF DRUG PARAPHERNAL   PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+    65  18CR 057041 GOODING,RYAN,LATRELL  ROSE,D         WPD ATTY:WAIVED
+                    BOND:             WPA
+        (F)FELONY POSSESSION OF COCAINE     PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    66  18CR 050924 GRAY,DQUAN            WELLS,J        WPD APT.:GATTALARO,DONAL
+              AKA: GRAY,DQUAN,DLAE
+                    BOND:     $15,000 SEC
+        (F)POSSESSION OF FIREARM BY FELON   PLEA:                VER:
+        CLS:G  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+    67  18CR 050925 GRAY,DQUAN            WELLS,J        WPD APT.:GATTALARO,DONAL
+              AKA: GRAY,DQUAN,DLAE
+                    BOND:          $1 SEC
+        (F)POSSESSION OF FIREARM BY FELON   PLEA:                VER:
+        CLS:G  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+    68  18CR 050926 GRAY,DQUAN            WELLS,J        WPD APT.:GATTALARO,DONAL
+              AKA: GRAY,DQUAN,DLAE
+                    BOND:          $1 SEC
+        (F)POSSESS STOLEN FIREARM           PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    69  18CR 050927 GRAY,DQUAN            WELLS,J        WPD APT.:GATTALARO,DONAL
+              AKA: GRAY,DQUAN,DLAE
+                    BOND:          $1 SEC
+        (M)RESISTING PUBLIC OFFICER         PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   15
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    70  18CR 056057 GRAY,DQUAN            FLYNN,J        WPD
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:     $15,000 SEC
+        (F)POSSESSION OF FIREARM BY FELON   PLEA:                VER:
+        CLS:G  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+    71  18CR 056059 GRAY,DQUAN            FLYNN,J        WPD APT.:GATTALARO,DONAL
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:      $2,500 SEC
+        (F)PWIMSD SCH IV CS                 PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)PWIMSD SCH I CS                  PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:
+
+
+        (F)PWISD MARIJUANA                  PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:
+
+
+    72  18CR 051689 GREEN,DAQUAN,ANTONIA  BOLES,A        WPD P.D.:TOOMES,ELIZABET
+              AKA: GREEN,DAQUAN,ANTONIO
+                    BOND:    $250,000 SEC
+        (F)TRAFFICKING, OPIUM OR HEROIN     PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)PWIMSD HEROIN                    PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:
+
+
+        (F)PWIMSD SCH II CS                 PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:
+
+
+    73  18CR 051690 GREEN,DAQUAN,ANTONIA  BOLES,A        WPD P.D.:TOOMES,ELIZABET
+              AKA: GREEN,DAQUAN,ANTONIO
+                    BOND:          $1 SEC
+        (M)POSS MARIJ >1/2 TO 1 1/2 OZ      PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)SIMPLE POSSESS SCH IV CS (M)     PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   16
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    74  18CR 051691 GREEN,DAQUAN,ANTONIA  BOLES,A        WPD P.D.:TOOMES,ELIZABET
+              AKA: GREEN,DAQUAN,ANTONIO
+                    BOND:          $1 SEC
+        (M)MAINTN VEH/DWELL/PLACE CS (M)    PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+    75  18CR 051561 GROOMS,LEORY          ROSE,D         WPD ATTY:WAIVED            2
+              AKA: GROOMS,LEROY,JR
+                    BOND:    $100,000 SEC
+        (F)POSSESSION OF FIREARM BY FELON   PLEA:                VER:
+        CLS:G  P:   L:                  JUDGMENT:                           ADA: EFD
+
+
+    76  18CR 051562 GROOMS,LEORY          ROSE,D         WPD ATTY:WAIVED            2
+              AKA: GROOMS,LEROY,JR
+                    BOND:          $1 SEC
+        (F)PWISD COCAINE                    PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:                           ADA: EFD
+
+
+        (F)POSSESS STOLEN FIREARM           PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:
+
+
+        (M)CARRYING CONCEALED GUN(M)        PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+    77  18CR 051563 GROOMS,LEORY          ROSE,D         WPD ATTY:WAIVED            2
+              AKA: GROOMS,LEROY,JR
+                    BOND:          $1 SEC
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:                           ADA: EFD
+
+
+        (M)RESISTING PUBLIC OFFICER         PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+    78  18CR 059093 GUILYARD,PEYTON,ISABE SAINTSING,M    WPD
+                    BOND:             CUS
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C3991648
+                                        JUDGMENT:                           ADA: AJB
+
+
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       C3991648
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       C3991648
+                                        JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   17
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    79  18CR 059094 GUILYARD,PEYTON,ISABE SAINTSING,M    WPD
+                    BOND:          $1 CUS
+        (F)FELONY POSSESSION OF COCAINE     PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: AJB
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (I)FAIL STOP AT APPROPRIATE SPOT    PLEA:                VER:
+                                        JUDGMENT:
+
+
+    80  18CR 056977 HAIRSTON,MARICO,LAMON THOMAS,B       WPD ATTY:WAIVED
+              AKA: HAIRSTON,MARCIO,LAMO
+                    BOND:      $5,000 SEC
+        (F)PWIMSD HEROIN                    PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (I)LITTERING                        PLEA:                VER:
+                                        JUDGMENT:
+
+
+    81  18CR 056978 HAIRSTON,MARICO,LAMON THOMAS,B       WPD ATTY:WAIVED
+              AKA: HAIRSTON,MARCIO,LAMO
+                    BOND:          $1 SEC
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+    82  18CR 059148 HAIRSTON,ROBERT,ANTOI LUPER,C        WPD APT.:GATTALARO,DONAL   1
+                    BOND:          $1 SEC
+        (T)FICT/ALT TITLE/REG CARD/TAG      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)RESISTING PUBLIC OFFICER         PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    83  18CR 059150 HAIRSTON,ROBERT,ANTOI LUPER,C        WPD APT.:GATTALARO,DONAL   1
+                    BOND:        $500 SEC
+        (F)FELONY POSSESSION OF COCAINE     PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+1                             DISTRICT COURT CALENDAR                    PAGE:   18
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    84  18CR 058106 HARDY,SHAMIKA,LYVETTE DOSS,C         WPD
+                    BOND:     $25,000 UNS
+        (F)CONSPIRE SELL/DELIVER HEROIN     PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)MAINTN VEH/DWELL/PLACE CS (M)    PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    85  18CR 058107 HARDY,SHAMIKA,LYVETTE DOSS,C         WPD
+                    BOND:          $1 UNS
+        (F)CONSPIRE SELL/DELIVER HEROIN     PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)MAINTN VEH/DWELL/PLACE CS (M)    PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    86  18CR 058108 HARDY,SHAMIKA,LYVETTE DOSS,C         WPD
+                    BOND:          $1 UNS
+        (F)CONSPIRE SELL/DELIVER HEROIN     PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)MAINTN VEH/DWELL/PLACE CS (M)    PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    87  18CR 058109 HARDY,SHAMIKA,LYVETTE DOSS,C         WPD
+                    BOND:          $1 UNS
+        (F)CONSPIRE SELL/DELIVER HEROIN     PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)MAINTN VEH/DWELL/PLACE CS (M)    PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    88  18CR 058110 HARDY,SHAMIKA,LYVETTE DOSS,C         WPD
+                    BOND:          $1 UNS
+        (F)CONSPIRE SELL/DELIVER HEROIN     PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)MAINTN VEH/DWELL/PLACE CS (M)    PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    89  18CR 053008 HARGRAVE,RICARDO,DEON SISK,B         WPD APT.:HUTCHINS,JEFFRE
+              AKA: HARGRAVE,RICCARDO,DE
+                    BOND:     $15,000 SEC
+        (F)POSSESSION OF FIREARM BY FELON   PLEA:                VER:
+        CLS:G  P:   L:                  JUDGMENT:                           ADA: TPB
+1                             DISTRICT COURT CALENDAR                    PAGE:   19
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    90  18CR 053009 HARGRAVE,RICARDO,DEON SISK,B         WPD APT.:HUTCHINS,JEFFRE
+              AKA: HARGRAVE,RICCARDO,DE
+                    BOND:     $10,000 SEC
+        (F)PWIMSD MDA/MDMA                  PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)PWISD COCAINE                    PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:
+
+
+        (F)PWISD COUNTERFEIT CS             PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:
+
+
+    91  18CR 053010 HARGRAVE,RICARDO,DEON SISK,B         WPD APT.:HUTCHINS,JEFFRE
+              AKA: HARGRAVE,RICCARDO,DE
+                    BOND:          $1 SEC
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)RESISTING PUBLIC OFFICER         PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+    92  17CR 061912 HASTINGS,JAMES,COLE   MCGAVIC,A      SFF ATTY:FREEDMAN,DAVID
+                    BOND:      $5,000 SEC
+        (F)PWISD COCAINE                    PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)FELONY POSSESSION OF COCAINE     PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:
+
+
+        (M)CARRYING CONCEALED GUN(M)        PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+    93  17CR 061913 HASTINGS,JAMES,COLE   MCGAVIC,A      SFF ATTY:FREEDMAN,DAVID
+                    BOND:          $1 SEC
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+    94  16CR 058178 HEGGINS,ENRICO,DEWAIN SAMS,R         SFF APT.:GOLDSBOROUGH,BR   3
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:      $5,000 SEC
+        (M)ASSAULT INFLICT SERIOUS INJ(M)   PLEA:                VER:
+        CLS:A1 P:   L:                  JUDGMENT:                           ADA: TPB
+1                             DISTRICT COURT CALENDAR                    PAGE:   20
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    95  16CR 059349 HEGGINS,ENRICO,DEWAIN DOSS,C         WPD APT.:GOLDSBOROUGH,BR   2
+              AKA: HEGGINS,ENRICO,DEWIO, HEGGINS,ENRICO,DEWOI
+                    BOND:      $5,000 SEC
+        (F)POSSESS STOLEN FIREARM           PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+    96  18CR 057921 HERNANDEZ,JILLIAN,RAE REYNOLDS,C     WPD
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:             WPA
+        (F)POSSESS METHAMPHETAMINE          PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    97  18CR 056287 HERNANDEZ,ORLANDO,TOR HIATT,J        WPD ATTY:DOORASAMY,ALAN,   1
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                   SPANISH
+                    BOND:             CUS
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C3763004
+                                        JUDGMENT:                           ADA: AJB
+
+
+        (T)NO OPERATORS LICENSE             PLEA:                VER:       C3763004
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       C3763004
+                                        JUDGMENT:
+
+
+    98  18CR 056288 HERNANDEZ,ORLANDO,TOR HIATT,J        WPD ATTY:DOORASAMY,ALAN,   1
+                   SPANISH
+                    BOND:             WPA
+        (F)FELONY POSSESSION OF COCAINE     PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: AJB
+
+
+    99  18IF 708980 HERNANDEZ,ORLANDO,TOR HIATT,J,T      WPD ATTY:DOORASAMY,ALAN,   1
+        (I)POSS OPN CNT/CONS ALC PSG AREA   PLEA:                VER:       91G1361
+                                        JUDGMENT:
+                   SPANISH
+
+
+   100  18CR 059035 HICKS,RONNIE,GRAY     ADKINS,N
+                    BOND:             WPA
+        (F)POSSESS METHAMPHETAMINE          PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+1                             DISTRICT COURT CALENDAR                    PAGE:   21
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+   101  18CR 053846 HINES,MICHAEL,DAMON,J JOHNSON,S      KPD ATTY:WAIVED            1
+              AKA: HINES,MICHAEL,DAMON , HINES,MICHEL,DAMON
+                    BOND:      $2,000 SEC
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4016462
+                                        JUDGMENT:                           ADA: AJB
+
+
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       C4016462
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       C4016462
+                                        JUDGMENT:
+
+
+   102  18CR 053847 HINES,MICHAEL,DAMON,J JOHNSON,S      KPD ATTY:WAIVED            1
+                    BOND:          $1 SEC
+        (F)FELONY POSSESSION OF COCAINE     PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: AJB
+
+
+        (M)POSS MARIJ >1/2 TO 1 1/2 OZ      PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   103  18CR 053848 HINES,MICHAEL,DAMON,J JOHNSON,S      KPD ATTY:WAIVED            1
+                    BOND:          $1 SEC
+        (T)SPEEDING                         PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: AJB
+
+
+        (I)POSS OPN CNT/CONS ALC PSG AREA   PLEA:                VER:
+                                        JUDGMENT:
+
+
+        (I)FAIL MAINTAIN LANE CONTROL       PLEA:                VER:
+                                        JUDGMENT:
+
+
+   104  18CR 058113 HOLDER,KEDRICK,ANTHON DOSS,C         WPD P.D.:WHITLER,JASON,R
+                    BOND:  $1,000,000 SEC
+        (F)MAINTN VEH/DWELL/PLACE CS (F)    PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+   105  18CR 058114 HOLDER,KEDRICK,ANTHON DOSS,C         WPD P.D.:WHITLER,JASON,R
+                    BOND:          $1 SEC
+        (F)TRAFFICKING, OPIUM OR HEROIN     PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:                           ADA: TPB
+1                             DISTRICT COURT CALENDAR                    PAGE:   22
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (F)TRAFFICKING, OPIUM OR HEROIN     PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+        (F)TRAFFICKING, OPIUM OR HEROIN     PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+   106  18CR 058115 HOLDER,KEDRICK,ANTHON DOSS,C         WPD P.D.:WHITLER,JASON,R
+                    BOND:          $1 SEC
+        (F)CONSPIRE SELL/DELIVER HEROIN     PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)PWIMSD HEROIN                    PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+   107  18CR 058116 HOLDER,KEDRICK,ANTHON DOSS,C         WPD P.D.:WHITLER,JASON,R
+                    BOND:          $1 SEC
+        (F)TRAFFICKING, OPIUM OR HEROIN     PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)TRAFFICKING, OPIUM OR HEROIN     PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+        (F)TRAFFICKING, OPIUM OR HEROIN     PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+   108  18CR 058117 HOLDER,KEDRICK,ANTHON DOSS,C         WPD P.D.:WHITLER,JASON,R
+                    BOND:          $1 SEC
+        (F)CONSPIRE SELL/DELIVER HEROIN     PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)PWIMSD HEROIN                    PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:
+
+
+   109  18CR 058118 HOLDER,KEDRICK,ANTHON DOSS,C         WPD P.D.:WHITLER,JASON,R
+                    BOND:          $1 SEC
+        (F)TRAFFICKING, OPIUM OR HEROIN     PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:                           ADA: TPB
+1                             DISTRICT COURT CALENDAR                    PAGE:   23
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (F)TRAFFICKING, OPIUM OR HEROIN     PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+        (F)TRAFFICKING, OPIUM OR HEROIN     PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+   110  18CR 058119 HOLDER,KEDRICK,ANTHON DOSS,C         WPD P.D.:WHITLER,JASON,R
+                    BOND:          $1 SEC
+        (F)CONSPIRE SELL/DELIVER HEROIN     PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)PWIMSD HEROIN                    PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:
+
+
+   111  18CR 058120 HOLDER,KEDRICK,ANTHON DOSS,C         WPD P.D.:WHITLER,JASON,R
+                    BOND:          $1 SEC
+        (F)TRAFFICKING, OPIUM OR HEROIN     PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)TRAFFICKING, OPIUM OR HEROIN     PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+        (F)TRAFFICKING, OPIUM OR HEROIN     PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+   112  18CR 058121 HOLDER,KEDRICK,ANTHON DOSS,C         WPD P.D.:WHITLER,JASON,R
+                    BOND:          $1 SEC
+        (F)PWIMSD HEROIN                    PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)CONSPIRE SELL/DELIVER HEROIN     PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+   113  18CR 058122 HOLDER,KEDRICK,ANTHON DOSS,C         WPD P.D.:WHITLER,JASON,R
+                    BOND:          $1 SEC
+        (F)PWIMSD HEROIN                    PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)CONSPIRE SELL/DELIVER HEROIN     PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   24
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+   114  18CR 058123 HOLDER,KEDRICK,ANTHON DOSS,C         WPD P.D.:WHITLER,JASON,R
+                    BOND:          $1 SEC
+        (F)TRAFFICKING, OPIUM OR HEROIN     PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)TRAFFICKING, OPIUM OR HEROIN     PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+        (F)TRAFFICKING, OPIUM OR HEROIN     PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+   115  18CR 058124 HOLDER,KEDRICK,ANTHON DOSS,C         WPD P.D.:WHITLER,JASON,R
+                    BOND:          $1 SEC
+        (F)SELL/DELIVER HEROIN              PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)SELL/DELIVER HEROIN              PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+        (F)PWIMSD HEROIN                    PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:
+
+
+   116  17CR 061929 HOWARD,FERNANDO,LEE,J SPEIGHT,C      WPD ATTY:HUDSON,ALVIN,LO   1
+                    BOND:      $7,000 SEC
+        (F)PWISD MARIJUANA                  PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+   117  17CR 061930 HOWARD,FERNANDO,LEE,J SPEIGHT,C      WPD ATTY:WAIVED            1
+                    BOND:          $1 SEC
+        (F)POSSESS STOLEN FIREARM           PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+   118  17CR 057478 HOWELL,KEDRICK,DELANO CARLETON,C     WPD ATTY:CHURCH,TERESA     1
+                    BOND:      $2,000 SEC
+        (M)FAIL TO PROVIDE DNA SAMPLE       PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:                           ADA: TPB
+1                             DISTRICT COURT CALENDAR                    PAGE:   25
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+   119  13CR 014173 HUGHES,TANYA,DUPONT   MCDONALD,M,S   WPD P.D.:SMITH,CARA        1
+              AKA: DUPONT,TANYA,HUGHES
+        (T)DWLR                             PLEA:                VER:       C1224258
+        CLS:1  P:   L:                  JUDGMENT:                           ADA: JRO
+
+
+        (T)GIVE/LEND/BORROW LIC PLATE       PLEA:                VER:       C1224258
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   120  13CR 059978 HUGHES,TANYA,DUPONT   PLEASANT,J     WPD P.D.:SMITH,CARA        1
+                    BOND:             WPA
+        (F)FELONY POSSESSION OF COCAINE     PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)MOTION-OFA RECALL                PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+   121  13CR 060500 HUGHES,TANYA,DUPONT   MCDONALD,M     WPD P.D.:SMITH,CARA        1
+                    BOND:      $4,000 SEC
+        (F)FELONY POSSESSION OF COCAINE     PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)MOTION-OFA RECALL                PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+   122  18CR 057044 JENERETT,SOLOMON,MONR ROSE,D         WPD P.D.:WANDERMAN,DAN
+                    BOND:             WPA
+        (F)FELONY POSSESSION OF COCAINE     PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+   123  17CR 052541 JIMENEZ,JULIO,CURIEL  DUQUE,R        WPD ATTY:MYERS,DOUG
+              AKA: CAMPOS,JULIO,N
+                   SPANISH
+                    BOND:      $4,000 CSH
+        (T)NO OPERATORS LICENSE             PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)FELONY POSSESSION SCH II CS      PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   26
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+   124  18CR 057867 JOHNSON,ANDREW,WARREN COLLINS,J      WPD
+              AKA: JOHNSON,ANDREW,W
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:      $5,000 SEC
+        (F)POSSESS HEROIN                   PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)FELONY POSSESSION OF COCAINE     PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:
+
+
+   125  16IF 701470 JOHNSON,JULIAN,GIAVAN TERRY,J,O      WPD ATTY:WAIVED            5
+        (I)FAIL TO BURN HEADLAMPS           PLEA:                VER:       92074F3
+                                        JUDGMENT:                           ADA: JRO
+
+
+   126  16CR 054981 JOHNSON,JULIAN,GIAVAN CAIN,O         WPD P.D.:KEEVER,ANDREW     4
+              AKA: JOHNSON,JULIAN,GIANV
+                    BOND:     $15,000 SEC
+        (F)POSSESSION WITH THE INTENT TO    PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)MAINTN VEH/DWELL/PLACE CS (F)    PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESSION OF DRUG PARAPHERNAL   PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+   127  16CR 055031 JOHNSON,JULIAN,GIAVAN CAIN,O         WPD P.D.:KEEVER,ANDREW     4
+              AKA: JOHNSON,JULIAN,GIANV
+                    BOND:          $1 SEC
+        (F)POSSESS STOLEN FIREARM           PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+   128  16CR 055202 JOHNSON,JULIAN,GIAVAN KIMEL,A        WPD P.D.:KEEVER,ANDREW     4
+              AKA: JOHNSON,JULIAN,GIANV, JOHNSON,JULIAN,GIOVA
+                    BOND:      $2,500 SEC
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)PWIMSD SCH IV CS                 PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:
+
+
+   129  17CR 054549 JOHNSON,RAMONE,MARQUE LAVALLEY,M     WPD P.D.:TOOMES,ELIZABET   1
+              AKA: JOHNSON,RAMON,MARQUE, JOHNSON,RAMON,MARQUI
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:          $1 SEC
+        (M)CARRYING CONCEALED GUN(M)        PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:                           ADA: TPB
+1                             DISTRICT COURT CALENDAR                    PAGE:   27
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (M)RESISTING PUBLIC OFFICER         PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+   130  17CR 054550 JOHNSON,RAMONE,MARQUE LAVALLEY,M     WPD P.D.:TOOMES,ELIZABET   1
+              AKA: JOHNSON,RAMON,MARQUE, JOHNSON,RAMON,MARQUI
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:          $1 SEC
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   131  17CR 058596 JOHNSON,RAMONE,MARQUE LAVALLEY,M     WPD ATTY:WAIVED            1
+              AKA: JOHNSON,RAMON,MARQUI
+                    BOND:     $50,000 SEC
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)PWIMSD SCH II CS                 PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   132  17CR 058597 JOHNSON,RAMONE,MARQUE LAVALLEY,M     WPD ATTY:WAIVED            1
+              AKA: JOHNSON,RAMON,MARQUI
+                    BOND:          $1 SEC
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)M/S/D/P CS W/N 1000FT OF PARK    PLEA:                VER:
+        CLS:E  P:   L:                  JUDGMENT:
+
+
+   133  18CR 050615 JOHNSON,RAMONE,MARQUE GRIFFITH,D     KPD P.D.:TOOMES,ELIZABET
+                    BOND:     $30,000 SEC
+        (F)FELONY POSSESSION OF COCAINE     PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+1                             DISTRICT COURT CALENDAR                    PAGE:   28
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)POSS MARIJ >1/2 TO 1 1/2 OZ      PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+   134  18CR 059169 KESSLER,HANNAH,NICOLE HANLON,J       WPD APT.:SHORT,RONALD,J    1
+                    BOND:     $10,000 SEC
+        (F)EXTORTION                        PLEA:                VER:
+        CLS:F  P:   L:                  JUDGMENT:                           ADA: SLB
+
+
+        (M)RESISTING PUBLIC OFFICER         PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+   135  18CR 059170 KESSLER,HANNAH,NICOLE HANLON,J       WPD APT.:SHORT,RONALD,J    1
+                    BOND:          $1 SEC
+        (F)FELONY POSSESSION OF COCAINE     PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: SLB
+
+
+        (F)POSSESS HEROIN                   PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:
+
+
+   136  18CR 056053 KEY,DUSTIN,DEWAYNE    GRUBB,A        SFF ATTY:WAIVED
+                    BOND:             WPA
+        (F)FELONY POSSESSION SCH I CS       PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+   137  18CR 057267 KING,DEVIN,MICHAEL    RUIZ,M         WPD ATTY:BEECHLER,CHRIS
+                    BOND:      $2,500 SEC
+        (F)POSSESS METHAMPHETAMINE          PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: AJB
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   29
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+   138  18CR 050025 LADD,DEVAN,DELANO     MERRITT,M      WPD APT.:DENIED            1
+                    BOND:             WPA
+        (F)POSSESS HEROIN                   PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+   139  18CR 055325 LANDRETH,SHANE,ALLEN  SMITH,J        KPD ATTY:LOGAN,DANIEL,N
+              AKA: LANDRETH,SHANE,ALLAN
+                    BOND:      $7,500 SEC
+        (F)POSSESS METHAMPHETAMINE          PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+   140  17CR 734298 LAVANT,DIVA,RENEE     TESH,N,A       WPD P.D.:WANDERMAN,DAN     1
+        (T)HIT/RUN LEAVE SCENE PROP DAM     PLEA:                VER:       7G15856
+        CLS:1  P:   L:                  JUDGMENT:                           ADA: AJB
+
+
+        (I)UNSAFE MOVEMENT                  PLEA:                VER:       7G15856
+                                        JUDGMENT:
+
+
+   141  17CR 734308 LAVANT,DIVA,RENEE     TESH,N,A       WPD P.D.:WANDERMAN,DAN     1
+        (T)FICT/ALT TITLE/REG CARD/TAG      PLEA:                VER:       7G15857
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: AJB
+
+
+   142  17CR 734316 LAVANT,DIVA,RENEE     ROSALES,G,J    WPD P.D.:WANDERMAN,DAN     1
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       5G04794
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: AJB
+
+
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       5G04794
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   143  17IF 716609 LAVANT,DIVA,RENEE     TESH,N,A       WPD P.D.:WANDERMAN,DAN     1
+        (I)MIRROR VIOLATION                 PLEA:                VER:       7G15858
+                                        JUDGMENT:                           ADA: AJB
+1                             DISTRICT COURT CALENDAR                    PAGE:   30
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (I)UNSAFE TIRES                     PLEA:                VER:       7G15858
+                                        JUDGMENT:
+
+
+   144  17IF 716614 LAVANT,DIVA,RENEE     ROSALES,G,J    WPD P.D.:WANDERMAN,DAN     1
+        (I)FAILURE TO REDUCE SPEED          PLEA:                VER:       5G04795
+                                        JUDGMENT:                           ADA: AJB
+
+
+        (I)UNSAFE TIRES                     PLEA:                VER:       5G04795
+                                        JUDGMENT:
+
+
+   145  18CR 053674 LONG,DONTAY,DEREZE    INMAN,C        KPD APT.:OPATA,KWAME
+                    BOND:      $2,000 SEC
+        (F)FELONY POSSESSION OF COCAINE     PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+   146  18CR 054729 LONG,DONTAY,DEREZE    SPEIGHT,C      WPD APT.:OPATA,KWAME
+                    BOND:     $20,000 SEC
+        (F)PWISD COCAINE                    PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+   147  18CR 054728 LONG,SHAQUAN,SHAKUR   SPEIGHT,C      WPD P.D.:TOOMES,ELIZABET
+                    BOND:      $2,500 SEC
+        (F)PWISD COCAINE                    PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+   148  18CR 059052 MANRING,MIRANDA,NICOL JOHNSON,S      KPD
+                    BOND:             CUS
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4017790
+                                        JUDGMENT:                           ADA: AJB
+
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       C4017790
+                                        JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   31
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+   149  18CR 059053 MANRING,MIRANDA,NICOL JOHNSON,S      KPD
+                    BOND:          $1 CUS
+        (F)FELONY POSSESSION OF COCAINE     PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: AJB
+
+
+   150  18CR 050720 MARTIN,JOHN,EDWARD    HILL,B         WPD ATTY:CHURCH,TERESA     1
+                    BOND:     $15,000 SEC
+        (F)PWISD COCAINE                    PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   151  18CR 050721 MARTIN,JOHN,EDWARD    HILL,B         WPD ATTY:CHURCH,TERESA     1
+                    BOND:          $1 SEC
+        (F)POSSESSION OF FIREARM BY FELON   PLEA:                VER:
+        CLS:G  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+   152  17CR 058403 MARTINEZ,AARON,LOVELL KLUTTZ,C       ALE ATTY:WAIVED            1
+                    BOND:     $90,000 SEC
+        (F)PWIMSD HEROIN                    PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)PWISD COCAINE                    PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   153  17CR 058404 MARTINEZ,AARON,LOVELL KLUTTZ,C       ALE ATTY:WAIVED            1
+                    BOND:          $1 SEC
+        (F)PWIMSD SCH I CS                  PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)SIMPLE POSSESS SCH IV CS (M)     PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   32
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+   154  18CR 056093 MAYHEW,DEION,VANCE    FLYNN,J        WPD P.D.:QUINLAN,AL
+                    BOND:      $5,000 SEC
+        (F)PWIMSD SCH II CS                 PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)SIMPLE POSSESS SCH IV CS (M)     PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   155  18CR 056094 MAYHEW,DEION,VANCE    FLYNN,J        WPD P.D.:QUINLAN,AL
+                    BOND:          $1 SEC
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+   156  18CR 058102 MCCALL,JONATHAN,DERNA SISK,B         WPD P.D.:WANDERMAN,DAN     1
+                    BOND:    $500,000 SEC
+        (F)TRAFFICKING IN COCAINE           PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)MANUFACTURE COCAINE              PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:
+
+
+        (F)PWIMSD COCAINE                   PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:
+
+
+        (M)BOND MOTION                      PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+   157  18CR 058103 MCCALL,JONATHAN,DERNA SISK,B         WPD P.D.:WANDERMAN,DAN     1
+                    BOND:          $1 SEC
+        (F)POSSESS STOLEN FIREARM           PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (M)MAINTN VEH/DWELL/PLACE CS (M)    PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   33
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (M)BOND MOTION                      PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+   158  18CR 058104 MCCALL,JONATHAN,DERNA SISK,B         WPD P.D.:WANDERMAN,DAN     1
+                    BOND:          $1 SEC
+        (F)POSSESSION OF FIREARM BY FELON   PLEA:                VER:
+        CLS:G  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)BOND MOTION                      PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+   159  18CR 058105 MCCALL,JONATHAN,DERNA SISK,B         WPD P.D.:WANDERMAN,DAN     1
+                    BOND:          $1 SEC
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)BOND MOTION                      PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+   160  17CR 060974 MCCULLOUGH,DEREZ,RASH FERGUSON,B     WPD P.D.:MARTIN,JENNIFER
+                    BOND:      $3,000 SEC
+        (F)PWISD MARIJUANA                  PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   161  17CR 060975 MCCULLOUGH,DEREZ,RASH FERGUSON,B     WPD P.D.:MARTIN,JENNIFER
+                    BOND:          $1 SEC
+        (F)MAINTN VEH/DWELL/PLACE CS (F)    PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+   162  17CR 061964 MCGEE,CRYSTAL,NICOLE  CHEEK,D        WPD ATTY:WAIVED            1
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:     $10,000 SEC
+        (F)POSSESS METHAMPHETAMINE          PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)PWIMSD METHAMPHETAMINE           PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   34
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (F)PWIMSD SCH II CS                 PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:
+
+
+   163  17CR 061965 MCGEE,CRYSTAL,NICOLE  CHEEK,D        WPD ATTY:WAIVED            1
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:          $1 SEC
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (M)MAINTN VEH/DWELL/PLACE CS (M)    PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+   164  17CR 061966 MCGEE,CRYSTAL,NICOLE  CHEEK,D        WPD ATTY:WAIVED            1
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:          $1 SEC
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   165  17CR 061967 MCGEE,CRYSTAL,NICOLE  CHEEK,D        WPD ATTY:WAIVED            1
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:             WPA
+        (F)FELONY POSSESSION OF COCAINE     PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+   166  18CR 052494 MENDOZA,LILIA         UKUZATO,K      WPD P.D.:ZIGLAR,ARTRESE,
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:      $2,500 SEC
+        (F)POSSESS HEROIN                   PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+   167  17CR 040278 MILLER,CARLOS,STEFON  HANKS,T,S      WPD P.D.:DAVIS,WHIT        1
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C3988679
+                                        JUDGMENT:                           ADA: AJB
+
+
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       C3988679
+        CLS:3  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   35
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       C3988679
+                                        JUDGMENT:
+
+
+   168  17CR 061542 MILLER,CARLOS,STEFON  SHEETS,J       WPD P.D.:DAVIS,WHIT
+                    BOND:    $100,000 SEC
+        (F)FELONY DEATH BY VEHICLE          PLEA:                VER:
+        CLS:D  P:   L:                  JUDGMENT:                           ADA: AJB
+
+
+        (F)FEL SERIOUS INJURY BY VEHICLE    PLEA:                VER:
+        CLS:F  P:   L:                  JUDGMENT:
+
+
+   169  17IF 718913 MILLER,CARLOS,STEFON  HANKS,T,S      WPD P.D.:DAVIS,WHIT        1
+        (I)FAIL TO WEAR SEAT BELT-DRIVER    PLEA:                VER:       00G0090
+                                        JUDGMENT:
+
+
+   170  18CR 055855 MILLER,JAMES,MATTHEW  BYERLY,W       SFF ATTY:WAIVED
+                    BOND:             WPA
+        (F)PWISD COCAINE                    PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:                           ADA: AH
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (F)FELONY POSSESSION SCH II CS      PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:
+
+
+   171  18CR 056140 MILLS,RANDALL,DOUGLAS HOWARD,J       KPD
+              AKA: MILLS,RANDALL
+                    BOND:             WPA
+        (F)FELONY POSSESSION OF COCAINE     PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (M)MAINTN VEH/DWELL/PLACE CS (M)    PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+   172  18CR 056141 MILLS,RANDALL,DOUGLAS HOWARD,J       KPD
+              AKA: MILLS,RANDALL
+                    BOND:          $1 WPA
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: TPB
+1                             DISTRICT COURT CALENDAR                    PAGE:   36
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (I)DRIVE LEFT OF CENTER             PLEA:                VER:
+                                        JUDGMENT:
+
+
+        (I)EXPIRED/NO INSPECTION            PLEA:                VER:
+                                        JUDGMENT:
+
+
+   173  18CR 056072 MOHAMED,ABBAS         VANBUREN,M     WPD ATTY:EUSTACHE,HAROLD
+                    BOND:      $5,000 UNS
+        (F)PWIMSD MARIJUANA                 PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)MAINTN VEH/DWELL/PLACE CS (M)    PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+   174  18CR 057893 MOORE,PATRICK,QUINTON THOMAS,B       WPD
+              AKA: MOORE,PATRICK
+                    BOND:      $7,000 SEC
+        (F)PWIMSD MARIJUANA                 PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)M/S/D/P CS W/N 1000FT OF PARK    PLEA:                VER:
+        CLS:E  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   175  18CR 058001 MOORE,RAHEEN,LAMONT   BURAK,A        WPD APT.:WEIDEMANN,BRAD
+                    BOND:      $1,000 SEC
+        (F)FELONY POSSESSION SCH II CS      PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+   176  18CR 057849 MOORE,WILLIAM,LEE B   THOMAS,B       WPD
+                    BOND:      $2,500 UNS
+        (M)SOLICIT PROSTITUTION-M           PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)FELONY POSSESSION OF COCAINE     PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   37
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+   177  18CR 055643 MORA,RAY,ANTONIO      MONTGOMERY,T   WPD P.D.:THOMAS,CHRISTIA   1
+                    BOND:      $1,500 SEC
+        (M)RESISTING PUBLIC OFFICER         PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:                           ADA: AMH
+
+
+        (M)SECOND DEGREE TRESPASS           PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)LITTERING BEER/WINE CONTAINER    PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   178  18CR 057833 MORA,RAY,ANTONIO      MONTGOMERY,T   WPD
+              AKA: MORA,REY,ANTONIO
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:      $7,500 SEC
+        (F)FELONY POSSESSION OF COCAINE     PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: AMH
+
+
+        (F)POSSESS METHAMPHETAMINE          PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:
+
+
+   179  18CR 050042 MORALES,GUADALUPE     GRIFFITH,D     KPD APT.:SPEAKS,BILL
+                    BOND:  $3,500,000 SEC
+        (F)TRAFFICKING, OPIUM OR HEROIN     PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)MAINTN VEH/DWELL/PLACE CS (F)    PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (M)BOND MOTION                      PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+   180  18CR 050043 MORALES,GUADALUPE     GRIFFITH,D     KPD APT.:SPEAKS,BILL
+                    BOND:          $1 SEC
+        (F)PWIMSD HEROIN                    PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)TRAFFICK IN METHAMPHETAMINE      PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   38
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (F)POSSESS METHAMPHETAMINE          PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:
+
+
+        (M)BOND MOTION                      PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+   181  18CR 050044 MORALES,GUADALUPE     GRIFFITH,D     KPD APT.:SPEAKS,BILL
+                    BOND:          $1 SEC
+        (F)PWISD MARIJUANA                  PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)BOND MOTION                      PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+   182  18CR 058827 MOSER,RONALD,LEE      SMITH,J        KPD
+                    BOND:             WPA
+        (F)POSSESS HEROIN                   PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+   183  18CR 059020 NELSON,BRANDON,KEITH  EAST,L         SFF
+                    BOND:      $2,000 SEC
+        (F)POSSESS METHAMPHETAMINE          PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   184  18CR 052739 ORTIZ,MIQUEL,TOMAS    ANDERSON,J     WPD ATTY:BYERS,J,D         1
+              AKA: ORTIZ,MIGUEL,TOMAS
+                    BOND:          $1 SEC
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   39
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   185  18CR 052740 ORTIZ,MIQUEL,TOMAS    ANDERSON,J     WPD ATTY:BYERS,J,D         1
+              AKA: ORTIZ,MIGUEL,TOMAS
+                    BOND:          $1 SEC
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   186  18CR 052741 ORTIZ,MIQUEL,TOMAS    ANDERSON,J     WPD ATTY:BYERS,J,D         1
+              AKA: ORTIZ,MIGUEL,TOMAS
+                    BOND:          $1 SEC
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   187  18CR 052742 ORTIZ,MIQUEL,TOMAS    ANDERSON,J     WPD ATTY:BYERS,J,D         1
+              AKA: ORTIZ,MIGUEL,TOMAS
+                    BOND:          $1 SEC
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   188  18CR 052743 ORTIZ,MIQUEL,TOMAS    ANDERSON,J     WPD ATTY:BYERS,J,D         1
+              AKA: ORTIZ,MIGUEL,TOMAS
+                    BOND:          $1 SEC
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: TPB
+1                             DISTRICT COURT CALENDAR                    PAGE:   40
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   189  18CR 053691 QUINTANA,JOSE,COLON   MCKNIGHT,C     SFF P.D.:WANDERMAN,DAN
+                    BOND:     $20,000 SEC
+        (F)TRAFFICKING, OPIUM OR HEROIN     PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)TRAFFICKING, OPIUM OR HEROIN     PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+   190  18CR 053692 QUINTANA,JOSE,COLON   MCKNIGHT,C     SFF P.D.:WANDERMAN,DAN
+                    BOND:          $1 SEC
+        (F)PWISD COCAINE                    PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)FELONY POSSESSION MARIJUANA      PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:
+
+
+        (F)MAINTN VEH/DWELL/PLACE CS (F)    PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:
+
+
+   191  16CR 061710 RAINEY,CALVIN,LEE     FERGUSON,B     WPD APT.:JORDAN,JERRY      2
+              AKA: RAINEY,KALVIN,LEE   , RAINEY,KALVIN
+                    BOND:      $6,000 SEC
+        (F)PWIMSD SCH II CS                 PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+   192  16CR 061712 RAINEY,CALVIN,LEE     FERGUSON,B     WPD APT.:JORDAN,JERRY      2
+              AKA: RAINEY,KALVIN,LEE   , RAINEY,KALVIN
+                    BOND:          $1 SEC
+        (F)PWISD COCAINE                    PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:                           ADA: TPB
+1                             DISTRICT COURT CALENDAR                    PAGE:   41
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (F)PWISD COCAINE                    PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   193  16CR 061713 RAINEY,CALVIN,LEE     FERGUSON,B     WPD APT.:JORDAN,JERRY      2
+              AKA: RAINEY,KALVIN,LEE   , RAINEY,KALVIN
+                    BOND:          $1 SEC
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   194  17CR 050392 REYNOLDS,NICOLAS,ALLE OAKLEY,L       WPD ATTY:WELBORN,TIMOTHY
+                    BOND:          $1 SEC
+        (T)RECKLESS DRIVING TO ENDANGER     PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (T)SPEEDING                         PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (I)UNSAFE PASSING YELLOW LINE       PLEA:                VER:
+                                        JUDGMENT:
+
+
+   195  18CR 051786 REYNOLDS,NICOLAS,ALLE THOMAS,B       WPD APT.:GALE,ROBERT,JOH
+                    BOND:          $1 SEC
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   196  18CR 052981 RHYMER,ROY,ALANZO     WAGONER,S      WPD ATTY:BYERS,J,D         1
+                    BOND:     $20,000 SEC
+        (F)POSSESSION OF FIREARM BY FELON   PLEA:                VER:
+        CLS:G  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)BOND MOTION                      PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+   197  18CR 052982 RHYMER,ROY,ALANZO     WAGONER,S      WPD ATTY:BYERS,J,D         1
+                    BOND:  $1,500,000 SEC
+        (F)TRAFFICKING, OPIUM OR HEROIN     PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:                           ADA: TPB
+1                             DISTRICT COURT CALENDAR                    PAGE:   42
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (F)TRAFFICKING, OPIUM OR HEROIN     PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+        (F)PWISD COCAINE                    PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:
+
+
+   198  18CR 052983 RHYMER,ROY,ALANZO     WAGONER,S      WPD ATTY:BYERS,J,D         1
+                    BOND:          $1 SEC
+        (F)POSSESS STOLEN FIREARM           PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   199  18CR 052984 RHYMER,ROY,ALANZO     WAGONER,S      WPD ATTY:BYERS,J,D         1
+                    BOND:          $1 SEC
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)MAINTN VEH/DWELL/PLACE CS (M)    PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+   200  16CR 060146 RICHARDSON,JERMARIO,D OAKLEY,L       WPD ATTY:CLELAND,GEORGE,
+                    BOND:     $10,000 SEC
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (I)SPEEDING                         PLEA:                VER:
+                                        JUDGMENT:
+
+
+   201  16CR 060147 RICHARDSON,JERMARIO,D OAKLEY,L       WPD ATTY:CLELAND,GEORGE,
+                    BOND:          $1 SEC
+        (F)FELONY POSSESSION OF COCAINE     PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+1                             DISTRICT COURT CALENDAR                    PAGE:   43
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+   202  18CR 059027 RIDDLE,JENNIFER,ROBIN SIMMONS,E
+                    BOND:      $1,500 SEC
+        (F)FELONY POSSESSION SCH II CS      PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+   203  18CR 050063 ROSEMOND,CHAZ,JAMAL   ALLEN,W        WPD APT.:COSTNER,LISA      1
+              AKA: ROSEMOND,CHAZ,J     , ROSEMOND,CHAZ,JAMARL
+                    BOND:             WPA
+        (F)FELONY POSSESSION OF COCAINE     PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+   204  18CR 051165 ROSEMOND,CHAZ,JAMARL  HOLLAND,B      WPD APT.:COSTNER,LISA
+                    BOND:     $20,000 SEC
+        (F)M/S/D/P CS W/N 1000FT SCHOOL     PLEA:                VER:
+        CLS:E  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)PWISD COCAINE                    PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+   205  18CR 051167 ROSEMOND,CHAZ,JAMARL  HOLLAND,B      WPD APT.:COSTNER,LISA
+                    BOND:     $10,000 SEC
+        (F)POSSESSION OF FIREARM BY FELON   PLEA:                VER:
+        CLS:G  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+   206  18CR 051170 ROSEMOND,CHAZ,JAMARL  HOLLAND,B      WPD APT.:COSTNER,LISA
+                    BOND:          $1 SEC
+        (F)POSSESS STOLEN FIREARM           PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+   207  18CR 056073 ROSS,ANTONYO,DA'SHON  WELLS,S        WPD P.D.:WANDERMAN,DAN
+                    BOND:             WPA
+        (F)FELONY POSSESSION SCH II CS      PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+   208  18CR 051322 SHARPE,SONYA,NICOLE   FAIRCLOTH,D    SFF P.D.:SHILLITO,BRIAN,   1
+                    BOND:      $3,000 SEC
+        (F)ATT OBTAIN CS FORGERY/FRAUD(F)   PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: AMH
+
+
+   209  18CR 059173 SHAW,SETH,TYLER       HANLON,J       WPD P.D.:ZIGLAR,ARTRESE,   1
+                    BOND:     $15,000 SEC
+        (F)EXTORTION                        PLEA:                VER:
+        CLS:F  P:   L:                  JUDGMENT:                           ADA: SLB
+1                             DISTRICT COURT CALENDAR                    PAGE:   44
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (M)RESISTING PUBLIC OFFICER         PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+   210  18CR 059174 SHAW,SETH,TYLER       HANLON,J       WPD P.D.:ZIGLAR,ARTRESE,   1
+                    BOND:          $1 SEC
+        (F)FELONY POSSESSION OF COCAINE     PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: SLB
+
+
+        (F)POSSESS HEROIN                   PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:
+
+
+   211  18CR 051746 SHUFF,BRENT,DVORE     PITTMAN,E      KPD P.D.:KEEVER,ANDREW
+                    BOND:     $25,000 SEC
+        (F)PWIMSD MDA/MDMA                  PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)FELONY POSSESSION OF COCAINE     PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+   212  18CR 057265 SMITH,DUSTIN,M        RUIZ,M         WPD P.D.:DAVIS,WHIT
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:      $5,000 SEC
+        (F)POSSESS METHAMPHETAMINE          PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: AJB
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (M)MAINTN VEH/DWELL/PLACE CS (M)    PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+   213  18CR 057266 SMITH,DUSTIN,M        RUIZ,M         WPD P.D.:DAVIS,WHIT
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:          $1 SEC
+        (M)MISDEMEANOR CHILD ABUSE          PLEA:                VER:
+        CLS:A1 P:   L:                  JUDGMENT:                           ADA: AJB
+1                             DISTRICT COURT CALENDAR                    PAGE:   45
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+   214  18CR 057269 SMITH,DUSTIN,M        BLAISE,A       WPD P.D.:DAVIS,WHIT
+                    BOND:      $1,500 SEC
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4018018
+                                        JUDGMENT:                           ADA: AJB
+
+
+        (T)DWLR IMPAIRED REV                PLEA:                VER:       C4018018
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       C4018018
+                                        JUDGMENT:
+
+
+   215  18CR 057270 SMITH,DUSTIN,M        BLAISE,A       WPD P.D.:DAVIS,WHIT
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:        $500 SEC
+        (M)RESISTING PUBLIC OFFICER         PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:                           ADA: AJB
+
+
+   216  18CR 057957 SPANGLER,KIRSTEN,MICH HAYES,G        KPD
+                    BOND:             WPA
+        (F)POSSESS HEROIN                   PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)POSSESS METHAMPHETAMINE          PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+   217  18CR 056935 SQUIRES,EDWARD,ALAN,I PARKER,M       WPD ATTY:WAIVED
+                    BOND:    $150,000 SEC
+        (F)OBTAIN CS BY FRAUD/FORGERY (F)   PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)TRAFFICKING, OPIUM OR HEROIN     PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+   218  18CR 055946 STEELE,BRENDON        BLAISE,A       WPD ATTY:WAIVED
+                    BOND:      $3,000 SEC
+        (F)PWISD MARIJUANA                  PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+   219  17CR 061887 STEPHENS,SCOTT,ALCIND WAGONER,S      WPD P.D.:WANDERMAN,DAN     1
+                    BOND:          $1 SEC
+        (T)NO OPERATORS LICENSE             PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: TPB
+1                             DISTRICT COURT CALENDAR                    PAGE:   46
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+   220  17CR 061888 STEPHENS,SCOTT,ALCIND WAGONER,S      WPD P.D.:WANDERMAN,DAN     1
+                    BOND:    $150,000 SEC
+        (F)TRAFFICKING, OPIUM OR HEROIN     PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)TRAFFICKING, OPIUM OR HEROIN     PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+        (F)PWIMSD HEROIN                    PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:
+
+
+   221  18CR 057984 STEVENS,JERAMIE,ROBER EAST,L         SFF
+                    BOND:             WPA
+        (F)PWIMSD SCH II CS                 PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)SIMPLE POSSESS SCH II CS (M)     PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+   222  18CR 059149 STINSON,KATHRYN,MARGA GALLAGHER,S    WPD
+                    BOND:      $5,000 SEC
+        (F)FELONY POSSESSION SCH II CS      PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)POSSESS HEROIN                   PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+   223  18CR 057998 STOKES,HORACE,JR      TAYLOR,T       WPD APT.:HESTER,WILLIAM,
+                    BOND:      $2,500 SEC
+        (F)FELONY POSSESSION OF COCAINE     PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+   224  18CR 053804 TAYLOR,COURTNEY,SENTE GRIFFITH,D     KPD APT.:TIMOTHEE,MARICE   1
+                    BOND:      $5,000 SEC
+        (F)POSSESS HEROIN                   PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+1                             DISTRICT COURT CALENDAR                    PAGE:   47
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (F)MAINTN VEH/DWELL/PLACE CS (F)    PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:
+
+
+   225  18CR 057310 TAYLOR,KENARD,DESHAUN ALLEN,B        WPD P.D.:SMITH,CARA
+                    BOND:     $15,000 SEC
+        (F)FELONY POSSESSION OF COCAINE     PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: ANL
+
+
+   226  16CR 061323 TAYLOR,MARIER,RESHAN  OAKLEY,L       WPD ATTY:CHURCH,TERESA     1
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:        $500 SEC
+        (M)RESISTING PUBLIC OFFICER         PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+   227  18CR 057008 TIBBS,ROGER,GENE,JR   CANTU,H        WPD P.D.:SHILLITO,BRIAN,
+                    BOND:     $15,000 UNS
+        (F)PWISD COCAINE                    PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)PWISD MARIJUANA                  PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:
+
+
+        (F)MAINTN VEH/DWELL/PLACE CS (F)    PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:
+
+
+   228  18CR 057009 TIBBS,ROGER,GENE,JR   CANTU,H        WPD P.D.:SHILLITO,BRIAN,
+                    BOND:          $1 UNS
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+   229  18CR 059182 TRANSOU,HARRY,JAMES   SMITH,J        KPD
+              AKA: TRANSOU,HARRY,JAMES,
+                    BOND:      $2,500 SEC
+        (F)POSSESS MDMA/ECSTASY             PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:                           ADA: TPB
+1                             DISTRICT COURT CALENDAR                    PAGE:   48
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   230  18CR 052793 VEGAESTRADA,JASON,EDW PHILLIPS,S     WPD APT.:SPEAKS,BILL
+              AKA: VEGA-ESTRADA,EDWIN,J
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:      $1,000 SEC
+        (F)POSSESS METHAMPHETAMINE          PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+   231  18CR 057947 WALL,LEROY,III        FRANKLAND,L    WPD
+                    BOND:      $1,000 SEC
+        (F)PWISD COCAINE                    PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+   232  18CR 058031 WALSER,CHANCELLOR,JAM SOMERVILLE,T   WPD
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:             WPA
+        (F)FELONY POSSESSION OF COCAINE     PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: AJB
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+   233  17CR 058396 WALTERS,JORDAN,MARQUI FERGUSON,B     WPD APT.:HUTCHINS,JEFFRE   1
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:     $50,000 SEC
+        (F)POSSESSION OF FIREARM BY FELON   PLEA:                VER:
+        CLS:G  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+   234  17CR 058397 WALTERS,JORDAN,MARQUI FERGUSON,B     WPD APT.:HUTCHINS,JEFFRE   1
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+        (F)PWISD COCAINE                    PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   49
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (F)FELONY POSSESSION OF COCAINE     PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:
+
+
+   235  17CR 058398 WALTERS,JORDAN,MARQUI FERGUSON,B     WPD APT.:HUTCHINS,JEFFRE   1
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)CARRYING CONCEALED GUN(M)        PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+   236  18CR 057916 WARE,ANTHONY,LAMAR    LUPER,C        WPD P.D.:KEEVER,ANDREW
+                    BOND:     $25,000 SEC
+        (F)POSSESSION OF FIREARM BY FELON   PLEA:                VER:
+        CLS:G  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+   237  18CR 057917 WARE,ANTHONY,LAMAR    LUPER,C        WPD P.D.:KEEVER,ANDREW
+                    BOND:          $1 SEC
+        (F)FELONY POSSESSION OF COCAINE     PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+   238  18CR 057888 WATLINGTON,LARRY,DOUG LUPER,C        WPD
+                    BOND:      $1,500 UNS
+        (F)FELONY POSSESSION OF COCAINE     PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+   239  17CR 061936 WELCH,JAMES,WILLIAM   THOMAS,B       WPD ATTY:DUMMIT,CLARKE     2
+                    BOND:    $250,000 SEC
+        (F)PWIMSD HEROIN                    PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)PWISD COCAINE                    PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   50
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+   240  17CR 061937 WELCH,JAMES,WILLIAM   THOMAS,B       WPD ATTY:DUMMIT,CLARKE     2
+                    BOND:          $1 SEC
+        (F)TRAFFICKING, OPIUM OR HEROIN     PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)PWIMSD SCH IV CS                 PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:
+
+
+        (M)MAINTN VEH/DWELL/PLACE CS (M)    PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+   241  18CR 056792 WHIFFEN,JESSE,RANDLE  BRYANT,S       WPD P.D.:SHILLITO,BRIAN,
+                    BOND:      $5,000 SEC
+        (F)EXTRADITION/FUGITIVE OTH STATE   PLEA:                VER:
+                                        JUDGMENT:
+
+
+   242  18CR 059201 WILSON,JOHNNY,LEE     WATTS,J        WPD P.D.:SHILLITO,BRIAN,
+                    BOND:      $3,000 UNS
+        (F)FELONY POSSESSION OF COCAINE     PLEA:                VER:       Y0001141
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (I)DRIVE WRONG WAY ON DUAL LANE     PLEA:                VER:       Y0001141
+                                        JUDGMENT:
+
+
+   243  18CR 053663 WILSON,KENTRELL,DONTA FERGUSON,B     WPD ATTY:CHURCH,TERESA
+                    BOND:      $5,000 SEC
+        (F)PWISD MARIJUANA                  PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)DWLR IMPAIRED REV                PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+   244  18CR 053664 WILSON,KENTRELL,DONTA FERGUSON,B     WPD ATTY:CHURCH,TERESA
+                    BOND:          $1 SEC
+        (F)PWIMSD SCH IV CS                 PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   51
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (T)GIVE/LEND/BORROW LIC PLATE       PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   245  16CR 056936 WITHERSPOON,SEAN,CHRI BALDWIN,HERMIN     APT.:SPEAKS,BILL       1
+                    BOND:      $5,000 SEC
+        (M)UNAUTHORIZED USE OF MOTOR VEH    PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:                           ADA: JNM
+
+
+        (M)MISDEMEANOR PROBATION VIOL       PLEA:                VER:
+                                        JUDGMENT:
+
+
+        (M)MOTION OFA RECALL                PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+   246  16CR 059296 WITHERSPOON,SEAN,CHRI RIVERA,J       WPD APT.:SPEAKS,BILL       1
+              AKA: WITHERSPOON,SEAN,C  , WITHERSPOON,SEAN,CHR
+                    BOND:     $10,000 SEC
+        (F)FELONY POSSESSION OF COCAINE     PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+   247  16CR 059297 WITHERSPOON,SEAN,CHRI RIVERA,J       WPD APT.:SPEAKS,BILL       1
+              AKA: WITHERSPOON,SEAN,C  , WITHERSPOON,SEAN,CHR
+                    BOND:          $1 SEC
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   248  18CR 056101 WOOD,PATRICIA,NICOLE  HOWARD,J       KPD APT.:GATES,BRYAN
+                    BOND:      $2,000 SEC
+        (F)POSSESS METHAMPHETAMINE          PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   52
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+   249  18CR 056102 WOOD,PATRICIA,NICOLE  HOWARD,J       KPD APT.:GATES,BRYAN
+                    BOND:          $1 SEC
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+   250  18CR 056103 WOOD,PATRICIA,NICOLE  STOKES,J       KPD APT.:GATES,BRYAN
+                    BOND:        $500 UNS
+        (M)MISDEMEANOR LARCENY              PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+   251  18CR 058091 ZIMMERMAN,ADAM        HANSEN,L       WPD APT.:STUBBS,ALEXANDE
+                    BOND:  $2,500,000 SEC
+        (F)TRAFFICKING, OPIUM OR HEROIN     PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)TRAFFICKING IN COCAINE           PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+        (F)MANUFACTURE SCH II CS            PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:
+
+
+   252  18CR 058092 ZIMMERMAN,ADAM        HANSEN,L       WPD APT.:STUBBS,ALEXANDE
+                    BOND:          $1 SEC
+        (F)PWIMSD HEROIN                    PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (F)PWISD MARIJUANA                  PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:
+
+
+        (F)MAINTN VEH/DWELL/PLACE CS (F)    PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:
+
+
+   253  18CR 058093 ZIMMERMAN,ADAM        HANSEN,L       WPD APT.:STUBBS,ALEXANDE
+                    BOND:          $1 SEC
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:                           ADA: TPB
+
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (F)POSSESS STOLEN FIREARM           PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   53
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+   254  18CR 058094 ZIMMERMAN,ADAM        HANSEN,L       WPD APT.:STUBBS,ALEXANDE
+                    BOND:          $1 SEC
+        (F)TRAFFICKING, OPIUM OR HEROIN     PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:                           ADA: TPB
+1 RUN DATE: 10/10/18                                                        PAGE   1
+                             IN THE GENERAL COURT OF JUSTICE
+  LOCATION: WINSTON-SALEM        DISTRICT COURT DIVISION       COUNTY OF FORSYTH
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+                  PRELIMINARY
+
+                     JUDGE PRESIDING :
+                     COURTROOM CLERK :
+                     PROSECUTOR      :
+                                     :
+                                     :
+                                     :
+                                     :
+
+  NO. DEFENDANT NAME          OFFENSE                        COMPLAINANT FILE NUMBER
+  *************************************************************************************
+       1 ADAMS,JONATHAN,LAMAR   FELONY POSSESSION SCH II CS    MILLER,Q    18CR 058064
+       2 ALOMIA,MARVIN,JUAN BAU PWISD MARIJUANA                GALLAGHER,S 18CR 052876
+                                PWIMSD MDA/MDMA                GALLAGHER,S 18CR 052876
+                                RESISTING PUBLIC OFFICER       GALLAGHER,S 18CR 052876
+       3 ALOMIA,MARVIN,JUAN BAU POSSESS MARIJ PARAPHERNALIA    GALLAGHER,S 18CR 052877
+                                PWISD COCAINE                  GALLAGHER,S 18CR 052877
+                                CARRYING CONCEALED GUN(M)      GALLAGHER,S 18CR 052877
+       4 ANDRES,EDWARD          POSSESS MARIJ PARAPHERNALIA    BRANDSEMA,K 18CR 057623
+                                CARRYING CONCEALED GUN(F)      BRANDSEMA,K 18CR 057623
+       5 ANDRES,EDWARD          DRIVING WHILE IMPAIRED         FANNING,D   18CR 057624
+                                CIVIL REVOCATION DR LIC (30)   FANNING,D   18CR 057624
+       6 ANDRES,EDWARD          FAIL STOP STOPSIGN/FLSH RED LT BRANDSEMA,K 18IF 000225
+       7 ARCHIE,WELDON,LEE      FELONY POSSESSION OF COCAINE   WEAVER,T    18CR 059049
+                                POSSESS DRUG PARAPHERNALIA     WEAVER,T    18CR 059049
+       8 BAILEY,WILLIAM,ERNEST, PWIMSD HEROIN                  FERGUSON,B  18CR 057889
+                                POSSESS DRUG PARAPHERNALIA     FERGUSON,B  18CR 057889
+       9 BAILEY,WILLIAM,ERNEST, PWIMSD HEROIN                  FERGUSON,B  18CR 057912
+                                POSSESS DRUG PARAPHERNALIA     FERGUSON,B  18CR 057912
+                                MAINTN VEH/DWELL/PLACE CS (F)  FERGUSON,B  18CR 057912
+      10 BALDWIN,DOMINIQUE,JEVO FELONY POSSESSION OF COCAINE   MONTGOMERY, 18CR 058048
+      11 BELL,TAVARRIA,AVAREES  FELONY POSSESSION OF COCAINE   JONES,B     18CR 059074
+                                POSSESS DRUG PARAPHERNALIA     JONES,B     18CR 059074
+      12 BROWN,MIKE,RENO        PWISD COCAINE                  NAVY,C      16CR 057302
+                                PWISD MARIJUANA                NAVY,C      16CR 057302
+                                POSSESS DRUG PARAPHERNALIA     NAVY,C      16CR 057302
+      13 BROWN,MIKE,RENO        POSSESS MARIJUANA UP TO 1/2 OZ WELLS,J,G   16CR 724036
+                                POSSESS MARIJ PARAPHERNALIA    WELLS,J,G   16CR 724036
+      14 BROWN,MIKE,RENO        DWLR IMPAIRED REV              WELLS,J,G   16CR 724040
+      15 BROWN,MIKE,RENO        DWLR IMPAIRED REV              DIME,M,L    16CR 729427
+                                OPERATE VEH NO INS             DIME,M,L    16CR 729427
+  **  16 BUCK,WALTER,DAULTON    POSSESS HEROIN                 JONES,B     18CR 058039
+                                POSSESS DRUG PARAPHERNALIA     JONES,B     18CR 058039
+      17 BURNS,KEDRICK,TYRONE   PWISD COCAINE                  FERGUSON,B  18CR 058045
+                                POSSESS DRUG PARAPHERNALIA     FERGUSON,B  18CR 058045
+                                FAIL WEAR SEAT BELT-FRONT SEAT FERGUSON,B  18CR 058045
+      18 BURNS,KEDRICK,TYRONE   RESISTING PUBLIC OFFICER       FERGUSON,B  18CR 058046
+                                POSSESS MARIJUANA UP TO 1/2 OZ FERGUSON,B  18CR 058046
+                                POSS CS PRISON/JAIL PREMISES   FERGUSON,B  18CR 058046
+      19 CARTLEDGE,KEVIN,BRADLE FELONY POSSESSION OF COCAINE   JACKSON,C   18CR 057959
+      20 CARTLIDGE,JOSEPH,MARSE ATT OBTAIN CS FORGERY/FRAUD(F) SMITH,J     18CR 056036
+                                TRAFFICKING, OPIUM OR HEROIN   SMITH,J     18CR 056036
+                                CONSPIRE TRAFFIC OPIUM/HEROIN  SMITH,J     18CR 056036
+      21 CARTLIDGE,JOSEPH,MARSE OBTAIN CS BY FRAUD/FORGERY (F) PARKER,M    18CR 056936
+                                TRAFFICKING, OPIUM OR HEROIN   PARKER,M    18CR 056936
+      22 CAYTON,LINDA,MORGAN    POSSESS DRUG PARAPHERNALIA     GRIFFITH,D  18CR 051863
+                                POSSESS METHAMPHETAMINE        GRIFFITH,D  18CR 051863
+1                             DISTRICT COURT CALENDAR                    PAGE:    2
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO. DEFENDANT NAME          OFFENSE                        COMPLAINANT FILE NUMBER
+  *************************************************************************************
+      23 CAYTON,LINDA,MORGAN    POSSESS METHAMPHETAMINE        OWEN,C      18CR 056894
+      24 CAYTON,LINDA,MORGAN    FELONY POSSESSION SCH II CS    GENEST,M    18CR 057062
+      25 CLARK,KEVIN,DAJUAN     DWLR NOT IMPAIRED REV          PARKER,M    18CR 050677
+                                POSSESS DRUG PARAPHERNALIA     PARKER,M    18CR 050677
+                                BOND HEARING                   PARKER,M    18CR 050677
+  **  26 CLAYTON,LINDA          POSSESS METHAMPHETAMINE        GRIFFITH,D  18CR 051778
+                                POSSESS DRUG PARAPHERNALIA     GRIFFITH,D  18CR 051778
+      27 CLAYTON,LINDA          SIMPLE POSSESS SCH II CS (M)   GRIFFITH,D  18CR 051779
+                                POSSESS DRUG PARAPHERNALIA     GRIFFITH,D  18CR 051779
+      28 COLBERT,DAVID,ANDREW   POSSESS HEROIN                 FANNING,D   18CR 057083
+                                POSSESS DRUG PARAPHERNALIA     FANNING,D   18CR 057083
+      29 COLBERT,DAVID,ANDREW   RESISTING PUBLIC OFFICER       FANNING,D   18CR 057084
+                                SIMPLE POSSESS SCH IV CS (M)   FANNING,D   18CR 057084
+      30 COLEMAN,JAMES,REGINALD PWISD MARIJUANA                HOWARD,J    17CR 061919
+                                SELL/DELIVER MARIJUANA         HOWARD,J    17CR 061919
+                                SELL/DELIVER MARIJUANA         HOWARD,J    17CR 061919
+                                MOTION FOR BOND REDUCTION      HOWARD,J    17CR 061919
+      31 COLEMAN,JAMES,REGINALD MAINTN VEH/DWELL/PLACE CS (F)  HOWARD,J    17CR 061920
+                                POSSESS MARIJ PARAPHERNALIA    HOWARD,J    17CR 061920
+                                MOTION FOR BOND REDUCTION      HOWARD,J    17CR 061920
+      32 COLEMAN,JAMES,REGINALD PWISD MARIJUANA                HOWARD,J    17CR 061921
+                                SELL/DELIVER MARIJUANA         HOWARD,J    17CR 061921
+                                SELL/DELIVER MARIJUANA         HOWARD,J    17CR 061921
+                                MOTION FOR BOND REDUCTION      HOWARD,J    17CR 061921
+      33 COLEMAN,JAMES,REGINALD MAINTN VEH/DWELL/PLACE CS (F)  HOWARD,J    17CR 061922
+                                POSSESS MARIJ PARAPHERNALIA    HOWARD,J    17CR 061922
+                                MOTION FOR BOND REDUCTION      HOWARD,J    17CR 061922
+      34 COLLINS,MEAGAN,CHEYENN POSSESS METHAMPHETAMINE        JONES,B     18CR 059075
+                                POSSESS DRUG PARAPHERNALIA     JONES,B     18CR 059075
+      35 COLLINS,MEAGAN,CHEYENN POSSESS MARIJUANA UP TO 1/2 OZ JONES,B     18CR 059076
+                                POSSESS MARIJ PARAPHERNALIA    JONES,B     18CR 059076
+      36 COLON,MISTY,MICHELLE   TRAFFICKING, OPIUM OR HEROIN   MCKNIGHT,C  18CR 053693
+                                TRAFFICKING, OPIUM OR HEROIN   MCKNIGHT,C  18CR 053693
+      37 COLON,MISTY,MICHELLE   PWISD COCAINE                  MCKNIGHT,C  18CR 053694
+                                FELONY POSSESSION MARIJUANA    MCKNIGHT,C  18CR 053694
+                                MAINTN VEH/DWELL/PLACE CS (F)  MCKNIGHT,C  18CR 053694
+      38 DALTON,BRANDI,SHANEISE TRAFFICKING, OPIUM OR HEROIN   PARKER,M    17CR 061316
+                                CONSPIRE TRAFFIC OPIUM/HEROIN  PARKER,M    17CR 061316
+      39 DIAZ,CARLOS,VAZQUEZ    POSS CS PRISON/JAIL PREMISES   MEADOWS,C   18CR 055965
+                                FELONY POSSESSION OF COCAINE   MEADOWS,C   18CR 055965
+  **  40 DUCKETT,BRANDON,TERREL SELL/DELIVER MARIJUANA         PORTER,J    18CR 057879
+                                PWISD MARIJUANA                PORTER,J    18CR 057879
+      41 EMERSON,RONALD,CHRISTO EXTRADITION/FUGITIVE OTH STATE SHAFIT,M    18CR 058085
+      42 EVANS,STEFON,ALLEN     MAINTN VEH/DWELL/PLACE CS (M)  FOSTER,D    18CR 050688
+                                PWISD MARIJUANA                FOSTER,D    18CR 050688
+                                POSSESS MARIJUANA UP TO 1/2 OZ FOSTER,D    18CR 050688
+      43 EVANS,STEFON,ALLEN     FELONY POSSESSION OF COCAINE   FOSTER,D    18CR 050690
+                                POSSESS MARIJ PARAPHERNALIA    FOSTER,D    18CR 050690
+                                POSSESS DRUG PARAPHERNALIA     FOSTER,D    18CR 050690
+      44 EVANS,STEFON,ALLEN     SIMPLE POSSESS SCH II CS (M)   FOSTER,D    18CR 050691
+                                SIMPLE POSSESS SCH IV CS (M)   FOSTER,D    18CR 050691
+                                SIMPLE POSSESS SCH IV CS (M)   FOSTER,D    18CR 050691
+  **  45 EVANS,STEFON,ALLEN     FELONY POSSESSION SCH I CS     FOSTER,D    18CR 050692
+      46 FORTUNE,VICTOR DARNELL TRAFFICKING, OPIUM OR HEROIN   THOMAS,B    18CR 050880
+                                TRAFFICKING, OPIUM OR HEROIN   THOMAS,B    18CR 050880
+                                PWIMSD HEROIN                  THOMAS,B    18CR 050880
+      47 FORTUNE,VICTOR DARNELL MAINTN VEH/DWELL/PLACE CS (F)  THOMAS,B    18CR 050881
+1                             DISTRICT COURT CALENDAR                    PAGE:    3
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO. DEFENDANT NAME          OFFENSE                        COMPLAINANT FILE NUMBER
+  *************************************************************************************
+                                RESISTING PUBLIC OFFICER       THOMAS,B    18CR 050881
+                                POSSESS DRUG PARAPHERNALIA     THOMAS,B    18CR 050881
+      48 FRANCE,DOUGLAS,EUGENE, PWISD MARIJUANA                FERGUSON,B  18CR 057925
+                                POSSESS MARIJ PARAPHERNALIA    FERGUSON,B  18CR 057925
+                                DWLR NOT IMPAIRED REV          FERGUSON,B  18CR 057925
+      49 FRANCE,WILLIAM,ANTHONY M/S/D/P CS W/N 1000FT OF PARK  VEAL,L      17CR 051597
+                                POSSESS MARIJ PARAPHERNALIA    VEAL,L      17CR 051597
+                                POSSESS DRUG PARAPHERNALIA     VEAL,L      17CR 051597
+      50 FULTON,BRIAN,JERRARD   FELONY POSSESSION OF COCAINE   FERGUSON,B  18CR 057138
+                                POSSESS DRUG PARAPHERNALIA     FERGUSON,B  18CR 057138
+      51 GADSON,SHAQUAN,DAMONTE POSSESS MARIJ PARAPHERNALIA    WELLS,S     18CR 052832
+                                PWIMSD MARIJUANA               WELLS,S     18CR 052832
+                                MAINTN VEH/DWELL/PLACE CS (M)  WELLS,S     18CR 052832
+      52 GADSON,SHAQUAN,DAMONTE DWLR NOT IMPAIRED REV          WELLS,S,S   18CR 710011
+      53 GARY,FRANKLIN,LEE      PWISD COCAINE                  TAYLOR,T    18CR 057995
+                                POSSESS DRUG PARAPHERNALIA     TAYLOR,T    18CR 057995
+                                MAINTN VEH/DWELL/PLACE CS (M)  TAYLOR,T    18CR 057995
+      54 GENTRY,JULETA          POSSESS DRUG PARAPHERNALIA     GEOGHEGIAN, 18CR 057137
+                                POSSESS METHAMPHETAMINE        GEOGHEGIAN, 18CR 057137
+      55 GENTRY,JULETA          POSS CS PRISON/JAIL PREMISES   GEOGHEGIAN, 18CR 057151
+      56 GILHAM,LUCAS,AARON     DWLR NOT IMPAIRED REV          LONG,J,L    17CR 734858
+      57 GILHAM,LUCAS,AARON     GIVE/LEND/BORROW LIC PLATE     LONG,J,L    17CR 734859
+                                DRIVE/ALLOW MV NO REGISTRATION LONG,J,L    17CR 734859
+      58 GILHAM,LUCAS,AARON     NO LIABILITY INSURANCE         LONG,J,L    17CR 734864
+                                FAILURE TO REDUCE SPEED        LONG,J,L    17CR 734864
+      59 GILHAM,LUCAS,AARON     POSSESS HEROIN                 CHEEK,O     18CR 051203
+                                POSSESS DRUG PARAPHERNALIA     CHEEK,O     18CR 051203
+      60 GILHAM,LUCAS,AARON     DWLR IMPAIRED REV              CHEEK,O     18CR 051204
+                                GIVE/LEND/BORROW LIC PLATE     CHEEK,O     18CR 051204
+                                EXPIRED/NO INSPECTION          CHEEK,O     18CR 051204
+  **  61 GILHAM,LUCAS,AARON     DRIVING WHILE IMPAIRED         CHEEK,D     18CR 051205
+      62 GONZALEZ,ROBERTO,MARIC NO OPERATORS LICENSE           WADE,K      15CR 006422
+  **  63 GONZALEZ,ROBERTO,MARIC DRIVING WHILE IMPAIRED         GONZALEZ,J  15CR 058087
+                                CIVIL REVOCATION DR LIC (30)   GONZALEZ,J  15CR 058087
+      64 GONZALEZ,ROBERTO,MARIC POSSESSION OF COCAINE ON JAIL  GONZALEZ,J  15CR 058092
+                                FELONY POSSESSION SCH II CS    GONZALEZ,J  15CR 058092
+                                POSSESSION OF DRUG PARAPHERNAL GONZALEZ,J  15CR 058092
+      65 GOODING,RYAN,LATRELL   FELONY POSSESSION OF COCAINE   ROSE,D      18CR 057041
+                                POSSESS DRUG PARAPHERNALIA     ROSE,D      18CR 057041
+      66 GRAY,DQUAN             POSSESSION OF FIREARM BY FELON WELLS,J     18CR 050924
+      67 GRAY,DQUAN             POSSESSION OF FIREARM BY FELON WELLS,J     18CR 050925
+      68 GRAY,DQUAN             POSSESS STOLEN FIREARM         WELLS,J     18CR 050926
+                                POSSESS MARIJUANA UP TO 1/2 OZ WELLS,J     18CR 050926
+                                POSSESS MARIJ PARAPHERNALIA    WELLS,J     18CR 050926
+      69 GRAY,DQUAN             RESISTING PUBLIC OFFICER       WELLS,J     18CR 050927
+  **  70 GRAY,DQUAN             POSSESSION OF FIREARM BY FELON FLYNN,J     18CR 056057
+  **  71 GRAY,DQUAN             PWIMSD SCH IV CS               FLYNN,J     18CR 056059
+                                PWIMSD SCH I CS                FLYNN,J     18CR 056059
+                                PWISD MARIJUANA                FLYNN,J     18CR 056059
+      72 GREEN,DAQUAN,ANTONIA   TRAFFICKING, OPIUM OR HEROIN   BOLES,A     18CR 051689
+                                PWIMSD HEROIN                  BOLES,A     18CR 051689
+                                PWIMSD SCH II CS               BOLES,A     18CR 051689
+      73 GREEN,DAQUAN,ANTONIA   POSS MARIJ >1/2 TO 1 1/2 OZ    BOLES,A     18CR 051690
+                                SIMPLE POSSESS SCH IV CS (M)   BOLES,A     18CR 051690
+                                POSSESS DRUG PARAPHERNALIA     BOLES,A     18CR 051690
+      74 GREEN,DAQUAN,ANTONIA   MAINTN VEH/DWELL/PLACE CS (M)  BOLES,A     18CR 051691
+      75 GROOMS,LEORY           POSSESSION OF FIREARM BY FELON ROSE,D      18CR 051561
+1                             DISTRICT COURT CALENDAR                    PAGE:    4
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO. DEFENDANT NAME          OFFENSE                        COMPLAINANT FILE NUMBER
+  *************************************************************************************
+      76 GROOMS,LEORY           PWISD COCAINE                  ROSE,D      18CR 051562
+                                POSSESS STOLEN FIREARM         ROSE,D      18CR 051562
+                                CARRYING CONCEALED GUN(M)      ROSE,D      18CR 051562
+      77 GROOMS,LEORY           POSSESS DRUG PARAPHERNALIA     ROSE,D      18CR 051563
+                                RESISTING PUBLIC OFFICER       ROSE,D      18CR 051563
+      78 GUILYARD,PEYTON,ISABEL DRIVING WHILE IMPAIRED         SAINTSING,M 18CR 059093
+                                DWLR NOT IMPAIRED REV          SAINTSING,M 18CR 059093
+                                CIVIL REVOCATION DR LIC (30)   SAINTSING,M 18CR 059093
+      79 GUILYARD,PEYTON,ISABEL FELONY POSSESSION OF COCAINE   SAINTSING,M 18CR 059094
+                                POSSESS DRUG PARAPHERNALIA     SAINTSING,M 18CR 059094
+                                FAIL STOP AT APPROPRIATE SPOT  SAINTSING,M 18CR 059094
+      80 HAIRSTON,MARICO,LAMONT PWIMSD HEROIN                  THOMAS,B    18CR 056977
+                                DWLR NOT IMPAIRED REV          THOMAS,B    18CR 056977
+                                LITTERING                      THOMAS,B    18CR 056977
+      81 HAIRSTON,MARICO,LAMONT POSSESS DRUG PARAPHERNALIA     THOMAS,B    18CR 056978
+      82 HAIRSTON,ROBERT,ANTOIN FICT/ALT TITLE/REG CARD/TAG    LUPER,C     18CR 059148
+                                RESISTING PUBLIC OFFICER       LUPER,C     18CR 059148
+                                POSSESS DRUG PARAPHERNALIA     LUPER,C     18CR 059148
+      83 HAIRSTON,ROBERT,ANTOIN FELONY POSSESSION OF COCAINE   LUPER,C     18CR 059150
+      84 HARDY,SHAMIKA,LYVETTE  CONSPIRE SELL/DELIVER HEROIN   DOSS,C      18CR 058106
+                                MAINTN VEH/DWELL/PLACE CS (M)  DOSS,C      18CR 058106
+      85 HARDY,SHAMIKA,LYVETTE  CONSPIRE SELL/DELIVER HEROIN   DOSS,C      18CR 058107
+                                MAINTN VEH/DWELL/PLACE CS (M)  DOSS,C      18CR 058107
+      86 HARDY,SHAMIKA,LYVETTE  CONSPIRE SELL/DELIVER HEROIN   DOSS,C      18CR 058108
+                                MAINTN VEH/DWELL/PLACE CS (M)  DOSS,C      18CR 058108
+      87 HARDY,SHAMIKA,LYVETTE  CONSPIRE SELL/DELIVER HEROIN   DOSS,C      18CR 058109
+                                MAINTN VEH/DWELL/PLACE CS (M)  DOSS,C      18CR 058109
+      88 HARDY,SHAMIKA,LYVETTE  CONSPIRE SELL/DELIVER HEROIN   DOSS,C      18CR 058110
+                                MAINTN VEH/DWELL/PLACE CS (M)  DOSS,C      18CR 058110
+      89 HARGRAVE,RICARDO,DEONT POSSESSION OF FIREARM BY FELON SISK,B      18CR 053008
+      90 HARGRAVE,RICARDO,DEONT PWIMSD MDA/MDMA                SISK,B      18CR 053009
+                                PWISD COCAINE                  SISK,B      18CR 053009
+                                PWISD COUNTERFEIT CS           SISK,B      18CR 053009
+      91 HARGRAVE,RICARDO,DEONT POSSESS DRUG PARAPHERNALIA     SISK,B      18CR 053010
+                                RESISTING PUBLIC OFFICER       SISK,B      18CR 053010
+      92 HASTINGS,JAMES,COLE    PWISD COCAINE                  MCGAVIC,A   17CR 061912
+                                FELONY POSSESSION OF COCAINE   MCGAVIC,A   17CR 061912
+                                CARRYING CONCEALED GUN(M)      MCGAVIC,A   17CR 061912
+      93 HASTINGS,JAMES,COLE    POSSESS DRUG PARAPHERNALIA     MCGAVIC,A   17CR 061913
+  **  94 HEGGINS,ENRICO,DEWAINE ASSAULT INFLICT SERIOUS INJ(M) SAMS,R      16CR 058178
+      95 HEGGINS,ENRICO,DEWAINE POSSESS STOLEN FIREARM         DOSS,C      16CR 059349
+  **  96 HERNANDEZ,JILLIAN,RAE  POSSESS METHAMPHETAMINE        REYNOLDS,C  18CR 057921
+                                POSSESS DRUG PARAPHERNALIA     REYNOLDS,C  18CR 057921
+ SPA  97 HERNANDEZ,ORLANDO,TORR DRIVING WHILE IMPAIRED         HIATT,J     18CR 056287
+                                NO OPERATORS LICENSE           HIATT,J     18CR 056287
+                                CIVIL REVOCATION DR LIC (30)   HIATT,J     18CR 056287
+ SPA  98 HERNANDEZ,ORLANDO,TORR FELONY POSSESSION OF COCAINE   HIATT,J     18CR 056288
+ SPA  99 HERNANDEZ,ORLANDO,TORR POSS OPN CNT/CONS ALC PSG AREA HIATT,J,T   18IF 708980
+     100 HICKS,RONNIE,GRAY      POSSESS METHAMPHETAMINE        ADKINS,N    18CR 059035
+     101 HINES,MICHAEL,DAMON,JR DRIVING WHILE IMPAIRED         JOHNSON,S   18CR 053846
+                                DWLR NOT IMPAIRED REV          JOHNSON,S   18CR 053846
+                                CIVIL REVOCATION DR LIC (30)   JOHNSON,S   18CR 053846
+     102 HINES,MICHAEL,DAMON,JR FELONY POSSESSION OF COCAINE   JOHNSON,S   18CR 053847
+                                POSS MARIJ >1/2 TO 1 1/2 OZ    JOHNSON,S   18CR 053847
+                                POSSESS MARIJ PARAPHERNALIA    JOHNSON,S   18CR 053847
+     103 HINES,MICHAEL,DAMON,JR SPEEDING                       JOHNSON,S   18CR 053848
+                                POSS OPN CNT/CONS ALC PSG AREA JOHNSON,S   18CR 053848
+1                             DISTRICT COURT CALENDAR                    PAGE:    5
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO. DEFENDANT NAME          OFFENSE                        COMPLAINANT FILE NUMBER
+  *************************************************************************************
+                                FAIL MAINTAIN LANE CONTROL     JOHNSON,S   18CR 053848
+     104 HOLDER,KEDRICK,ANTHONY MAINTN VEH/DWELL/PLACE CS (F)  DOSS,C      18CR 058113
+     105 HOLDER,KEDRICK,ANTHONY TRAFFICKING, OPIUM OR HEROIN   DOSS,C      18CR 058114
+                                TRAFFICKING, OPIUM OR HEROIN   DOSS,C      18CR 058114
+                                TRAFFICKING, OPIUM OR HEROIN   DOSS,C      18CR 058114
+     106 HOLDER,KEDRICK,ANTHONY CONSPIRE SELL/DELIVER HEROIN   DOSS,C      18CR 058115
+                                PWIMSD HEROIN                  DOSS,C      18CR 058115
+                                POSSESS DRUG PARAPHERNALIA     DOSS,C      18CR 058115
+     107 HOLDER,KEDRICK,ANTHONY TRAFFICKING, OPIUM OR HEROIN   DOSS,C      18CR 058116
+                                TRAFFICKING, OPIUM OR HEROIN   DOSS,C      18CR 058116
+                                TRAFFICKING, OPIUM OR HEROIN   DOSS,C      18CR 058116
+     108 HOLDER,KEDRICK,ANTHONY CONSPIRE SELL/DELIVER HEROIN   DOSS,C      18CR 058117
+                                PWIMSD HEROIN                  DOSS,C      18CR 058117
+     109 HOLDER,KEDRICK,ANTHONY TRAFFICKING, OPIUM OR HEROIN   DOSS,C      18CR 058118
+                                TRAFFICKING, OPIUM OR HEROIN   DOSS,C      18CR 058118
+                                TRAFFICKING, OPIUM OR HEROIN   DOSS,C      18CR 058118
+     110 HOLDER,KEDRICK,ANTHONY CONSPIRE SELL/DELIVER HEROIN   DOSS,C      18CR 058119
+                                PWIMSD HEROIN                  DOSS,C      18CR 058119
+     111 HOLDER,KEDRICK,ANTHONY TRAFFICKING, OPIUM OR HEROIN   DOSS,C      18CR 058120
+                                TRAFFICKING, OPIUM OR HEROIN   DOSS,C      18CR 058120
+                                TRAFFICKING, OPIUM OR HEROIN   DOSS,C      18CR 058120
+     112 HOLDER,KEDRICK,ANTHONY PWIMSD HEROIN                  DOSS,C      18CR 058121
+                                CONSPIRE SELL/DELIVER HEROIN   DOSS,C      18CR 058121
+     113 HOLDER,KEDRICK,ANTHONY PWIMSD HEROIN                  DOSS,C      18CR 058122
+                                CONSPIRE SELL/DELIVER HEROIN   DOSS,C      18CR 058122
+     114 HOLDER,KEDRICK,ANTHONY TRAFFICKING, OPIUM OR HEROIN   DOSS,C      18CR 058123
+                                TRAFFICKING, OPIUM OR HEROIN   DOSS,C      18CR 058123
+                                TRAFFICKING, OPIUM OR HEROIN   DOSS,C      18CR 058123
+     115 HOLDER,KEDRICK,ANTHONY SELL/DELIVER HEROIN            DOSS,C      18CR 058124
+                                SELL/DELIVER HEROIN            DOSS,C      18CR 058124
+                                PWIMSD HEROIN                  DOSS,C      18CR 058124
+     116 HOWARD,FERNANDO,LEE,JR PWISD MARIJUANA                SPEIGHT,C   17CR 061929
+                                POSSESS MARIJ PARAPHERNALIA    SPEIGHT,C   17CR 061929
+                                POSSESS DRUG PARAPHERNALIA     SPEIGHT,C   17CR 061929
+     117 HOWARD,FERNANDO,LEE,JR POSSESS STOLEN FIREARM         SPEIGHT,C   17CR 061930
+     118 HOWELL,KEDRICK,DELANO  FAIL TO PROVIDE DNA SAMPLE     CARLETON,C  17CR 057478
+     119 HUGHES,TANYA,DUPONT    DWLR                           MCDONALD,M, 13CR 014173
+                                GIVE/LEND/BORROW LIC PLATE     MCDONALD,M, 13CR 014173
+     120 HUGHES,TANYA,DUPONT    FELONY POSSESSION OF COCAINE   PLEASANT,J  13CR 059978
+                                MOTION-OFA RECALL              PLEASANT,J  13CR 059978
+     121 HUGHES,TANYA,DUPONT    FELONY POSSESSION OF COCAINE   MCDONALD,M  13CR 060500
+                                MOTION-OFA RECALL              MCDONALD,M  13CR 060500
+     122 JENERETT,SOLOMON,MONRO FELONY POSSESSION OF COCAINE   ROSE,D      18CR 057044
+                                POSSESS DRUG PARAPHERNALIA     ROSE,D      18CR 057044
+ SPA 123 JIMENEZ,JULIO,CURIEL   NO OPERATORS LICENSE           DUQUE,R     17CR 052541
+                                FELONY POSSESSION SCH II CS    DUQUE,R     17CR 052541
+  ** 124 JOHNSON,ANDREW,WARREN  POSSESS HEROIN                 COLLINS,J   18CR 057867
+                                FELONY POSSESSION OF COCAINE   COLLINS,J   18CR 057867
+     125 JOHNSON,JULIAN,GIAVANN FAIL TO BURN HEADLAMPS         TERRY,J,O   16IF 701470
+     126 JOHNSON,JULIAN,GIAVANN POSSESSION WITH THE INTENT TO  CAIN,O      16CR 054981
+                                MAINTN VEH/DWELL/PLACE CS (F)  CAIN,O      16CR 054981
+                                POSSESSION OF DRUG PARAPHERNAL CAIN,O      16CR 054981
+     127 JOHNSON,JULIAN,GIAVANN POSSESS STOLEN FIREARM         CAIN,O      16CR 055031
+     128 JOHNSON,JULIAN,GIAVANN POSSESS MARIJUANA UP TO 1/2 OZ KIMEL,A     16CR 055202
+                                PWIMSD SCH IV CS               KIMEL,A     16CR 055202
+  ** 129 JOHNSON,RAMONE,MARQUES CARRYING CONCEALED GUN(M)      LAVALLEY,M  17CR 054549
+                                RESISTING PUBLIC OFFICER       LAVALLEY,M  17CR 054549
+1                             DISTRICT COURT CALENDAR                    PAGE:    6
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO. DEFENDANT NAME          OFFENSE                        COMPLAINANT FILE NUMBER
+  *************************************************************************************
+  ** 130 JOHNSON,RAMONE,MARQUES POSSESS MARIJ PARAPHERNALIA    LAVALLEY,M  17CR 054550
+                                POSSESS DRUG PARAPHERNALIA     LAVALLEY,M  17CR 054550
+                                DWLR NOT IMPAIRED REV          LAVALLEY,M  17CR 054550
+     131 JOHNSON,RAMONE,MARQUES POSSESS MARIJUANA UP TO 1/2 OZ LAVALLEY,M  17CR 058596
+                                PWIMSD SCH II CS               LAVALLEY,M  17CR 058596
+                                POSSESS MARIJ PARAPHERNALIA    LAVALLEY,M  17CR 058596
+     132 JOHNSON,RAMONE,MARQUES POSSESS DRUG PARAPHERNALIA     LAVALLEY,M  17CR 058597
+                                M/S/D/P CS W/N 1000FT OF PARK  LAVALLEY,M  17CR 058597
+     133 JOHNSON,RAMONE,MARQUES FELONY POSSESSION OF COCAINE   GRIFFITH,D  18CR 050615
+                                POSSESS MARIJ PARAPHERNALIA    GRIFFITH,D  18CR 050615
+                                POSS MARIJ >1/2 TO 1 1/2 OZ    GRIFFITH,D  18CR 050615
+     134 KESSLER,HANNAH,NICOLE  EXTORTION                      HANLON,J    18CR 059169
+                                RESISTING PUBLIC OFFICER       HANLON,J    18CR 059169
+                                POSSESS DRUG PARAPHERNALIA     HANLON,J    18CR 059169
+     135 KESSLER,HANNAH,NICOLE  FELONY POSSESSION OF COCAINE   HANLON,J    18CR 059170
+                                POSSESS HEROIN                 HANLON,J    18CR 059170
+     136 KEY,DUSTIN,DEWAYNE     FELONY POSSESSION SCH I CS     GRUBB,A     18CR 056053
+                                POSSESS DRUG PARAPHERNALIA     GRUBB,A     18CR 056053
+     137 KING,DEVIN,MICHAEL     POSSESS METHAMPHETAMINE        RUIZ,M      18CR 057267
+                                POSSESS DRUG PARAPHERNALIA     RUIZ,M      18CR 057267
+     138 LADD,DEVAN,DELANO      POSSESS HEROIN                 MERRITT,M   18CR 050025
+                                POSSESS DRUG PARAPHERNALIA     MERRITT,M   18CR 050025
+                                POSSESS DRUG PARAPHERNALIA     MERRITT,M   18CR 050025
+     139 LANDRETH,SHANE,ALLEN   POSSESS METHAMPHETAMINE        SMITH,J     18CR 055325
+                                POSSESS DRUG PARAPHERNALIA     SMITH,J     18CR 055325
+     140 LAVANT,DIVA,RENEE      HIT/RUN LEAVE SCENE PROP DAM   TESH,N,A    17CR 734298
+                                UNSAFE MOVEMENT                TESH,N,A    17CR 734298
+     141 LAVANT,DIVA,RENEE      FICT/ALT TITLE/REG CARD/TAG    TESH,N,A    17CR 734308
+     142 LAVANT,DIVA,RENEE      DWLR NOT IMPAIRED REV          ROSALES,G,J 17CR 734316
+                                EXPIRED REGISTRATION CARD/TAG  ROSALES,G,J 17CR 734316
+     143 LAVANT,DIVA,RENEE      MIRROR VIOLATION               TESH,N,A    17IF 716609
+                                UNSAFE TIRES                   TESH,N,A    17IF 716609
+     144 LAVANT,DIVA,RENEE      FAILURE TO REDUCE SPEED        ROSALES,G,J 17IF 716614
+                                UNSAFE TIRES                   ROSALES,G,J 17IF 716614
+     145 LONG,DONTAY,DEREZE     FELONY POSSESSION OF COCAINE   INMAN,C     18CR 053674
+                                POSSESS DRUG PARAPHERNALIA     INMAN,C     18CR 053674
+     146 LONG,DONTAY,DEREZE     PWISD COCAINE                  SPEIGHT,C   18CR 054729
+                                POSSESS DRUG PARAPHERNALIA     SPEIGHT,C   18CR 054729
+     147 LONG,SHAQUAN,SHAKUR    PWISD COCAINE                  SPEIGHT,C   18CR 054728
+                                POSSESS DRUG PARAPHERNALIA     SPEIGHT,C   18CR 054728
+     148 MANRING,MIRANDA,NICOLE DRIVING WHILE IMPAIRED         JOHNSON,S   18CR 059052
+                                CIVIL REVOCATION DR LIC (30)   JOHNSON,S   18CR 059052
+     149 MANRING,MIRANDA,NICOLE FELONY POSSESSION OF COCAINE   JOHNSON,S   18CR 059053
+     150 MARTIN,JOHN,EDWARD     PWISD COCAINE                  HILL,B      18CR 050720
+                                POSSESS DRUG PARAPHERNALIA     HILL,B      18CR 050720
+                                POSSESS MARIJUANA UP TO 1/2 OZ HILL,B      18CR 050720
+     151 MARTIN,JOHN,EDWARD     POSSESSION OF FIREARM BY FELON HILL,B      18CR 050721
+     152 MARTINEZ,AARON,LOVELL  PWIMSD HEROIN                  KLUTTZ,C    17CR 058403
+                                PWISD COCAINE                  KLUTTZ,C    17CR 058403
+                                POSSESS MARIJUANA UP TO 1/2 OZ KLUTTZ,C    17CR 058403
+     153 MARTINEZ,AARON,LOVELL  PWIMSD SCH I CS                KLUTTZ,C    17CR 058404
+                                SIMPLE POSSESS SCH IV CS (M)   KLUTTZ,C    17CR 058404
+                                POSSESS DRUG PARAPHERNALIA     KLUTTZ,C    17CR 058404
+     154 MAYHEW,DEION,VANCE     PWIMSD SCH II CS               FLYNN,J     18CR 056093
+                                SIMPLE POSSESS SCH IV CS (M)   FLYNN,J     18CR 056093
+                                POSSESS MARIJUANA UP TO 1/2 OZ FLYNN,J     18CR 056093
+     155 MAYHEW,DEION,VANCE     POSSESS MARIJ PARAPHERNALIA    FLYNN,J     18CR 056094
+1                             DISTRICT COURT CALENDAR                    PAGE:    7
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO. DEFENDANT NAME          OFFENSE                        COMPLAINANT FILE NUMBER
+  *************************************************************************************
+     156 MCCALL,JONATHAN,DERNAR TRAFFICKING IN COCAINE         SISK,B      18CR 058102
+                                MANUFACTURE COCAINE            SISK,B      18CR 058102
+                                PWIMSD COCAINE                 SISK,B      18CR 058102
+                                BOND MOTION                    SISK,B      18CR 058102
+     157 MCCALL,JONATHAN,DERNAR POSSESS STOLEN FIREARM         SISK,B      18CR 058103
+                                POSSESS DRUG PARAPHERNALIA     SISK,B      18CR 058103
+                                MAINTN VEH/DWELL/PLACE CS (M)  SISK,B      18CR 058103
+                                BOND MOTION                    SISK,B      18CR 058103
+     158 MCCALL,JONATHAN,DERNAR POSSESSION OF FIREARM BY FELON SISK,B      18CR 058104
+                                BOND MOTION                    SISK,B      18CR 058104
+     159 MCCALL,JONATHAN,DERNAR POSSESS MARIJUANA UP TO 1/2 OZ SISK,B      18CR 058105
+                                BOND MOTION                    SISK,B      18CR 058105
+     160 MCCULLOUGH,DEREZ,RASHA PWISD MARIJUANA                FERGUSON,B  17CR 060974
+                                POSSESS MARIJ PARAPHERNALIA    FERGUSON,B  17CR 060974
+                                DWLR NOT IMPAIRED REV          FERGUSON,B  17CR 060974
+     161 MCCULLOUGH,DEREZ,RASHA MAINTN VEH/DWELL/PLACE CS (F)  FERGUSON,B  17CR 060975
+  ** 162 MCGEE,CRYSTAL,NICOLE   POSSESS METHAMPHETAMINE        CHEEK,D     17CR 061964
+                                PWIMSD METHAMPHETAMINE         CHEEK,D     17CR 061964
+                                PWIMSD SCH II CS               CHEEK,D     17CR 061964
+  ** 163 MCGEE,CRYSTAL,NICOLE   POSSESS MARIJ PARAPHERNALIA    CHEEK,D     17CR 061965
+                                POSSESS DRUG PARAPHERNALIA     CHEEK,D     17CR 061965
+                                MAINTN VEH/DWELL/PLACE CS (M)  CHEEK,D     17CR 061965
+  ** 164 MCGEE,CRYSTAL,NICOLE   POSSESS MARIJUANA UP TO 1/2 OZ CHEEK,D     17CR 061966
+  ** 165 MCGEE,CRYSTAL,NICOLE   FELONY POSSESSION OF COCAINE   CHEEK,D     17CR 061967
+  ** 166 MENDOZA,LILIA          POSSESS HEROIN                 UKUZATO,K   18CR 052494
+                                POSSESS DRUG PARAPHERNALIA     UKUZATO,K   18CR 052494
+  ** 167 MILLER,CARLOS,STEFON   DRIVING WHILE IMPAIRED         HANKS,T,S   17CR 040278
+                                DWLR NOT IMPAIRED REV          HANKS,T,S   17CR 040278
+                                CIVIL REVOCATION DR LIC (30)   HANKS,T,S   17CR 040278
+     168 MILLER,CARLOS,STEFON   FELONY DEATH BY VEHICLE        SHEETS,J    17CR 061542
+                                FEL SERIOUS INJURY BY VEHICLE  SHEETS,J    17CR 061542
+     169 MILLER,CARLOS,STEFON   FAIL TO WEAR SEAT BELT-DRIVER  HANKS,T,S   17IF 718913
+     170 MILLER,JAMES,MATTHEW   PWISD COCAINE                  BYERLY,W    18CR 055855
+                                POSSESS DRUG PARAPHERNALIA     BYERLY,W    18CR 055855
+                                FELONY POSSESSION SCH II CS    BYERLY,W    18CR 055855
+     171 MILLS,RANDALL,DOUGLAS  FELONY POSSESSION OF COCAINE   HOWARD,J    18CR 056140
+                                POSSESS DRUG PARAPHERNALIA     HOWARD,J    18CR 056140
+                                MAINTN VEH/DWELL/PLACE CS (M)  HOWARD,J    18CR 056140
+     172 MILLS,RANDALL,DOUGLAS  EXPIRED REGISTRATION CARD/TAG  HOWARD,J    18CR 056141
+                                DRIVE LEFT OF CENTER           HOWARD,J    18CR 056141
+                                EXPIRED/NO INSPECTION          HOWARD,J    18CR 056141
+     173 MOHAMED,ABBAS          PWIMSD MARIJUANA               VANBUREN,M  18CR 056072
+                                POSSESS MARIJ PARAPHERNALIA    VANBUREN,M  18CR 056072
+                                MAINTN VEH/DWELL/PLACE CS (M)  VANBUREN,M  18CR 056072
+     174 MOORE,PATRICK,QUINTON  PWIMSD MARIJUANA               THOMAS,B    18CR 057893
+                                M/S/D/P CS W/N 1000FT OF PARK  THOMAS,B    18CR 057893
+                                POSSESS MARIJ PARAPHERNALIA    THOMAS,B    18CR 057893
+     175 MOORE,RAHEEN,LAMONT    FELONY POSSESSION SCH II CS    BURAK,A     18CR 058001
+     176 MOORE,WILLIAM,LEE B    SOLICIT PROSTITUTION-M         THOMAS,B    18CR 057849
+                                FELONY POSSESSION OF COCAINE   THOMAS,B    18CR 057849
+     177 MORA,RAY,ANTONIO       RESISTING PUBLIC OFFICER       MONTGOMERY, 18CR 055643
+                                SECOND DEGREE TRESPASS         MONTGOMERY, 18CR 055643
+                                LITTERING BEER/WINE CONTAINER  MONTGOMERY, 18CR 055643
+  ** 178 MORA,RAY,ANTONIO       FELONY POSSESSION OF COCAINE   MONTGOMERY, 18CR 057833
+                                POSSESS METHAMPHETAMINE        MONTGOMERY, 18CR 057833
+     179 MORALES,GUADALUPE      TRAFFICKING, OPIUM OR HEROIN   GRIFFITH,D  18CR 050042
+                                MAINTN VEH/DWELL/PLACE CS (F)  GRIFFITH,D  18CR 050042
+1                             DISTRICT COURT CALENDAR                    PAGE:    8
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO. DEFENDANT NAME          OFFENSE                        COMPLAINANT FILE NUMBER
+  *************************************************************************************
+                                POSSESS DRUG PARAPHERNALIA     GRIFFITH,D  18CR 050042
+                                BOND MOTION                    GRIFFITH,D  18CR 050042
+     180 MORALES,GUADALUPE      PWIMSD HEROIN                  GRIFFITH,D  18CR 050043
+                                TRAFFICK IN METHAMPHETAMINE    GRIFFITH,D  18CR 050043
+                                POSSESS METHAMPHETAMINE        GRIFFITH,D  18CR 050043
+                                BOND MOTION                    GRIFFITH,D  18CR 050043
+     181 MORALES,GUADALUPE      PWISD MARIJUANA                GRIFFITH,D  18CR 050044
+                                POSSESS MARIJ PARAPHERNALIA    GRIFFITH,D  18CR 050044
+                                BOND MOTION                    GRIFFITH,D  18CR 050044
+     182 MOSER,RONALD,LEE       POSSESS HEROIN                 SMITH,J     18CR 058827
+                                POSSESS DRUG PARAPHERNALIA     SMITH,J     18CR 058827
+     183 NELSON,BRANDON,KEITH   POSSESS METHAMPHETAMINE        EAST,L      18CR 059020
+                                DWLR NOT IMPAIRED REV          EAST,L      18CR 059020
+     184 ORTIZ,MIQUEL,TOMAS     POSSESS MARIJ PARAPHERNALIA    ANDERSON,J  18CR 052739
+                                POSSESS MARIJ PARAPHERNALIA    ANDERSON,J  18CR 052739
+                                POSSESS MARIJ PARAPHERNALIA    ANDERSON,J  18CR 052739
+     185 ORTIZ,MIQUEL,TOMAS     POSSESS MARIJ PARAPHERNALIA    ANDERSON,J  18CR 052740
+                                POSSESS MARIJ PARAPHERNALIA    ANDERSON,J  18CR 052740
+                                POSSESS MARIJ PARAPHERNALIA    ANDERSON,J  18CR 052740
+     186 ORTIZ,MIQUEL,TOMAS     POSSESS MARIJ PARAPHERNALIA    ANDERSON,J  18CR 052741
+                                POSSESS MARIJ PARAPHERNALIA    ANDERSON,J  18CR 052741
+                                POSSESS MARIJ PARAPHERNALIA    ANDERSON,J  18CR 052741
+     187 ORTIZ,MIQUEL,TOMAS     POSSESS MARIJ PARAPHERNALIA    ANDERSON,J  18CR 052742
+                                POSSESS MARIJ PARAPHERNALIA    ANDERSON,J  18CR 052742
+                                POSSESS MARIJ PARAPHERNALIA    ANDERSON,J  18CR 052742
+     188 ORTIZ,MIQUEL,TOMAS     POSSESS MARIJ PARAPHERNALIA    ANDERSON,J  18CR 052743
+                                POSSESS MARIJ PARAPHERNALIA    ANDERSON,J  18CR 052743
+                                POSSESS MARIJ PARAPHERNALIA    ANDERSON,J  18CR 052743
+     189 QUINTANA,JOSE,COLON    TRAFFICKING, OPIUM OR HEROIN   MCKNIGHT,C  18CR 053691
+                                TRAFFICKING, OPIUM OR HEROIN   MCKNIGHT,C  18CR 053691
+     190 QUINTANA,JOSE,COLON    PWISD COCAINE                  MCKNIGHT,C  18CR 053692
+                                FELONY POSSESSION MARIJUANA    MCKNIGHT,C  18CR 053692
+                                MAINTN VEH/DWELL/PLACE CS (F)  MCKNIGHT,C  18CR 053692
+     191 RAINEY,CALVIN,LEE      PWIMSD SCH II CS               FERGUSON,B  16CR 061710
+                                POSSESS MARIJ PARAPHERNALIA    FERGUSON,B  16CR 061710
+                                POSSESS DRUG PARAPHERNALIA     FERGUSON,B  16CR 061710
+     192 RAINEY,CALVIN,LEE      PWISD COCAINE                  FERGUSON,B  16CR 061712
+                                PWISD COCAINE                  FERGUSON,B  16CR 061712
+                                POSSESS MARIJUANA UP TO 1/2 OZ FERGUSON,B  16CR 061712
+     193 RAINEY,CALVIN,LEE      DWLR NOT IMPAIRED REV          FERGUSON,B  16CR 061713
+     194 REYNOLDS,NICOLAS,ALLEN RECKLESS DRIVING TO ENDANGER   OAKLEY,L    17CR 050392
+                                SPEEDING                       OAKLEY,L    17CR 050392
+                                UNSAFE PASSING YELLOW LINE     OAKLEY,L    17CR 050392
+     195 REYNOLDS,NICOLAS,ALLEN POSSESS MARIJUANA UP TO 1/2 OZ THOMAS,B    18CR 051786
+                                POSSESS MARIJ PARAPHERNALIA    THOMAS,B    18CR 051786
+     196 RHYMER,ROY,ALANZO      POSSESSION OF FIREARM BY FELON WAGONER,S   18CR 052981
+                                BOND MOTION                    WAGONER,S   18CR 052981
+     197 RHYMER,ROY,ALANZO      TRAFFICKING, OPIUM OR HEROIN   WAGONER,S   18CR 052982
+                                TRAFFICKING, OPIUM OR HEROIN   WAGONER,S   18CR 052982
+                                PWISD COCAINE                  WAGONER,S   18CR 052982
+     198 RHYMER,ROY,ALANZO      POSSESS STOLEN FIREARM         WAGONER,S   18CR 052983
+                                POSSESS MARIJUANA UP TO 1/2 OZ WAGONER,S   18CR 052983
+                                POSSESS MARIJ PARAPHERNALIA    WAGONER,S   18CR 052983
+     199 RHYMER,ROY,ALANZO      POSSESS DRUG PARAPHERNALIA     WAGONER,S   18CR 052984
+                                MAINTN VEH/DWELL/PLACE CS (M)  WAGONER,S   18CR 052984
+     200 RICHARDSON,JERMARIO,DE POSSESS MARIJUANA UP TO 1/2 OZ OAKLEY,L    16CR 060146
+                                POSSESS MARIJ PARAPHERNALIA    OAKLEY,L    16CR 060146
+1                             DISTRICT COURT CALENDAR                    PAGE:    9
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO. DEFENDANT NAME          OFFENSE                        COMPLAINANT FILE NUMBER
+  *************************************************************************************
+                                SPEEDING                       OAKLEY,L    16CR 060146
+     201 RICHARDSON,JERMARIO,DE FELONY POSSESSION OF COCAINE   OAKLEY,L    16CR 060147
+     202 RIDDLE,JENNIFER,ROBIN  FELONY POSSESSION SCH II CS    SIMMONS,E   18CR 059027
+     203 ROSEMOND,CHAZ,JAMAL    FELONY POSSESSION OF COCAINE   ALLEN,W     18CR 050063
+     204 ROSEMOND,CHAZ,JAMARL   M/S/D/P CS W/N 1000FT SCHOOL   HOLLAND,B   18CR 051165
+                                PWISD COCAINE                  HOLLAND,B   18CR 051165
+                                POSSESS DRUG PARAPHERNALIA     HOLLAND,B   18CR 051165
+     205 ROSEMOND,CHAZ,JAMARL   POSSESSION OF FIREARM BY FELON HOLLAND,B   18CR 051167
+     206 ROSEMOND,CHAZ,JAMARL   POSSESS STOLEN FIREARM         HOLLAND,B   18CR 051170
+     207 ROSS,ANTONYO,DA'SHON   FELONY POSSESSION SCH II CS    WELLS,S     18CR 056073
+     208 SHARPE,SONYA,NICOLE    ATT OBTAIN CS FORGERY/FRAUD(F) FAIRCLOTH,D 18CR 051322
+     209 SHAW,SETH,TYLER        EXTORTION                      HANLON,J    18CR 059173
+                                RESISTING PUBLIC OFFICER       HANLON,J    18CR 059173
+                                POSSESS DRUG PARAPHERNALIA     HANLON,J    18CR 059173
+     210 SHAW,SETH,TYLER        FELONY POSSESSION OF COCAINE   HANLON,J    18CR 059174
+                                POSSESS HEROIN                 HANLON,J    18CR 059174
+     211 SHUFF,BRENT,DVORE      PWIMSD MDA/MDMA                PITTMAN,E   18CR 051746
+                                FELONY POSSESSION OF COCAINE   PITTMAN,E   18CR 051746
+                                POSSESS DRUG PARAPHERNALIA     PITTMAN,E   18CR 051746
+  ** 212 SMITH,DUSTIN,M         POSSESS METHAMPHETAMINE        RUIZ,M      18CR 057265
+                                POSSESS DRUG PARAPHERNALIA     RUIZ,M      18CR 057265
+                                MAINTN VEH/DWELL/PLACE CS (M)  RUIZ,M      18CR 057265
+  ** 213 SMITH,DUSTIN,M         MISDEMEANOR CHILD ABUSE        RUIZ,M      18CR 057266
+     214 SMITH,DUSTIN,M         DRIVING WHILE IMPAIRED         BLAISE,A    18CR 057269
+                                DWLR IMPAIRED REV              BLAISE,A    18CR 057269
+                                CIVIL REVOCATION DR LIC (30)   BLAISE,A    18CR 057269
+  ** 215 SMITH,DUSTIN,M         RESISTING PUBLIC OFFICER       BLAISE,A    18CR 057270
+     216 SPANGLER,KIRSTEN,MICHE POSSESS HEROIN                 HAYES,G     18CR 057957
+                                POSSESS METHAMPHETAMINE        HAYES,G     18CR 057957
+                                POSSESS DRUG PARAPHERNALIA     HAYES,G     18CR 057957
+     217 SQUIRES,EDWARD,ALAN,II OBTAIN CS BY FRAUD/FORGERY (F) PARKER,M    18CR 056935
+                                TRAFFICKING, OPIUM OR HEROIN   PARKER,M    18CR 056935
+     218 STEELE,BRENDON         PWISD MARIJUANA                BLAISE,A    18CR 055946
+     219 STEPHENS,SCOTT,ALCINDO NO OPERATORS LICENSE           WAGONER,S   17CR 061887
+     220 STEPHENS,SCOTT,ALCINDO TRAFFICKING, OPIUM OR HEROIN   WAGONER,S   17CR 061888
+                                TRAFFICKING, OPIUM OR HEROIN   WAGONER,S   17CR 061888
+                                PWIMSD HEROIN                  WAGONER,S   17CR 061888
+     221 STEVENS,JERAMIE,ROBERT PWIMSD SCH II CS               EAST,L      18CR 057984
+                                SIMPLE POSSESS SCH II CS (M)   EAST,L      18CR 057984
+     222 STINSON,KATHRYN,MARGAR FELONY POSSESSION SCH II CS    GALLAGHER,S 18CR 059149
+                                POSSESS HEROIN                 GALLAGHER,S 18CR 059149
+                                POSSESS DRUG PARAPHERNALIA     GALLAGHER,S 18CR 059149
+     223 STOKES,HORACE,JR       FELONY POSSESSION OF COCAINE   TAYLOR,T    18CR 057998
+                                POSSESS DRUG PARAPHERNALIA     TAYLOR,T    18CR 057998
+     224 TAYLOR,COURTNEY,SENTEL POSSESS HEROIN                 GRIFFITH,D  18CR 053804
+                                POSSESS DRUG PARAPHERNALIA     GRIFFITH,D  18CR 053804
+                                MAINTN VEH/DWELL/PLACE CS (F)  GRIFFITH,D  18CR 053804
+     225 TAYLOR,KENARD,DESHAUN  FELONY POSSESSION OF COCAINE   ALLEN,B     18CR 057310
+  ** 226 TAYLOR,MARIER,RESHAN   RESISTING PUBLIC OFFICER       OAKLEY,L    16CR 061323
+     227 TIBBS,ROGER,GENE,JR    PWISD COCAINE                  CANTU,H     18CR 057008
+                                PWISD MARIJUANA                CANTU,H     18CR 057008
+                                MAINTN VEH/DWELL/PLACE CS (F)  CANTU,H     18CR 057008
+     228 TIBBS,ROGER,GENE,JR    POSSESS MARIJ PARAPHERNALIA    CANTU,H     18CR 057009
+                                POSSESS DRUG PARAPHERNALIA     CANTU,H     18CR 057009
+     229 TRANSOU,HARRY,JAMES    POSSESS MDMA/ECSTASY           SMITH,J     18CR 059182
+                                POSSESS MARIJUANA UP TO 1/2 OZ SMITH,J     18CR 059182
+                                POSSESS MARIJ PARAPHERNALIA    SMITH,J     18CR 059182
+1                             DISTRICT COURT CALENDAR                    PAGE:   10
+
+          COURT DATE: 10/19/18        TIME: 09:00 AM        COURTROOM NUMBER: PREL
+
+  NO. DEFENDANT NAME          OFFENSE                        COMPLAINANT FILE NUMBER
+  *************************************************************************************
+  ** 230 VEGAESTRADA,JASON,EDWI POSSESS METHAMPHETAMINE        PHILLIPS,S  18CR 052793
+                                POSSESS DRUG PARAPHERNALIA     PHILLIPS,S  18CR 052793
+     231 WALL,LEROY,III         PWISD COCAINE                  FRANKLAND,L 18CR 057947
+  ** 232 WALSER,CHANCELLOR,JAMA FELONY POSSESSION OF COCAINE   SOMERVILLE, 18CR 058031
+                                POSSESS DRUG PARAPHERNALIA     SOMERVILLE, 18CR 058031
+  ** 233 WALTERS,JORDAN,MARQUIS POSSESSION OF FIREARM BY FELON FERGUSON,B  17CR 058396
+  ** 234 WALTERS,JORDAN,MARQUIS PWISD COCAINE                  FERGUSON,B  17CR 058397
+                                POSSESS DRUG PARAPHERNALIA     FERGUSON,B  17CR 058397
+                                FELONY POSSESSION OF COCAINE   FERGUSON,B  17CR 058397
+  ** 235 WALTERS,JORDAN,MARQUIS POSSESS MARIJUANA UP TO 1/2 OZ FERGUSON,B  17CR 058398
+                                POSSESS MARIJ PARAPHERNALIA    FERGUSON,B  17CR 058398
+                                CARRYING CONCEALED GUN(M)      FERGUSON,B  17CR 058398
+     236 WARE,ANTHONY,LAMAR     POSSESSION OF FIREARM BY FELON LUPER,C     18CR 057916
+     237 WARE,ANTHONY,LAMAR     FELONY POSSESSION OF COCAINE   LUPER,C     18CR 057917
+                                POSSESS DRUG PARAPHERNALIA     LUPER,C     18CR 057917
+     238 WATLINGTON,LARRY,DOUGL FELONY POSSESSION OF COCAINE   LUPER,C     18CR 057888
+     239 WELCH,JAMES,WILLIAM    PWIMSD HEROIN                  THOMAS,B    17CR 061936
+                                PWISD COCAINE                  THOMAS,B    17CR 061936
+                                POSSESS DRUG PARAPHERNALIA     THOMAS,B    17CR 061936
+     240 WELCH,JAMES,WILLIAM    TRAFFICKING, OPIUM OR HEROIN   THOMAS,B    17CR 061937
+                                PWIMSD SCH IV CS               THOMAS,B    17CR 061937
+                                MAINTN VEH/DWELL/PLACE CS (M)  THOMAS,B    17CR 061937
+     241 WHIFFEN,JESSE,RANDLE   EXTRADITION/FUGITIVE OTH STATE BRYANT,S    18CR 056792
+     242 WILSON,JOHNNY,LEE      FELONY POSSESSION OF COCAINE   WATTS,J     18CR 059201
+                                DRIVE WRONG WAY ON DUAL LANE   WATTS,J     18CR 059201
+     243 WILSON,KENTRELL,DONTAE PWISD MARIJUANA                FERGUSON,B  18CR 053663
+                                POSSESS MARIJ PARAPHERNALIA    FERGUSON,B  18CR 053663
+                                DWLR IMPAIRED REV              FERGUSON,B  18CR 053663
+     244 WILSON,KENTRELL,DONTAE PWIMSD SCH IV CS               FERGUSON,B  18CR 053664
+                                POSSESS DRUG PARAPHERNALIA     FERGUSON,B  18CR 053664
+                                GIVE/LEND/BORROW LIC PLATE     FERGUSON,B  18CR 053664
+     245 WITHERSPOON,SEAN,CHRIS UNAUTHORIZED USE OF MOTOR VEH  BALDWIN,HER 16CR 056936
+                                MISDEMEANOR PROBATION VIOL     BALDWIN,HER 16CR 056936
+                                MOTION OFA RECALL              BALDWIN,HER 16CR 056936
+     246 WITHERSPOON,SEAN,CHRIS FELONY POSSESSION OF COCAINE   RIVERA,J    16CR 059296
+     247 WITHERSPOON,SEAN,CHRIS DWLR NOT IMPAIRED REV          RIVERA,J    16CR 059297
+                                POSSESS MARIJ PARAPHERNALIA    RIVERA,J    16CR 059297
+                                POSSESS MARIJUANA UP TO 1/2 OZ RIVERA,J    16CR 059297
+     248 WOOD,PATRICIA,NICOLE   POSSESS METHAMPHETAMINE        HOWARD,J    18CR 056101
+                                POSSESS DRUG PARAPHERNALIA     HOWARD,J    18CR 056101
+                                POSSESS MARIJUANA UP TO 1/2 OZ HOWARD,J    18CR 056101
+     249 WOOD,PATRICIA,NICOLE   POSSESS MARIJ PARAPHERNALIA    HOWARD,J    18CR 056102
+     250 WOOD,PATRICIA,NICOLE   MISDEMEANOR LARCENY            STOKES,J    18CR 056103
+     251 ZIMMERMAN,ADAM         TRAFFICKING, OPIUM OR HEROIN   HANSEN,L    18CR 058091
+                                TRAFFICKING IN COCAINE         HANSEN,L    18CR 058091
+                                MANUFACTURE SCH II CS          HANSEN,L    18CR 058091
+     252 ZIMMERMAN,ADAM         PWIMSD HEROIN                  HANSEN,L    18CR 058092
+                                PWISD MARIJUANA                HANSEN,L    18CR 058092
+                                MAINTN VEH/DWELL/PLACE CS (F)  HANSEN,L    18CR 058092
+     253 ZIMMERMAN,ADAM         POSSESS DRUG PARAPHERNALIA     HANSEN,L    18CR 058093
+                                POSSESS MARIJ PARAPHERNALIA    HANSEN,L    18CR 058093
+                                POSSESS STOLEN FIREARM         HANSEN,L    18CR 058093
+     254 ZIMMERMAN,ADAM         TRAFFICKING, OPIUM OR HEROIN   HANSEN,L    18CR 058094
+
+  * MISSING/INVALID CHECK DIGIT
+ ** DEFENDANT NEEDS TO BE FINGERPRINTED

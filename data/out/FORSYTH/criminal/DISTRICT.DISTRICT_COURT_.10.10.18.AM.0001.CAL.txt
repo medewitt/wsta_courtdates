@@ -1,0 +1,866 @@
+
+  RUN DATE: 10/08/18                                                        PAGE   1
+                             IN THE GENERAL COURT OF JUSTICE
+  LOCATION: KERNERSVILLE         DISTRICT COURT DIVISION       COUNTY OF FORSYTH
+
+          COURT DATE: 10/10/18        TIME: 09:00 AM        COURTROOM NUMBER: 0001
+
+                  KERNERSVILLE
+
+                     JUDGE PRESIDING :
+                     COURTROOM CLERK :
+                     PROSECUTOR      :
+                                     :
+                                     :
+                                     :
+                                     :
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+     1  17CR 056353 AVILA,BRIAN,SERRANO   PEARSON,M      KPD ATTY:MYERS,DOUG        3
+                    BOND:             CUS
+        (M)MISDEMEANOR PROBATION VIOL       PLEA:                VER:       C2902742
+                                        JUDGMENT:                           ADA: JNM
+
+
+        (M)MISDEMEANOR PROBATION VIOL       PLEA:                VER:       C2902742
+                                        JUDGMENT:
+
+
+     2  18CR 714618 BEST,ADAM,MICHAEL     GRIFFITH,L,D   KPD ATTY:TOLIN,JAMES,W
+        (T)SPEEDING                070/45   PLEA:                VER:       75G1212
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)RECKLESS DRIVING TO ENDANGER     PLEA:                VER:       75G1212
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+     3  18CR 718770 BOLES,SCOTT,ALEXANDER ORELLANA,R     KPD P.D.:MCCORMICK,CATHE
+        (M)SHOPLIFTING CONCEALMENT GOODS    PLEA:                VER:       61G1196
+        CLS:   P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:       61G1196
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+     4  18CR 723444 BROWN,ANTHONY,DAVID   GRIFFITH,L,D   KPD P.D.:MCCORMICK,CATHE   1
+        (I)SPEEDING                043/35   PLEA:                VER:       142G092
+                                        JUDGMENT:
+
+
+        (T)DWLR IMPAIRED REV                PLEA:                VER:       142G092
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+     5  18CR 723445 BROWN,ANTHONY,DAVID   GRIFFITH,L,D   KPD P.D.:MCCORMICK,CATHE   1
+        (T)NO MOTORCYCLE ENDORSEMENT        PLEA:                VER:       142G093
+        CLS:2  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    2
+
+          COURT DATE: 10/10/18        TIME: 09:00 AM        COURTROOM NUMBER: 0001
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (T)OPERATE VEH NO INS               PLEA:                VER:       142G093
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+     6  18CR 723446 BROWN,ANTHONY,DAVID   GRIFFITH,L,D   KPD P.D.:MCCORMICK,CATHE   1
+        (I)FAIL TO STOP-STEADY RED LIGHT    PLEA:                VER:       142G094
+                                        JUDGMENT:
+
+
+        (T)DRIVE/ALLOW MV NO REGISTRATION   PLEA:                VER:       142G094
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+     7  18CR 723447 BROWN,ANTHONY,DAVID   GRIFFITH,L,D   KPD P.D.:MCCORMICK,CATHE   1
+        (T)FICT/ALT TITLE/REG CARD/TAG      PLEA:                VER:       142G095
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+     8  18IF 704486 BURGER,DERRICK,LEE    GRIFFITH,L,D   KPD ATTY:TISDALE,KEN       1
+        (I)UNLAWFULLY PASS EM/PUB SV VEH    PLEA:                VER:       54G3723
+                                        JUDGMENT:
+
+
+     9  18CR 705717 BYRUM,STEPHEN,MURPHY  COLLINS,J      KPD P.D.:QUINLAN,AL        4
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       29G3016
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (I)EXPIRED/NO INSPECTION            PLEA:                VER:       29G3016
+                                        JUDGMENT:
+
+
+    10  18CR 705719 BYRUM,STEPHEN,MURPHY  COLLINS,J      KPD P.D.:QUINLAN,AL        4
+        (M)DRINK BEER/WINE WHILE DRIVING    PLEA:                VER:       29G3018
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)FAIL EXHIBIT/SURRENDER LICENSE   PLEA:                VER:       29G3018
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+    11  18IF 702268 BYRUM,STEPHEN,MURPHY  COLLINS,J      KPD P.D.:QUINLAN,AL        4
+        (I)POSS OPN CNT/CONS ALC PSG AREA   PLEA:                VER:       29G3017
+                                        JUDGMENT:
+
+
+        (I)POSS OPN CNT/CONS ALC PSG AREA   PLEA:                VER:       29G3017
+                                        JUDGMENT:
+
+
+    12  18CR 055922 CARICO,RUSTY,J        ORELLANA,R     KPD APT.:BOOKER,PARRIS,L
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:             WPA
+        (M)SHOPLIFTING CONCEALMENT GOODS    PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    3
+
+          COURT DATE: 10/10/18        TIME: 09:00 AM        COURTROOM NUMBER: 0001
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    13  18CR 051065 CARTER,KEVIN,WAYNE    SERRIN,J       KPD ATTY:MYERS,DOUG        1
+                    BOND:      $1,000 UNS
+        (M)MISDEMEANOR LARCENY              PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    14  18CR 053699 COUNTS,RICKEI,DEVON   GRIFFITH,D     KPD APT.:STUBBS,ALEXANDE   1
+                    BOND:      $1,000 SEC
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)RESISTING PUBLIC OFFICER         PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+    15  18IF 708161 DUNBAR,REBECCA,DIANE  GRIFFITH,L,D   KPD
+        (I)SPEEDING                049/35   PLEA:                VER:       91G4752
+                                        JUDGMENT:
+
+
+    16  18CR 726374 ELLIS,CHRISTOPHER,EDW MILLER,K,V     KPD
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:       12G3911
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)SIMPLE POSSESS SCH VI CS (M)     PLEA:                VER:       12G3911
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    17  18CR 050110 FINK,WHITNEY,NICOLE   GRIFFITH,D     KPD P.D.:SCHAAL WILSON,N   4
+                    BOND:             WPA
+        (M)SIMPLE POSSESS SCH II CS (M)     PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (M)SIMPLE POSSESS SCH II CS (M)     PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    4
+
+          COURT DATE: 10/10/18        TIME: 09:00 AM        COURTROOM NUMBER: 0001
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    18  18CR 050111 FINK,WHITNEY,NICOLE   GRIFFITH,D     KPD P.D.:SCHAAL WILSON,N   4
+                    BOND:          $1 WPA
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    19  18CR 700509 FINK,WHITNEY,NICOLE   AMAYA,G        KPD P.D.:SCHAAL WILSON,N   3
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       07G4550
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (I)REAR LAMPS VIOLATION             PLEA:                VER:       07G4550
+                                        JUDGMENT:
+
+
+    20  18IF 708092 GRAY,GARY,LEE         GRIFFITH,L,D   KPD
+        (I)FAIL TO STOP-STEADY RED LIGHT    PLEA:                VER:       88G5988
+                                        JUDGMENT:
+
+
+    21  18CR 712902 GREEN,REGINALD,LAVANT THOMAS,K,M     SHP                        2
+        (T)SPEEDING                086/65   PLEA:                VER:       67G0609
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    22  14CR 001323 HALL,SALAHUDDIN,BUKHA THOMAS,K       SHP ATTY:WAIVED            1
+        (T)HIT/RUN FAIL STOP PROP DAMAGE    PLEA:                VER:       6383465
+        CLS:1  P:   L:                  JUDGMENT:                           ADA: JLM
+
+
+        (M)MOTION OFA RECALL                PLEA:                VER:       6383465
+        CLS:   P:   L:                  JUDGMENT:
+
+
+    23  14CR 050664 HALL,SALAHUDDIN,BUKHA THOMAS,K       SHP ATTY:GERBER,KAREN,M    1
+                    BOND:             WPA
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       6383464
+                                        JUDGMENT:                           ADA: JLM
+
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       6383464
+                                        JUDGMENT:
+
+
+        (M)MOTION OFA RECALL                PLEA:                VER:       6383464
+        CLS:   P:   L:                  JUDGMENT:
+
+
+    24  18CR 724831 HENDERSON,WILLIAM,DAN MILLER,K,V     KPD
+        (M)MISDEMEANOR LARCENY              PLEA:                VER:       12G3909
+        CLS:1  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    5
+
+          COURT DATE: 10/10/18        TIME: 09:00 AM        COURTROOM NUMBER: 0001
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    25  18CR 051295 HILL,DANNY,RAY,JR     GRIFFITH,D     KPD P.D.:SPEAS,BRITTANY,   2
+                    BOND:      $2,000 SEC
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)POSS MARIJ >1/2 TO 1 1/2 OZ      PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    26  18CR 710556 HOOSIER,ZADA,NIHESIA  THOMAS,K,M     SHP ATTY:WAIVED            1
+        (T)SPEEDING                084/55   PLEA:                VER:       58G0109
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)RECKLESS DRIVING TO ENDANGER     PLEA:                VER:       58G0109
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+    27  18CR 710557 HOOSIER,ZADA,NIHESIA  THOMAS,K,M     SHP ATTY:WAIVED            1
+        (T)NO OPERATORS LICENSE             PLEA:                VER:       58G0110
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    28  18CR 719897 HUNSUCKER,SHARON,MARI RUSS,R,L,JR    KPD P.D.:SCHAAL WILSON,N   1
+        (M)SHOPLIFTING CONCEALMENT GOODS    PLEA:                VER:       95G0065
+        CLS:   P:   L:                  JUDGMENT:
+
+
+    29  17CR 732616 INGLE,RONALD,DAVID    GRIFFITH,L,D   KPD ATTY:INGLE,RONALD,DE   3
+        (T)FAIL TO STOP FOR STOPPED BUS     PLEA:                VER:       8G33778
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    30  18CR 708108 JONES,BAILEY,RAE      SIMON,S,T      KPD                        1
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:       9G69838
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:       9G69838
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    31  18CR 724252 KILBRETH,KELLAN,JASON GRIFFITH,L,D   KPD
+        (T)NO OPERATORS LICENSE             PLEA:                VER:       173G660
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       173G660
+        CLS:3  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    6
+
+          COURT DATE: 10/10/18        TIME: 09:00 AM        COURTROOM NUMBER: 0001
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    32  18CR 724253 KILBRETH,KELLAN,JASON GRIFFITH,L,D   KPD
+        (T)SPEEDING                066/35   PLEA:                VER:       173G661
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)RECKLESS DRIVING TO ENDANGER     PLEA:                VER:       173G661
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+    33  18CR 053545 MAGADAN,ZACKRI,IVAN   SAINTSING,M    WPD
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:      $1,500 SEC
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:
+                                        JUDGMENT:
+
+
+        (T)DWLR IMPAIRED REV                PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (I)FAIL TO BURN HEADLAMPS           PLEA:                VER:
+                                        JUDGMENT:
+
+
+    34  18CR 053546 MAGADAN,ZACKRI,IVAN   SAINTSING,M    WPD
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:          $1 SEC
+        (M)RESISTING PUBLIC OFFICER         PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+    35  18CR 055013 MASTERS,CARL,WALTER,J BRANHAM,L      KPD ATTY:WAIVED            2
+                    BOND:      $2,000 SEC
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    36  18CR 720069 MCDERMOTT,DANIEL,JAME GRIFFITH,L,D   KPD ATTY:BALL,STEPHEN
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:       99G4933
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (M)SIMPLE POSSESS SCH VI CS (M)     PLEA:                VER:       99G4933
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    37  18IF 709065 MCDERMOTT,DANIEL,JAME GRIFFITH,L,D   KPD ATTY:BALL,STEPHEN
+        (I)FAIL MAINTAIN LANE CONTROL       PLEA:                VER:       99G4932
+                                        JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    7
+
+          COURT DATE: 10/10/18        TIME: 09:00 AM        COURTROOM NUMBER: 0001
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    38  18CR 710597 MCDOWELL,ZACHARY,RAY  GRIFFITH,L,D   KPD ATTY:BARROW,JOHN       1
+        (T)SPEEDING                058/35   PLEA:                VER:       54G3727
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)RECKLESS DRIVING TO ENDANGER     PLEA:                VER:       54G3727
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+    39  17CR 708777 MENDEZ,ROSENDO,VARRIG BRANHAM,L,E    KPD ATTY:SHIFFLETTE,EDWA   3
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:       G330370
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    40  18CR 055799 NYE,MICHELINA,ANDREA  THOMAS,K       SHP P.D.:MCCORMICK,CATHE
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:             CUS
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       6736625
+                                        JUDGMENT:
+
+
+    41  18CR 718508 NYE,MICHELINA,ANDREA  THOMAS,K,M     SHP P.D.:MCCORMICK,CATHE
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       93G3203
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (I)FAILURE TO REDUCE SPEED          PLEA:                VER:       93G3203
+                                        JUDGMENT:
+
+
+    42  18CR 718517 OSBORNE,ETHNEE,CAROLI GRIFFITH,L,D   KPD                        1
+        (T)SPEEDING                051/35   PLEA:                VER:       91G4770
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)DWLR IMPAIRED REV                PLEA:                VER:       91G4770
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    43  18CR 718518 OSBORNE,ETHNEE,CAROLI GRIFFITH,L,D   KPD                        1
+        (T)POSS/DISP ALT/FICT/REVD DR LIC   PLEA:                VER:       91G4771
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       91G4771
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    44  18IF 708381 OSBORNE,ETHNEE,CAROLI GRIFFITH,L,D   KPD                        1
+        (I)EXPIRED/NO INSPECTION            PLEA:                VER:       91G4772
+                                        JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    8
+
+          COURT DATE: 10/10/18        TIME: 09:00 AM        COURTROOM NUMBER: 0001
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    45  17CR 004276 OVERTON,NIEKO,DEVON,J MUNDAY,G,D     KPD ATTY:WAIVED            3
+        (M)MISDEMEANOR LARCENY              PLEA:                VER:       C3989351
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    46  17CR 061156 PERDUE,AMANDA,TAYLOR  SIMON,S        KPD ATTY:LOGAN,DANIEL,N    2
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:             WPA
+        (T)RECKLESS DRIVING TO ENDANGER     PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+    47  17CR 737208 PERRETT,BRIAN,DEMORRI HOULE,S,W      KPD ATTY:SUMMERS,CECIL     2
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:       9G06684
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:       9G06684
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    48  18CR 716288 PORTER,TIMOTHY,LEE    GRIFFITH,L,D   KPD
+        (I)SPEEDING                049/35   PLEA:                VER:       81G7958
+                                        JUDGMENT:
+
+
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       81G7958
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    49  18CR 051049 PRATT,EVONNE,DOROTHY  MILLER,K       KPD P.D.:SPEAS,BRITTANY,
+                    BOND:      $1,500 SEC
+        (M)MISDEMEANOR LARCENY              PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (M)MISDEMEANOR LARCENY              PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    50  18CR 719622 REYNOLDS,AARON,KYLE   BRANHAM,L,E    KPD ATTY:SIMPSON,TRAVIS
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:       52G4794
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:       52G4794
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    51  18CR 053697 RICE,JOSHUA,MATTHEW-S GRIFFITH,D     KPD P.D.:KEEVER,ANDREW     1
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:      $1,000 SEC
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    9
+
+          COURT DATE: 10/10/18        TIME: 09:00 AM        COURTROOM NUMBER: 0001
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)RESISTING PUBLIC OFFICER         PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+    52  18CR 716904 RICE,JOSHUA,MATTHEW-S ANSEL,J,L      KPD ATTY:WAIVED            1
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:       9G63825
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:       9G63825
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    53  17CR 057390 RICHARDSON,ANTWON,BER KEARNS,M       KPD P.D.:SHILLITO,BRIAN,   2
+              AKA: RICHARDSON,ANTWON
+                    BOND:      $1,000 SEC
+        (M)ATT BREAK OR ENTER BLDG (M)      PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+        (M)RESISTING PUBLIC OFFICER         PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+    54  18CR 055781 RIVERA,OMAR,ALEJANDRO THOMAS,K       SHP ATTY:MYERS,DOUG
+                    BOND:             CUS
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       6892076
+                                        JUDGMENT:
+
+
+        (T)DRIVE AFTER CONSUMING < 21       PLEA:                VER:       6892076
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+    55  18CR 718425 RIVERA,OMAR,ALEJANDRO THOMAS,K,M     SHP ATTY:MYERS,DOUG
+        (I)FAIL MAINTAIN LANE CONTROL       PLEA:                VER:       93G3194
+                                        JUDGMENT:
+
+
+        (M)CONSUME ALC BY 19/20             PLEA:                VER:       93G3194
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    56  18CR 725654 RODRIGUEZ-MARTINEZ,ST WEST,B         KPD
+        (T)SPEED COMPETITION                PLEA:                VER:       7G15744
+        CLS:2  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   10
+
+          COURT DATE: 10/10/18        TIME: 09:00 AM        COURTROOM NUMBER: 0001
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    57  17CR 060504 RUNDE,JACOB,ALLEN     FELDMAN,V      KPD P.D.:STEWART,LARAQUE   1
+                    BOND:             WPA
+        (M)MISDEMEANOR LARCENY              PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+    58  18CR 055352 SATTENFIELD,DENVER,RA BRANHAM,L      KPD P.D.:SPEAS,BRITTANY,   1
+                    BOND:        $500 SEC
+        (M)SHOPLIFTING CONCEALMENT GOODS    PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+    59  18CR 054608 SHABAZZ,AL JIHAD,IBN  DAY,A          L-T ATTY:TISDALE,KEN       1
+        (M)POSS/MANUFACTURE FRAUDULENT ID   PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+        (T)FALSE/FICTITOUS NAME/ADD APPLI   PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+    60  18CR 725303 SHARMA,AMIT           STEPHENS,G,F
+        (M)NEGLECT TO SECURE WORKERS' COM   PLEA:                VER:       139G020
+        CLS:   P:   L:                  JUDGMENT:
+
+
+    61  18CR 725311 SHEETS,CRISTY,MAE     STEPHENS,G,F
+        (M)NEGLECT TO SECURE WORKERS' COM   PLEA:                VER:       139G021
+        CLS:   P:   L:                  JUDGMENT:
+
+
+    62  18IF 707585 SHORE,CHRISTOPHER,SCO GRIFFITH,L,D   KPD
+        (I)SPEEDING                033/20   PLEA:                VER:       84G3114
+                                        JUDGMENT:
+
+
+        (I)FAIL TO WEAR SEAT BELT-DRIVER    PLEA:                VER:       84G3114
+                                        JUDGMENT:
+
+
+    63  18IF 708375 SLATER,JOKARI,DEVAL   GRIFFITH,L,D   KPD
+        (I)SPEEDING                033/20   PLEA:                VER:       91G4763
+                                        JUDGMENT:
+
+
+    64  13CR 062148 SUMMERS,CORRY,TIONNE  THOMAS,K       SHP ATTY:LEE,KELLY,SCOTT  11
+              AKA: SUMMERS,CORY TIONNE
+                    BOND:     $20,000 SEC
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       6383453
+                                        JUDGMENT:                           ADA: JLM
+1                             DISTRICT COURT CALENDAR                    PAGE:   11
+
+          COURT DATE: 10/10/18        TIME: 09:00 AM        COURTROOM NUMBER: 0001
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       6383453
+                                        JUDGMENT:
+
+
+        (M)MOTION FOR RECALL                PLEA:                VER:       6383453
+        CLS:   P:   L:                  JUDGMENT:
+
+
+        (M)MOTION TO RECALL                 PLEA:                VER:       6383453
+        CLS:   P:   L:                  JUDGMENT:
+
+
+        (M)MOTION FOR OFA RECALL            PLEA:                VER:       6383453
+        CLS:   P:   L:                  JUDGMENT:
+
+
+    65  13CR 016184 SUMMERS,CORY,TIONNE   THOMAS,K       SHP ATTY:LEE,KELLY,SCOTT  11
+              AKA: SUMMERS,CORRY,T     , SUMMERS,CORRY,T     , SUMMERS,CORRY,T
+                    BOND:          $1 SEC
+        (M)MISDEMEANOR CHILD ABUSE          PLEA:                VER:       6383454
+        CLS:A1 P:   L:                  JUDGMENT:                           ADA: JLM
+
+
+        (M)MISDEMEANOR CHILD ABUSE          PLEA:                VER:       6383454
+        CLS:A1 P:   L:                  JUDGMENT:
+
+
+        (M)MOTION FOR RECALL                PLEA:                VER:       6383454
+        CLS:   P:   L:                  JUDGMENT:
+
+
+        (M)MOTION TO RECALL                 PLEA:                VER:       6383454
+        CLS:   P:   L:                  JUDGMENT:
+
+
+    66  18CR 725679 TORRES,PRISCILLA,GUAD THOMAS,K,M     SHP
+        (T)SPEEDING                090/65   PLEA:                VER:       249G882
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+        (T)RECKLESS DRIVING TO ENDANGER     PLEA:                VER:       249G882
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+    67  18CR 053652 TRANTHAM,WARREN,UNIQU GRIFFITH,D     KPD P.D.:SPEAS,BRITTANY,   2
+              AKA: TRANTHAM,WARRAN,UNIQ
+                    BOND:      $4,000 SEC
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   12
+
+          COURT DATE: 10/10/18        TIME: 09:00 AM        COURTROOM NUMBER: 0001
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (M)RESISTING PUBLIC OFFICER         PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+        (M)RESISTING PUBLIC OFFICER         PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+    68  18CR 053653 TRANTHAM,WARREN,UNIQU GRIFFITH,D     KPD P.D.:SPEAS,BRITTANY,   2
+              AKA: TRANTHAM,WARRAN,UNIQ
+                    BOND:          $1 SEC
+        (M)CARRYING CONCEALED WEAPON        PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+    69  17CR 737019 TUCKER,RUSSELL,LEE    ANSEL,J,L      KPD APT.:DENIED            1
+                    BOND:        $250 CSH
+        (M)SHOPLIFTING CONCEALMENT GOODS    PLEA:                VER:       9G63804
+        CLS:   P:   L:                  JUDGMENT:
+
+
+    70  18CR 725653 VALLEJO,ALEXANDER     WEST,B         KPD
+        (T)SPEED COMPETITION                PLEA:                VER:       7G15743
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+    71  16CR 709790 WHITLEY,MICHAEL,DAVID BOTTOMS,S,H    KPD P.D.:SCHAAL WILSON,N   4
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       92556F3
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: JRO
+
+
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:       92556F3
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    72  18CR 708946 WILLIAMS,LARA,ASHLEY, GRIFFITH,L,D   KPD ATTY:WAIVED            1
+        (I)SPEEDING                058/45   PLEA:                VER:       48G1661
+                                        JUDGMENT:
+
+
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       48G1661
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+    73  17CR 733083 WOLFORD,GARY,DEREK    GRIFFITH,L,D   KPD                        5
+        (I)FAIL TO WEAR SEAT BELT-DRIVER    PLEA:                VER:       8G63118
+                                        JUDGMENT:
+
+
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       8G63118
+        CLS:3  P:   L:                  JUDGMENT:
+1 RUN DATE: 10/08/18                                                        PAGE   1
+                             IN THE GENERAL COURT OF JUSTICE
+  LOCATION: KERNERSVILLE         DISTRICT COURT DIVISION       COUNTY OF FORSYTH
+
+          COURT DATE: 10/10/18        TIME: 09:00 AM        COURTROOM NUMBER: 0001
+
+                  KERNERSVILLE
+
+                     JUDGE PRESIDING :
+                     COURTROOM CLERK :
+                     PROSECUTOR      :
+                                     :
+                                     :
+                                     :
+                                     :
+
+  NO. DEFENDANT NAME          OFFENSE                        COMPLAINANT FILE NUMBER
+  *************************************************************************************
+       1 AVILA,BRIAN,SERRANO    MISDEMEANOR PROBATION VIOL     PEARSON,M   17CR 056353
+                                MISDEMEANOR PROBATION VIOL     PEARSON,M   17CR 056353
+       2 BEST,ADAM,MICHAEL      SPEEDING                070/45 GRIFFITH,L, 18CR 714618
+                                RECKLESS DRIVING TO ENDANGER   GRIFFITH,L, 18CR 714618
+       3 BOLES,SCOTT,ALEXANDER  SHOPLIFTING CONCEALMENT GOODS  ORELLANA,R  18CR 718770
+                                POSSESS MARIJ PARAPHERNALIA    ORELLANA,R  18CR 718770
+       4 BROWN,ANTHONY,DAVID    SPEEDING                043/35 GRIFFITH,L, 18CR 723444
+                                DWLR IMPAIRED REV              GRIFFITH,L, 18CR 723444
+       5 BROWN,ANTHONY,DAVID    NO MOTORCYCLE ENDORSEMENT      GRIFFITH,L, 18CR 723445
+                                OPERATE VEH NO INS             GRIFFITH,L, 18CR 723445
+       6 BROWN,ANTHONY,DAVID    FAIL TO STOP-STEADY RED LIGHT  GRIFFITH,L, 18CR 723446
+                                DRIVE/ALLOW MV NO REGISTRATION GRIFFITH,L, 18CR 723446
+       7 BROWN,ANTHONY,DAVID    FICT/ALT TITLE/REG CARD/TAG    GRIFFITH,L, 18CR 723447
+       8 BURGER,DERRICK,LEE     UNLAWFULLY PASS EM/PUB SV VEH  GRIFFITH,L, 18IF 704486
+       9 BYRUM,STEPHEN,MURPHY   EXPIRED REGISTRATION CARD/TAG  COLLINS,J   18CR 705717
+                                EXPIRED/NO INSPECTION          COLLINS,J   18CR 705717
+      10 BYRUM,STEPHEN,MURPHY   DRINK BEER/WINE WHILE DRIVING  COLLINS,J   18CR 705719
+                                FAIL EXHIBIT/SURRENDER LICENSE COLLINS,J   18CR 705719
+      11 BYRUM,STEPHEN,MURPHY   POSS OPN CNT/CONS ALC PSG AREA COLLINS,J   18IF 702268
+                                POSS OPN CNT/CONS ALC PSG AREA COLLINS,J   18IF 702268
+  **  12 CARICO,RUSTY,J         SHOPLIFTING CONCEALMENT GOODS  ORELLANA,R  18CR 055922
+                                POSSESS DRUG PARAPHERNALIA     ORELLANA,R  18CR 055922
+      13 CARTER,KEVIN,WAYNE     MISDEMEANOR LARCENY            SERRIN,J    18CR 051065
+      14 COUNTS,RICKEI,DEVON    POSSESS MARIJUANA UP TO 1/2 OZ GRIFFITH,D  18CR 053699
+                                POSSESS MARIJ PARAPHERNALIA    GRIFFITH,D  18CR 053699
+                                RESISTING PUBLIC OFFICER       GRIFFITH,D  18CR 053699
+      15 DUNBAR,REBECCA,DIANE   SPEEDING                049/35 GRIFFITH,L, 18IF 708161
+      16 ELLIS,CHRISTOPHER,EDWA POSSESS MARIJ PARAPHERNALIA    MILLER,K,V  18CR 726374
+                                SIMPLE POSSESS SCH VI CS (M)   MILLER,K,V  18CR 726374
+      17 FINK,WHITNEY,NICOLE    SIMPLE POSSESS SCH II CS (M)   GRIFFITH,D  18CR 050110
+                                SIMPLE POSSESS SCH II CS (M)   GRIFFITH,D  18CR 050110
+                                POSSESS DRUG PARAPHERNALIA     GRIFFITH,D  18CR 050110
+      18 FINK,WHITNEY,NICOLE    DWLR NOT IMPAIRED REV          GRIFFITH,D  18CR 050111
+      19 FINK,WHITNEY,NICOLE    DWLR NOT IMPAIRED REV          AMAYA,G     18CR 700509
+                                REAR LAMPS VIOLATION           AMAYA,G     18CR 700509
+      20 GRAY,GARY,LEE          FAIL TO STOP-STEADY RED LIGHT  GRIFFITH,L, 18IF 708092
+      21 GREEN,REGINALD,LAVANTE SPEEDING                086/65 THOMAS,K,M  18CR 712902
+      22 HALL,SALAHUDDIN,BUKHAR HIT/RUN FAIL STOP PROP DAMAGE  THOMAS,K    14CR 001323
+                                MOTION OFA RECALL              THOMAS,K    14CR 001323
+      23 HALL,SALAHUDDIN,BUKHAR DRIVING WHILE IMPAIRED         THOMAS,K    14CR 050664
+                                CIVIL REVOCATION DR LIC (30)   THOMAS,K    14CR 050664
+                                MOTION OFA RECALL              THOMAS,K    14CR 050664
+      24 HENDERSON,WILLIAM,DANI MISDEMEANOR LARCENY            MILLER,K,V  18CR 724831
+      25 HILL,DANNY,RAY,JR      POSSESS MARIJ PARAPHERNALIA    GRIFFITH,D  18CR 051295
+                                POSS MARIJ >1/2 TO 1 1/2 OZ    GRIFFITH,D  18CR 051295
+      26 HOOSIER,ZADA,NIHESIA   SPEEDING                084/55 THOMAS,K,M  18CR 710556
+1                             DISTRICT COURT CALENDAR                    PAGE:    2
+
+          COURT DATE: 10/10/18        TIME: 09:00 AM        COURTROOM NUMBER: 0001
+
+  NO. DEFENDANT NAME          OFFENSE                        COMPLAINANT FILE NUMBER
+  *************************************************************************************
+                                RECKLESS DRIVING TO ENDANGER   THOMAS,K,M  18CR 710556
+      27 HOOSIER,ZADA,NIHESIA   NO OPERATORS LICENSE           THOMAS,K,M  18CR 710557
+      28 HUNSUCKER,SHARON,MARIE SHOPLIFTING CONCEALMENT GOODS  RUSS,R,L,JR 18CR 719897
+      29 INGLE,RONALD,DAVID     FAIL TO STOP FOR STOPPED BUS   GRIFFITH,L, 17CR 732616
+      30 JONES,BAILEY,RAE       POSSESS MARIJUANA UP TO 1/2 OZ SIMON,S,T   18CR 708108
+                                POSSESS MARIJ PARAPHERNALIA    SIMON,S,T   18CR 708108
+      31 KILBRETH,KELLAN,JASON  NO OPERATORS LICENSE           GRIFFITH,L, 18CR 724252
+                                EXPIRED REGISTRATION CARD/TAG  GRIFFITH,L, 18CR 724252
+      32 KILBRETH,KELLAN,JASON  SPEEDING                066/35 GRIFFITH,L, 18CR 724253
+                                RECKLESS DRIVING TO ENDANGER   GRIFFITH,L, 18CR 724253
+  **  33 MAGADAN,ZACKRI,IVAN    DRIVING WHILE IMPAIRED         SAINTSING,M 18CR 053545
+                                DWLR IMPAIRED REV              SAINTSING,M 18CR 053545
+                                FAIL TO BURN HEADLAMPS         SAINTSING,M 18CR 053545
+  **  34 MAGADAN,ZACKRI,IVAN    RESISTING PUBLIC OFFICER       SAINTSING,M 18CR 053546
+      35 MASTERS,CARL,WALTER,JR POSSESS MARIJ PARAPHERNALIA    BRANHAM,L   18CR 055013
+                                POSSESS MARIJUANA UP TO 1/2 OZ BRANHAM,L   18CR 055013
+      36 MCDERMOTT,DANIEL,JAMES POSSESS DRUG PARAPHERNALIA     GRIFFITH,L, 18CR 720069
+                                SIMPLE POSSESS SCH VI CS (M)   GRIFFITH,L, 18CR 720069
+      37 MCDERMOTT,DANIEL,JAMES FAIL MAINTAIN LANE CONTROL     GRIFFITH,L, 18IF 709065
+      38 MCDOWELL,ZACHARY,RAY   SPEEDING                058/35 GRIFFITH,L, 18CR 710597
+                                RECKLESS DRIVING TO ENDANGER   GRIFFITH,L, 18CR 710597
+      39 MENDEZ,ROSENDO,VARRIGA POSSESS MARIJUANA UP TO 1/2 OZ BRANHAM,L,E 17CR 708777
+  **  40 NYE,MICHELINA,ANDREA   DRIVING WHILE IMPAIRED         THOMAS,K    18CR 055799
+      41 NYE,MICHELINA,ANDREA   DWLR NOT IMPAIRED REV          THOMAS,K,M  18CR 718508
+                                FAILURE TO REDUCE SPEED        THOMAS,K,M  18CR 718508
+      42 OSBORNE,ETHNEE,CAROLIN SPEEDING                051/35 GRIFFITH,L, 18CR 718517
+                                DWLR IMPAIRED REV              GRIFFITH,L, 18CR 718517
+      43 OSBORNE,ETHNEE,CAROLIN POSS/DISP ALT/FICT/REVD DR LIC GRIFFITH,L, 18CR 718518
+                                EXPIRED REGISTRATION CARD/TAG  GRIFFITH,L, 18CR 718518
+      44 OSBORNE,ETHNEE,CAROLIN EXPIRED/NO INSPECTION          GRIFFITH,L, 18IF 708381
+      45 OVERTON,NIEKO,DEVON,JO MISDEMEANOR LARCENY            MUNDAY,G,D  17CR 004276
+  **  46 PERDUE,AMANDA,TAYLOR   RECKLESS DRIVING TO ENDANGER   SIMON,S     17CR 061156
+  **  47 PERRETT,BRIAN,DEMORRIS POSSESS MARIJUANA UP TO 1/2 OZ HOULE,S,W   17CR 737208
+                                POSSESS MARIJ PARAPHERNALIA    HOULE,S,W   17CR 737208
+      48 PORTER,TIMOTHY,LEE     SPEEDING                049/35 GRIFFITH,L, 18CR 716288
+                                EXPIRED REGISTRATION CARD/TAG  GRIFFITH,L, 18CR 716288
+      49 PRATT,EVONNE,DOROTHY   MISDEMEANOR LARCENY            MILLER,K    18CR 051049
+                                MISDEMEANOR LARCENY            MILLER,K    18CR 051049
+      50 REYNOLDS,AARON,KYLE    POSSESS MARIJUANA UP TO 1/2 OZ BRANHAM,L,E 18CR 719622
+                                POSSESS MARIJ PARAPHERNALIA    BRANHAM,L,E 18CR 719622
+  **  51 RICE,JOSHUA,MATTHEW-SC POSSESS MARIJUANA UP TO 1/2 OZ GRIFFITH,D  18CR 053697
+                                POSSESS MARIJ PARAPHERNALIA    GRIFFITH,D  18CR 053697
+                                RESISTING PUBLIC OFFICER       GRIFFITH,D  18CR 053697
+      52 RICE,JOSHUA,MATTHEW-SC POSSESS MARIJUANA UP TO 1/2 OZ ANSEL,J,L   18CR 716904
+                                POSSESS MARIJ PARAPHERNALIA    ANSEL,J,L   18CR 716904
+      53 RICHARDSON,ANTWON,BERN ATT BREAK OR ENTER BLDG (M)    KEARNS,M    17CR 057390
+                                RESISTING PUBLIC OFFICER       KEARNS,M    17CR 057390
+      54 RIVERA,OMAR,ALEJANDRO  DRIVING WHILE IMPAIRED         THOMAS,K    18CR 055781
+                                DRIVE AFTER CONSUMING < 21     THOMAS,K    18CR 055781
+      55 RIVERA,OMAR,ALEJANDRO  FAIL MAINTAIN LANE CONTROL     THOMAS,K,M  18CR 718425
+                                CONSUME ALC BY 19/20           THOMAS,K,M  18CR 718425
+      56 RODRIGUEZ-MARTINEZ,STI SPEED COMPETITION              WEST,B      18CR 725654
+      57 RUNDE,JACOB,ALLEN      MISDEMEANOR LARCENY            FELDMAN,V   17CR 060504
+      58 SATTENFIELD,DENVER,RAY SHOPLIFTING CONCEALMENT GOODS  BRANHAM,L   18CR 055352
+      59 SHABAZZ,AL JIHAD,IBN   POSS/MANUFACTURE FRAUDULENT ID DAY,A       18CR 054608
+                                FALSE/FICTITOUS NAME/ADD APPLI DAY,A       18CR 054608
+      60 SHARMA,AMIT            NEGLECT TO SECURE WORKERS' COM STEPHENS,G, 18CR 725303
+1                             DISTRICT COURT CALENDAR                    PAGE:    3
+
+          COURT DATE: 10/10/18        TIME: 09:00 AM        COURTROOM NUMBER: 0001
+
+  NO. DEFENDANT NAME          OFFENSE                        COMPLAINANT FILE NUMBER
+  *************************************************************************************
+      61 SHEETS,CRISTY,MAE      NEGLECT TO SECURE WORKERS' COM STEPHENS,G, 18CR 725311
+      62 SHORE,CHRISTOPHER,SCOT SPEEDING                033/20 GRIFFITH,L, 18IF 707585
+                                FAIL TO WEAR SEAT BELT-DRIVER  GRIFFITH,L, 18IF 707585
+      63 SLATER,JOKARI,DEVAL    SPEEDING                033/20 GRIFFITH,L, 18IF 708375
+      64 SUMMERS,CORRY,TIONNE   DRIVING WHILE IMPAIRED         THOMAS,K    13CR 062148
+                                CIVIL REVOCATION DR LIC (30)   THOMAS,K    13CR 062148
+                                MOTION FOR RECALL              THOMAS,K    13CR 062148
+                                MOTION TO RECALL               THOMAS,K    13CR 062148
+                                MOTION FOR OFA RECALL          THOMAS,K    13CR 062148
+      65 SUMMERS,CORY,TIONNE    MISDEMEANOR CHILD ABUSE        THOMAS,K    13CR 016184
+                                MISDEMEANOR CHILD ABUSE        THOMAS,K    13CR 016184
+                                MOTION FOR RECALL              THOMAS,K    13CR 016184
+                                MOTION TO RECALL               THOMAS,K    13CR 016184
+      66 TORRES,PRISCILLA,GUADA SPEEDING                090/65 THOMAS,K,M  18CR 725679
+                                RECKLESS DRIVING TO ENDANGER   THOMAS,K,M  18CR 725679
+      67 TRANTHAM,WARREN,UNIQUE POSSESS MARIJUANA UP TO 1/2 OZ GRIFFITH,D  18CR 053652
+                                RESISTING PUBLIC OFFICER       GRIFFITH,D  18CR 053652
+                                RESISTING PUBLIC OFFICER       GRIFFITH,D  18CR 053652
+      68 TRANTHAM,WARREN,UNIQUE CARRYING CONCEALED WEAPON      GRIFFITH,D  18CR 053653
+      69 TUCKER,RUSSELL,LEE     SHOPLIFTING CONCEALMENT GOODS  ANSEL,J,L   17CR 737019
+      70 VALLEJO,ALEXANDER      SPEED COMPETITION              WEST,B      18CR 725653
+  **  71 WHITLEY,MICHAEL,DAVID  DWLR NOT IMPAIRED REV          BOTTOMS,S,H 16CR 709790
+                                POSSESS MARIJUANA UP TO 1/2 OZ BOTTOMS,S,H 16CR 709790
+      72 WILLIAMS,LARA,ASHLEY,H SPEEDING                058/45 GRIFFITH,L, 18CR 708946
+                                DWLR NOT IMPAIRED REV          GRIFFITH,L, 18CR 708946
+      73 WOLFORD,GARY,DEREK     FAIL TO WEAR SEAT BELT-DRIVER  GRIFFITH,L, 17CR 733083
+                                DWLR NOT IMPAIRED REV          GRIFFITH,L, 17CR 733083
+
+  * MISSING/INVALID CHECK DIGIT
+ ** DEFENDANT NEEDS TO BE FINGERPRINTED

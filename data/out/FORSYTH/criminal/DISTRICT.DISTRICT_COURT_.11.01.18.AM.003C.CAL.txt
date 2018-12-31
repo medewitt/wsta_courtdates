@@ -1,0 +1,154 @@
+
+  RUN DATE: 10/30/18                                                        PAGE   1
+                             IN THE GENERAL COURT OF JUSTICE
+  LOCATION: WINSTON-SALEM        DISTRICT COURT DIVISION       COUNTY OF FORSYTH
+
+          COURT DATE: 11/01/18        TIME: 09:00 AM        COURTROOM NUMBER: 003C
+
+                  DOMESTIC
+
+                     JUDGE PRESIDING :
+                     COURTROOM CLERK :
+                     PROSECUTOR      :
+                                     :
+                                     :
+                                     :
+                                     :
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+     1  18CR 056830 CANDELA-DAMIAN,NICHOL OSHIELDS,A     SFF ATTY:HINES,TERRENCE,
+                    BOND:      $1,000 UNS
+        (M)ASSAULT ON A FEMALE              PLEA:                VER:
+        CLS:A1 P:   L:      DOM VL: Y   JUDGMENT:
+
+
+
+
+     2  18CR 055871 DELACRUZ,RAMON        CRUZ -CISNEROS     P.D.:STEWART,LARAQUE   1
+                    BOND:      $4,000 UNS
+        (M)ASSAULT ON A FEMALE              PLEA:                VER:
+        CLS:A1 P:   L:      DOM VL: Y   JUDGMENT:
+
+
+
+
+     3  18CR 058519 FLORES,ALEXANDER      GUEST,J        WPD P.D.:MCCORMICK,CATHE   1
+                    BOND:      $1,500 SEC
+        (M)ASSAULT ON A FEMALE              PLEA:                VER:
+        CLS:A1 P:   L:      DOM VL: Y   JUDGMENT:
+
+
+
+
+        (M)INTERFERE EMERG COMMUNICATION    PLEA:                VER:
+        CLS:A1 P:   L:                  JUDGMENT:
+
+
+
+
+     4  18CR 052117 OLDHAM,JONATHAN,DILLO STRICKLAND,JUR     ATTY:WAIVED
+                    BOND:      $3,000 UNS
+        (M)MISDEMEANOR BREAKING AND ENTER   PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    2
+
+          COURT DATE: 11/01/18        TIME: 09:00 AM        COURTROOM NUMBER: 003C
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (M)MISDEMEANOR LARCENY              PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+
+
+     5  18CR 052118 OLDHAM,JONATHAN,DILLO STRICKLAND,SUE     ATTY:WAIVED
+                    BOND:          $1 UNS
+        (M)ASSAULT WITH A DEADLY WEAPON     PLEA:                VER:
+        CLS:A1 P:   L:                  JUDGMENT:
+
+
+
+
+     6  17CR 053087 ROBINSON,RAYMON,CLARE MCCLOUD,MELMIL     APT.:HINES,TERRENCE,   3
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:             CUS
+        (M)SIMPLE ASSAULT                   PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+
+
+        (M)SIMPLE ASSAULT                   PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+
+
+     7  18CR 057228 SEWELL,ERIC,WILLIAM   SEWELL,JAMES,L     APT.:HESTER,WILLIAM,   1
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:             WPA
+        (M)UNAUTHORIZED USE OF MOTOR VEH    PLEA:                VER:
+        CLS:1  P:   L:      DOM VL: Y   JUDGMENT:
+
+
+
+
+     8  18CR 059196 SILVARREY,JOSE,FELIX  SILVARREY,JOSE
+        (M)ASSAULT WITH A DEADLY WEAPON     PLEA:                VER:
+        CLS:A1 P:   L:                  JUDGMENT:
+
+
+
+
+     9  18CR 057796 WEST,KELLI,ROBERTSON  GRUBB,A        SFF ATTY:TISDALE,KEN       1
+                    BOND:      $1,500 UNS
+        (M)SIMPLE ASSAULT                   PLEA:                VER:
+        CLS:2  P:   L:      DOM VL: Y   JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    3
+
+          COURT DATE: 11/01/18        TIME: 09:00 AM        COURTROOM NUMBER: 003C
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    10  18CR 051304 WILLIAMS,JASMINE,IMON WILLIAMS,LORI,     ATTY:LOGAN,DANIEL,N    1
+        (M)UNAUTHORIZED USE OF MOTOR VEH    PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+1 RUN DATE: 10/30/18                                                        PAGE   1
+                             IN THE GENERAL COURT OF JUSTICE
+  LOCATION: WINSTON-SALEM        DISTRICT COURT DIVISION       COUNTY OF FORSYTH
+
+          COURT DATE: 11/01/18        TIME: 09:00 AM        COURTROOM NUMBER: 003C
+
+                  DOMESTIC
+
+                     JUDGE PRESIDING :
+                     COURTROOM CLERK :
+                     PROSECUTOR      :
+                                     :
+                                     :
+                                     :
+                                     :
+
+  NO. DEFENDANT NAME          OFFENSE                        COMPLAINANT FILE NUMBER
+  *************************************************************************************
+       1 CANDELA-DAMIAN,NICHOLA ASSAULT ON A FEMALE            OSHIELDS,A  18CR 056830
+       2 DELACRUZ,RAMON         ASSAULT ON A FEMALE            CRUZ -CISNE 18CR 055871
+       3 FLORES,ALEXANDER       ASSAULT ON A FEMALE            GUEST,J     18CR 058519
+                                INTERFERE EMERG COMMUNICATION  GUEST,J     18CR 058519
+       4 OLDHAM,JONATHAN,DILLON MISDEMEANOR BREAKING AND ENTER STRICKLAND, 18CR 052117
+                                MISDEMEANOR LARCENY            STRICKLAND, 18CR 052117
+       5 OLDHAM,JONATHAN,DILLON ASSAULT WITH A DEADLY WEAPON   STRICKLAND, 18CR 052118
+  **   6 ROBINSON,RAYMON,CLAREN SIMPLE ASSAULT                 MCCLOUD,MEL 17CR 053087
+                                SIMPLE ASSAULT                 MCCLOUD,MEL 17CR 053087
+  **   7 SEWELL,ERIC,WILLIAM    UNAUTHORIZED USE OF MOTOR VEH  SEWELL,JAME 18CR 057228
+       8 SILVARREY,JOSE,FELIX   ASSAULT WITH A DEADLY WEAPON   SILVARREY,J 18CR 059196
+       9 WEST,KELLI,ROBERTSON   SIMPLE ASSAULT                 GRUBB,A     18CR 057796
+      10 WILLIAMS,JASMINE,IMON  UNAUTHORIZED USE OF MOTOR VEH  WILLIAMS,LO 18CR 051304
+
+  * MISSING/INVALID CHECK DIGIT
+ ** DEFENDANT NEEDS TO BE FINGERPRINTED

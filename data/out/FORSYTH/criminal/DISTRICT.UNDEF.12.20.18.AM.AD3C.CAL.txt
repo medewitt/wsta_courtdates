@@ -1,0 +1,61 @@
+
+  RUN DATE: 12/20/18                                                        PAGE   1
+                             IN THE GENERAL COURT OF JUSTICE
+  LOCATION: WINSTON-SALEM        DISTRICT COURT DIVISION       COUNTY OF FORSYTH
+
+          COURT DATE: 12/20/18        TIME: 09:00 AM        COURTROOM NUMBER: AD3C
+
+                  DOMESTIC ADD ON
+
+                     JUDGE PRESIDING :
+                     COURTROOM CLERK :
+                     PROSECUTOR      :
+                                     :
+                                     :
+                                     :
+                                     :
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+     1  18CR 059882 CANDELA-SORROSA,LAURO MINTZ,J        WPD P.D.:STEWART,LARAQUE
+                   SPANISH
+                    BOND:      $1,500 SEC  OFA: Y
+        (M)BREAKING OR ENTERING (M)         PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+
+
+        (M)SECOND DEGREE TRESPASS           PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+
+
+        (M)MOTION FOR RECALL                PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+1 RUN DATE: 12/20/18                                                        PAGE   1
+                             IN THE GENERAL COURT OF JUSTICE
+  LOCATION: WINSTON-SALEM        DISTRICT COURT DIVISION       COUNTY OF FORSYTH
+
+          COURT DATE: 12/20/18        TIME: 09:00 AM        COURTROOM NUMBER: AD3C
+
+                  DOMESTIC ADD ON
+
+                     JUDGE PRESIDING :
+                     COURTROOM CLERK :
+                     PROSECUTOR      :
+                                     :
+                                     :
+                                     :
+                                     :
+
+  NO. DEFENDANT NAME          OFFENSE                        COMPLAINANT FILE NUMBER
+  *************************************************************************************
+ SPA   1 CANDELA-SORROSA,LAURO, BREAKING OR ENTERING (M)       MINTZ,J     18CR 059882
+                                SECOND DEGREE TRESPASS         MINTZ,J     18CR 059882
+                                MOTION FOR RECALL              MINTZ,J     18CR 059882
+
+  * MISSING/INVALID CHECK DIGIT
+ ** DEFENDANT NEEDS TO BE FINGERPRINTED
