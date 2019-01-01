@@ -43,7 +43,8 @@ map(zipped_files, unzip, exdir = "data/out")
 
 # Read them
 
-files <- list.files("data/out/FORSYTH/CRIMINAL", full.names = T, pattern = ".txt")
+files <- list.files("data/out/FORSYTH/CRIMINAL", 
+                    full.names = T, pattern = ".txt")
 a <- ""
 for(i in seq_along(files)){
   a <- concatenate(a, read_lines(file = files[[i]]))
@@ -148,39 +149,16 @@ complete_data <- total_summary %>%
   tidyr::fill(plaint_attorney, .direction = "down") %>% 
   tidyr::fill(charge, .direction = "up") %>% 
   filter(!is.na(charge), !is.na(class))
-head(complete_data)
+
+
+
 case_small <- complete_data %>% 
-  filter(grepl(case_num , pattern =  "18CR")) %>% 
   mutate(case = str_remove_all(case_num, " ")) %>% 
   mutate(case = str_remove_all(case, "CR"),
          case = as.integer(case)) %>% 
   unique()
 
-
-
-# bring in crime data -----------------------------------------------------
-
-data <- read_rds("data/crime_data_for_app.RDS")
-
-case_small %>% 
-  left_join(data, by = "case") %>% 
-  filter(!is.na(month))-> out
-glimpse(case_small)
-
-# Quick analysis
-
-out %>% 
-  count(case) %>% 
-  ggplot(aes(n))+
-  geom_histogram()
-
-out %>% 
-  count(call_type, case) %>% 
-  group_by(call_type) %>% 
-  summarise(avg_call = mean(n))->test
-  ggplot(aes(call_type, n))+
-  geom_boxplot()
-
 # save --------------------------------------------------------------------
 
+write_csv(case_small, here("outputs", "cleaned_court_information.csv"))
 
