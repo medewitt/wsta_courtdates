@@ -20,7 +20,7 @@ court_data %>%
 
 # Separate First Name and Last Name
 out <- out %>% 
-  separate(defendant_name, sep = ",", into = c("last", "first", "middle"))
+  separate(defendant_name, sep = ",", into = c("last", "first", "middle", "other"))
 
 # Bring in Voter Roll Data
 voter_roll <- data.table::fread(here("data", "ncvoter34.txt"), nrows = 1e6)
@@ -30,23 +30,49 @@ voter_roll_join <- voter_roll %>%
   select(first_name, last_name, middle_name, 
          voter_reg_num,birth_year,
          race_code:birth_age, 
-         drivers_lic)
+         drivers_lic) %>% 
+  unique()
 
 # See what Join
 me <- out %>% 
-  left_join(voter_roll_join, by = c("last" = "last_name", "first" = "first_name",
-                                    "middle" = "middle_name")) %>% 
+  left_join(voter_roll_join, by = c("last" = "last_name", 
+                                    "first" = "first_name",
+                                    "middle" = "middle_name"
+                                    )) %>% 
   unique() %>% 
   filter(!is.na(birth_year))
 
 
 # analysis ----------------------------------------------------------------
 
-
 # Quick analysis
 
 me %>% 
-  count(party_cd)
+  count(Ward, party_cd) %>% 
+  group_by(Ward) %>% 
+  mutate(perc = n/sum(n)) %>% 
+  select(-n) %>% 
+  spread(party_cd, perc)
+
+# Ward and Race
+me %>% 
+  count(Ward, race_code, case_num) %>% 
+  group_by(Ward, race_code) %>% 
+  summarise(avg = mean(n),
+            n = n()) %>%
+  mutate_if(is.numeric, round, 2) %>% 
+  unite(col = together, -Ward, -race_code, sep = " n=") %>% 
+  spread(race_code, together)
+
+# Ward and Gender
+me %>% 
+  count(Ward, gender_code, case_num) %>% 
+  group_by(Ward, gender_code) %>% 
+  summarise(avg = mean(n),
+            n = n()) %>%
+  mutate_if(is.numeric, round, 2) %>% 
+  unite(col = together, -Ward, -gender_code, sep = " n=") %>% 
+  spread(gender_code, together)
 
 out %>% 
   count(Ward, case) %>%
